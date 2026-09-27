@@ -280,7 +280,7 @@ CONTEXT_KEYWORDS_VI = {
     "technology": r"máy tính|phần mềm|internet|điện thoại|kỹ thuật số|công nghệ|thiết bị điện tử|robot|pin|ắc quy",
     "programming": r"chương trình máy tính|mã nguồn|thuật toán|lập trình",
     "food": r"món ăn|món|nấu|bữa|trái cây|quả|rau|thịt|bánh|thức uống|nhà hàng|cà phê|ăn|uống|gia vị|phô mai|cá|tôm",
-    "travel": r"du lịch|chuyến đi|hành trình|chuyến bay|khách du lịch|khách sạn|điểm đến|hộ chiếu|ký gửi|phiếu|toà nhà",
+    "travel": r"du lịch|chuyến đi|hành trình|chuyến bay|khách du lịch|khách sạn|điểm destina|điểm",
     "transportation": r"xe hơi|ô tô|lái xe|xe buýt|tàu hoả|máy bay|giao thông|đường|tàu|xe|thuyền|du thuyền|hàng không",
     "family": r"gia đình|bố|mẹ|cha|con|anh|chị|em|ông|bà|cậu|dì|chú|bác|cháu|cháu gái|con trai|con gái|người yêu|hôn nhân|vợ|chồng|bố mẹ",
     "relationships": r"bạn bè|mối quan hệ|tình yêu|kết hôn|đối tác|cặp đôi|hẹn hò|duyên|tình bạn",
@@ -300,25 +300,145 @@ CONTEXT_KEYWORDS_VI = {
     "music": r"âm nhạc|bài hát|nhạc cụ|ban nhạc|ca sĩ|buổi hoà nhạc",
 }
 
+def _boundary_patterns(patterns):
+    """Transformă liste de cuvînțe in-regex într-ul un regex cu word-boundaries.
 
-def derive_contexts(en_definition, meaning_vi=None):
-    """Suy ngữ cảnh từ định nghĩa EN (nếu có) và chủ yếu từ nghĩa tiếng Việt."""
-    text_en = (en_definition or "").lower()
-    text_vi = unicodedata.normalize("NFC", (meaning_vi or "")).lower()
-    hits = []
-    for name, pat in CONTEXT_KEYWORDS.items():
-        if re.search(pat, text_en):
-            hits.append(name)
-    for name, pat in CONTEXT_KEYWORDS_VI.items():
-        if re.search(pat, text_vi):
-            hits.append(name)
-    # dedupe, giữ thứ tự
-    seen, out = set(), []
-    for h in hits:
-        if h not in seen:
-            seen.add(h)
-            out.append(h)
-    return out[:4] or ["general"]
+    Necesitel dĕ căûtă tinđranțe substring-uri scurte:
+      - 'ăn' gàsește în 'khănăng', 'còn' în 'công', 'em' în 'thêm',
+      - 'bà' în 'bàn', 'an' în 'nhạ đàn'.
+    Cu \b...\b cojí din a și pot été literal whălt stă independent.
+    """
+    alts = []
+    for p in patterns:
+        for tok in p.split("|"):
+            tok = tok.strip()
+            if not tok:
+                continue
+            esc = re.escape(tok)
+            if " " in tok:
+                alts.append(r"(?:\b)" + esc + r"(?:\b)")
+            else:
+                alts.append(r"\b" + esc + r"\b")
+    return r"(?:" + "|".join(alts) + r")"
+
+CONTEXT_KEYWORDS_VI_PAT = {
+    name: re.compile(_boundary_patterns(pat))
+    for name, pat in CONTEXT_KEYWORDS_VI.items()
+}
+
+CONTEXT_KEYWORDS_EN_PAT = {
+    name: re.compile(_boundary_patterns(pat))
+    for name, pat in CONTEXT_KEYWORDS.items()
+}
+
+
+# ---------------------------------------------------------------- curated contexts
+# Gán context label theo TỪ (curated-per-word) cho các từ RÕ RÀNG thuộc 1-2 lĩnh vực.
+# KHÔNG tự suy từ nghĩa tiếng Việt vì Tiếng Việt đa nghĩa (vd 'ô' trong 'ô tô/ô danh',
+# 'ế' trong 'ế ẩm', 'e' trong 'e rằng') -> sai nghĩa nghiêm trọng (spec §7/§17/§21/§23).
+# Từ không có mapping (trừu tượng, đa nghĩa, hàm từ) -> general.
+CONTEXT_BY_WORD = {}
+
+def add_ctx(context, words):
+    for w in words:
+        CONTEXT_BY_WORD.setdefault(w.strip().lower(), []).append(context)
+
+add_ctx("food",
+    "apple banana bean beef bread breakfast cake candy carrot cereal cheese cheese "
+    "chicken chocolate coffee cookie corn cream dessert diet dinner dish drink "
+    "egg fish flour fruit garlic grain honey ice-cream jam juice kitchen lemon lunch "
+    "meal meat menu milk mushroom nut oil onion orange pepper pie pizza potato "
+    "recipe restaurant rice salad salt sandwich sauce snack soup spice steak sugar "
+    "tea tomato vegetable water wine cook bake boil fry eat drink dinner lunch breakfast"
+add_ctx("family",
+    "aunt baby brother child cousin dad family father grandfather grandmother "
+    "grandparent husband kid mother parent sister son uncle wife married marry marriage wedding"
+add_ctx("relationships",
+    "friend friendship date boyfriend girlfriend marriage married marry love "
+    "couple partner relationship romance wedding divorce"
+add_ctx("work",
+    "ambition boss career colleague company employee employer job manager "
+    "meeting office profession retire salary staff worker colleague profession recruit"
+add_ctx("education",
+    "class classroom college education exam graduate homework lecture library "
+    "lesson learn professor school student study teach teacher test tutor "
+    "university degree subject campus assignment"
+add_ctx("health",
+    "body bone brain blood breathe chest disease doctor fever health hospital "
+    "ill illness infection knee medicine medical muscle nurse pain patient "
+    "sick surgery symptom therapy tooth treatment virus"
+add_ctx("finance",
+    "account bank budget cash coin cost credit debt dollar economy expense "
+    "fee finance income insurance invest investment loan money pay payment "
+    "price profit salary save saving share tax wage wealthy wealth currency"
+add_ctx("business",
+    "advertise advertisement advertising brand business company competition "
+    "competitor customer deal employ employee employer hire manager market "
+    "marketing profit product sale sell share trade"
+add_ctx("government",
+    "congress election government minister policy political politician "
+    "president senator state vote mayor nation national citizen campaign"
+add_ctx("law",
+    "arrest attorney crime criminal court judge jury law legal "
+    "lawyer police prison illegal guilty innocent witness evidence suspect punishment"
+add_ctx("transportation",
+    "airport bicycle bike boat bus car driver elevator flight fly highway "
+    "fuel journey plane railroad road ship station subway ticket "
+    "traffic train transport transportation travel trip truck van vehicle passenger"
+add_ctx("sports",
+    "athlete ball baseball basketball exercise fitness football golf hockey "
+    "match player race run runner soccer sport swimming team tennis"
+add_ctx("time",
+    "century century date day decade evening hour minute month morning night "
+    "o'clock schedule second week weekend year today tomorrow yesterday time "
+    "December January February March April May June July August September "
+    "October November Monday Tuesday Wednesday Thursday Friday Saturday Sunday agent agreement date"
+add_ctx("weather",
+    "climate cloud flood fog freeze frost hurricane ice rain snow storm "
+    "sun sunshine temperature thunder tornado weather wind cold hot warm lightning"
+add_ctx("nature",
+    "animal beach bird coast earth field flower forest grass hill island lake "
+    "land landscape mountain ocean plant river rock sand sea sky soil star sun "
+    "tree valley wave wood stone wildlife leaf river lake"
+add_ctx("emotions",
+    "angry annoyed anxious ashamed bored excited fear frightened frightened "
+    "frightening happy hate hope joy love nervous proud sad lonely mad "
+    "disappointed emotional mood pleasure relaxed shock surprised tear"
+add_ctx("communication",
+    "communicate conversation discuss email information interview language "
+    "letter message phone read response say speak speech talk tell text "
+    "translate write headline internet communicate discuss"
+add_ctx("technology",
+    "app battery computer digital email keyboard laptop machine online "
+    "screen software video website data computer technology"
+add_ctx("programming",
+    "algorithm code data database software program function"
+add_ctx("art",
+    "art artist artistic concert dance design drama film gallery magazine "
+    "literature music instrument novel painting performance poem poet poetry "
+    "portrait sculpture song theater"
+add_ctx("music",
+    "album band concert guitar musician piano singer song"
+add_ctx("travel",
+    "accommodation adventure destination hotel journey passport reception "
+    "resort tour tourism tourist travel trip vacation"
+add_ctx("environment",
+    "climate carbon energy pollution recycle environment renewable solar"
+add_ctx("industry",
+    "factory manufacture production steel construction mining engineer "
+    "engineering industrial"
+add_ctx("economy",
+    "economy economic employment inflation interest rate stock tax invest "
+    "market trade export import industry"
+add_ctx("science",
+    "analysis biology chemical experiment genetic laboratory medicine "
+    "physics research science scientist species theory"
+add_ctx("mining",
+    "coal mine mineral mining iron gold silver metal"
+
+def derive_contexts(word):
+    """Trả context theo mapping curated-per-word; từ không rõ -> general."""
+    return CONTEXT_BY_WORD.get(word.lower(), ["general"])
 
 CURATED_WORDS = {
     # 28 từ KHÔNG tồn tại trong dictionary.db (cả chính tả gốc, biến thể y<->i,
@@ -519,7 +639,7 @@ def build():
                         (new_wid, s["pos"], s["meaning_vi"]))
             sense_id = cur.lastrowid
             report["senses"] += 1
-            for cname in derive_contexts(s["en_definition"], s["meaning_vi"]):
+            for cname in derive_contexts(word):
                 cur.execute(
                     "INSERT OR IGNORE INTO sense_contexts(sense_id, context_id)"
                     " VALUES (?,?)", (sense_id, get_context_id(cname)))
