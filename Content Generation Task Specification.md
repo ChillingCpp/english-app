@@ -206,6 +206,7 @@ science
 industry
 mining
 economy
+...
 ```
 
 Context labels should describe the situation in which the sense is commonly used.
