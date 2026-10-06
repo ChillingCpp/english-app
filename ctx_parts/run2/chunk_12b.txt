@@ -1,0 +1,237 @@
+package	1	business, transportation
+package	2	industry, business
+package	3	media, business
+package	4	daily life, informal
+package	5	shopping, industry
+package	6	design, industry
+package	7	technology, engineering
+page	1	literature, education
+page	2	literature, formal
+page	3	history, formal
+page	4	work, leisure
+page	5	work, daily life
+page	6	work, daily life
+pain	1	health, feelings
+pain	2	health, family
+pain	3	work, general
+pain	4	law, crime
+pain	5	health, feelings
+pain	6	health, body
+painful	1	health, feelings
+painful	2	work, education
+paint	1	construction, industry
+paint	2	arts, design
+paint	3	appearance, daily life
+paint	4	construction, home
+paint	5	arts, literature
+paint	6	appearance, daily life
+paint	7	arts, hobby
+paint	8	appearance, daily life
+painter	1	arts, construction
+painter	2	transportation, engineering
+painting	1	general, arts
+painting	2	construction, industry
+painting	3	arts, hobby
+painting	4	arts, design
+pair	1	daily life, shopping
+pair	2	marriage, animals
+pair	3	daily life, shopping
+pair	4	politics, government
+pair	5	relationships, social
+pair	6	relationships, marriage
+pair	7	relationships, animals
+pair	8	relationships, marriage
+palace	1	history, tourism
+palace	2	religion, government
+palace	3	restaurant, leisure
+pale	1	construction, farming
+pale	2	health, appearance
+pale	3	health, body
+pale	4	general, daily life
+pale	5	health, appearance
+pale	6	appearance, daily life
+pan	1	cooking, home
+pan	2	cooking, food
+pan	3	cooking, home
+pan	4	cooking, daily life
+pan	5	home, daily life
+pan	6	mining, industry
+pan	7	geography, nature
+pan	8	media, formal
+pan	9	food, daily life
+pan	10	culture, daily life
+pan	11	culture, daily life
+pan	12	health, home
+pan	13	home, daily life
+pan	14	body, informal
+pan	15	construction, design
+pan	16	science, industry
+pan	17	military, history
+pan	18	body, medicine
+pan	19	engineering, construction
+pan	20	farming, environment
+pan	21	general, formal
+pan	22	military, construction
+pan	23	arts, industry
+pan	24	money, shopping
+pan	25	industry, mining
+pan	26	mining, industry
+pan	27	media, social
+pan	28	sports, competition
+pan	29	photography, technology
+pan	30	mining, economy
+pan	31	general, informal
+pan	32	technology, engineering
+pan	33	music, technology
+pan	34	relationships, informal
+pan	35	rural, informal
+panel	1	construction, design
+panel	2	media, teamwork
+panel	3	technology, programming
+panel	4	engineering, industry
+pants	1	general, clothing
+pants	2	clothing, daily life
+pants	3	clothing, daily life
+paper	1	daily life, education
+paper	2	formal, business
+paper	3	media, communication
+paper	4	finance, business
+paper	5	shopping, daily life
+paper	6	entertainment, leisure
+paper	7	education, formal
+paper	8	education, literature
+paper	9	home, design
+paper	10	shopping, daily life
+paper	11	business, formal
+paper	12	entertainment, leisure
+paragraph	1	education, literature
+paragraph	2	education, literature
+paragraph	3	media, communication
+paragraph	4	literature, formal
+paragraph	5	media, work
+parent	1	family, relationships
+parent	2	family, history
+parent	3	science, history
+parent	4	family, health
+park	1	leisure, nature
+park	2	nature, rural
+park	3	transportation, safety
+park	4	urban, environment
+park	5	military, safety
+park	6	transportation, urban
+parking	1	transportation, daily life
+parking	2	transportation, urban
+part	1	general, literature
+part	2	body, health
+part	3	work, management
+part	4	arts, entertainment
+part	5	geography, general
+part	6	politics, general
+part	7	politics, social
+part	8	personality, success
+part	9	education, general
+part	10	general, daily life
+part	11	management, teamwork
+part	12	general, engineering
+part	13	relationships, feelings
+part	14	informal, feelings
+part	15	relationships, general
+part	16	general, education
+participant	1	teamwork, competition
+participant	2	social, teamwork
+participate	1	teamwork, social
+participate	2	general, formal
+particular	1	general, formal
+particular	2	formal, work
+particular	3	personality, formal
+particular	4	personality, social
+particular	5	general, education
+particular	6	formal, general
+particular	7	media, formal
+particularly	1	general, formal
+particularly	2	formal, work
+particularly	3	personality, formal
+particularly	4	personality, social
+particularly	5	general, education
+particularly	6	formal, general
+particularly	7	media, formal
+partly	1	general, literature
+partly	2	body, health
+partly	3	work, management
+partly	4	arts, entertainment
+partly	5	geography, general
+partly	6	politics, general
+partly	7	politics, social
+partly	8	personality, success
+partly	9	education, general
+partly	10	general, daily life
+partly	11	management, teamwork
+partly	12	general, engineering
+partly	13	relationships, feelings
+partly	14	informal, feelings
+partly	15	relationships, general
+partly	16	general, education
+partner	1	business, management
+partner	2	formal, business
+partner	3	leisure, competition
+partner	4	arts, social
+partner	5	marriage, relationships
+partner	6	transportation, engineering
+partner	7	business, finance
+partner	8	teamwork, competition
+partner	9	business, teamwork
+party	1	general, literature
+party	2	body, health
+party	3	work, management
+party	4	arts, entertainment
+party	5	geography, general
+party	6	politics, general
+party	7	politics, social
+party	8	personality, success
+party	9	education, general
+party	10	general, daily life
+party	11	management, teamwork
+party	12	general, engineering
+party	13	relationships, feelings
+party	14	informal, feelings
+party	15	relationships, general
+party	16	general, education
+party	17	social, politics, holiday
+pass	1	travel, daily life
+pass	2	general, time
+pass	3	general, daily life
+pass	4	general, time
+pass	5	time, feelings
+pass	6	time, general
+pass	7	law, government
+pass	8	education, success
+pass	9	general, formal
+pass	10	general, informal
+pass	11	general, informal
+pass	12	leisure, competition
+pass	13	law, crime
+pass	14	law, crime
+pass	15	money, finance
+pass	16	sports, competition
+pass	17	health, body
+pass	18	travel, sports
+pass	19	general, economy
+pass	20	law, government
+pass	21	education, success
+pass	22	work, formal
+pass	23	general, daily life
+pass	24	sports, teamwork
+pass	25	crime, money
+pass	26	law, formal
+pass	27	formal, social
+pass	28	education, success
+pass	29	feelings, general
+pass	30	travel, formal
+pass	31	sports, competition
+pass	32	leisure, crime
+pass	33	psychology, medicine
+pass	34	geography, travel
+pass	35	geography, military
+pass	36	geography, transportation
+pass	37	farming, nature
+pass	38	industry, engineering

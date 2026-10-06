@@ -1,0 +1,4254 @@
+{
+ "batch": 48,
+ "words": [
+  {
+   "word": "dime",
+   "pronunciation": "/daɪm/",
+   "cefr": "B2",
+   "part_of_speech": [
+    "N"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Một hào.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "money"
+     ]
+    },
+    {
+     "meaning_vi": "tiền.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "money"
+     ]
+    },
+    {
+     "meaning_vi": "Mười đô la.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "money"
+     ]
+    },
+    {
+     "meaning_vi": "Một ngàn đô la.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "money"
+     ]
+    },
+    {
+     "meaning_vi": "Rẻ tiền.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "money",
+      "shopping"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "dimension",
+   "pronunciation": "/də.ˈmɛnt.ʃən/",
+   "cefr": "C1",
+   "part_of_speech": [
+    "N",
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Chiều, kích thước, khổ, cỡ, số chiều.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "engineering",
+      "science",
+      "mathematics"
+     ]
+    },
+    {
+     "meaning_vi": "Thứ nguyên (của một đại lượng).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "science",
+      "mathematics",
+      "physics"
+     ]
+    },
+    {
+     "meaning_vi": "Định kích thước, đo kích thước (một vật gì).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "engineering",
+      "design"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "diminish",
+   "pronunciation": "/də.ˈmɪ.nɪʃ/",
+   "cefr": "C1",
+   "part_of_speech": [
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Bớt, giảm, hạ bớt, giảm bớt; thu nhỏ.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "dip",
+   "pronunciation": "/ˈdɪp/",
+   "cefr": "C1",
+   "part_of_speech": [
+    "N",
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Sự nhúng, sự ngâm vào, sự dìm xuống (nước...).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "daily life"
+     ]
+    },
+    {
+     "meaning_vi": "Sự đầm mình, sự tắm (ở biển).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "leisure",
+      "travel",
+      "sports"
+     ]
+    },
+    {
+     "meaning_vi": "Nước chấm.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "food",
+      "cooking"
+     ]
+    },
+    {
+     "meaning_vi": "Lượng đong (gạo... vào đấu), lượng mức (nước... vào gàu).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "cooking",
+      "daily life",
+      "food"
+     ]
+    },
+    {
+     "meaning_vi": "Mức chìm, ngấn nước (tàu, thuyền...).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "transportation"
+     ]
+    },
+    {
+     "meaning_vi": "Nước tắm (cho cừu); nước ngâm (ngâm kim loại để tẩy sạch mà mạ vàng...).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "farming",
+      "industry"
+     ]
+    },
+    {
+     "meaning_vi": "Cây nến (mỡ bò, mỡ cừu...).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "daily life",
+      "home"
+     ]
+    },
+    {
+     "meaning_vi": "Chỗ trũng, chỗ lún xuống.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "geography",
+      "nature"
+     ]
+    },
+    {
+     "meaning_vi": "Độ nghiêng (kim la bàn); độ dốc, chiều dốc (của vỉa mô); đường võng chân trời.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "engineering",
+      "geography"
+     ]
+    },
+    {
+     "meaning_vi": "Thế nhún ngang xà (đánh xà kép).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "sports"
+     ]
+    },
+    {
+     "meaning_vi": "Kẻ móc túi.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "crime"
+     ]
+    },
+    {
+     "meaning_vi": "Nhúng, ngâm, nhận chìm, dìm xuống.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "daily life"
+     ]
+    },
+    {
+     "meaning_vi": "Ngâm để đánh sạch (kim loại), nhúng vào để nhuộm (quần áo...); nhúng bấc vào mở nóng để làm (nến); tắm cho (cừu...) bằng nước diệt trùng...",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "industry",
+      "farming"
+     ]
+    },
+    {
+     "meaning_vi": "Chấm (thức ăn).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "food",
+      "cooking",
+      "restaurant"
+     ]
+    },
+    {
+     "meaning_vi": "Múc nước vào gàu; đong (gạo... vào đấu).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "daily life",
+      "farming",
+      "cooking"
+     ]
+    },
+    {
+     "meaning_vi": "Hạ xuống một thoáng, hạ xuống xong bị kéo ngay lên.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "military"
+     ]
+    },
+    {
+     "meaning_vi": "Nhúng, ngâm, nhận, dìm (trong nước...).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "daily life",
+      "leisure"
+     ]
+    },
+    {
+     "meaning_vi": "Hạ, ngụp, hụp, lặn, chìm xuống (mặt trời...); nghiêng đi (cán cân...), nhào xuống (chim, máy bay...).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "nature",
+      "transportation"
+     ]
+    },
+    {
+     "meaning_vi": "Mắc nợ.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "finance",
+      "money"
+     ]
+    },
+    {
+     "meaning_vi": "Nghiêng đi, dốc xuống.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "geography",
+      "general"
+     ]
+    },
+    {
+     "meaning_vi": "Cho tay vào, cho thìa vào (để lấy, múc cái gì ra).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "cooking",
+      "daily life"
+     ]
+    },
+    {
+     "meaning_vi": "Xem lướt qua",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "education",
+      "media"
+     ]
+    },
+    {
+     "meaning_vi": "Điều tra, tìm tòi, tìm hiểu.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "education",
+      "crime"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "diplomat",
+   "pronunciation": "/ˈdɪ.plə.ˌmæt/",
+   "cefr": "C1",
+   "part_of_speech": [
+    "N"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Nhà ngoại giao.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "politics",
+      "government"
+     ]
+    },
+    {
+     "meaning_vi": "Người khéo giao thiệp; người có tài ngoại giao.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "social",
+      "work"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "diplomatic",
+   "pronunciation": "/ˌdɪ.plə.ˈmæ.tɪk/",
+   "cefr": "C1",
+   "part_of_speech": [
+    "A"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Ngoại giao.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "politics",
+      "government"
+     ]
+    },
+    {
+     "meaning_vi": "Có tài ngoại giao; có tính chất ngoại giao.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "social",
+      "politics"
+     ]
+    },
+    {
+     "meaning_vi": "Văn kiện chính thức; (thuộc) văn thư công.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "government",
+      "law",
+      "formal"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "directory",
+   "pronunciation": "/də.ˈrɛk.tə.ri/",
+   "cefr": "C1",
+   "part_of_speech": [
+    "A",
+    "N"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Chỉ bảo, chỉ dẫn, hướng dẫn, huấn thị.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "formal"
+     ]
+    },
+    {
+     "meaning_vi": "Sách chỉ dẫn, sách hướng dẫn.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "education",
+      "general",
+      "travel"
+     ]
+    },
+    {
+     "meaning_vi": "Số hộ khẩu (trong một vùng).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "government"
+     ]
+    },
+    {
+     "meaning_vi": "(sử học) Hội đồng Đốc chính (thời cách mạng Pháp gồm 5 uỷ viên, từ 1795 đến 1799).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "history",
+      "politics"
+     ]
+    },
+    {
+     "meaning_vi": "Ban giám đốc.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "business",
+      "management"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "disability",
+   "pronunciation": "/ˌdɪ.sə.ˈbɪ.lə.ti/",
+   "cefr": "B2",
+   "part_of_speech": [
+    "N"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Sự bất tài, sự bất lực.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "health"
+     ]
+    },
+    {
+     "meaning_vi": "Sự ốm yếu tàn tật.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "health",
+      "medicine"
+     ]
+    },
+    {
+     "meaning_vi": "Sự không đủ tư cách (trước pháp luật).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "law"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "disabled",
+   "pronunciation": "/dɪs.ˈeɪ.bəld/",
+   "cefr": "B2",
+   "part_of_speech": [
+    "N",
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Quá khứ và phân từ quá khứ của disable",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general"
+     ]
+    },
+    {
+     "meaning_vi": "Người tàn tật.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "health"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "disagreement",
+   "pronunciation": "/ˌdɪ.sə.ˈɡri.mənt/",
+   "cefr": "B2",
+   "part_of_speech": [
+    "N"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Sự khác nhau, sự không giống nhau.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "general"
+     ]
+    },
+    {
+     "meaning_vi": "Sự không hợp, sự không thích hợp.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "general"
+     ]
+    },
+    {
+     "meaning_vi": "Sự bất đồng, sự không đồng ý kiến.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "social",
+      "general"
+     ]
+    },
+    {
+     "meaning_vi": "Sự bất hoà.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "relationships",
+      "general"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "disappoint",
+   "pronunciation": "/ˌdɪs.ə.ˈpɔɪnt/",
+   "cefr": "B2",
+   "part_of_speech": [
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Không làm thoả ước vọng, không làm thoả ý mong đợi (của ai); làm chán ngán, làm thất vọng.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "feelings",
+      "emotions"
+     ]
+    },
+    {
+     "meaning_vi": "Thất ước (với ai).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "relationships",
+      "feelings",
+      "emotions"
+     ]
+    },
+    {
+     "meaning_vi": "Làm hỏng, làm thất bại (kế hoạch của ai).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "work"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "disappointment",
+   "pronunciation": "/ˌdɪ.sə.ˈpɔɪnt.mənt/",
+   "cefr": "B2",
+   "part_of_speech": [
+    "N"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Sự chán ngán, sự thất vọng.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "feelings",
+      "emotions"
+     ]
+    },
+    {
+     "meaning_vi": "Điều làm chán ngán, điều làm thất vọng.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "feelings",
+      "emotions"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "disastrous",
+   "pronunciation": "/dɪ.ˈzæs.trəs/",
+   "cefr": "C1",
+   "part_of_speech": [
+    "A"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Tai hại, thảm khốc.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "safety",
+      "general"
+     ]
+    },
+    {
+     "meaning_vi": "Bất hạnh.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "feelings",
+      "emotions"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "discard",
+   "pronunciation": "/dɪs.ˈkɑːrd/",
+   "cefr": "C1",
+   "part_of_speech": [
+    "N",
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Sự chui bài, sự dập bài.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "entertainment",
+      "leisure",
+      "games"
+     ]
+    },
+    {
+     "meaning_vi": "Quân chui bài, quân bài dập.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "entertainment",
+      "leisure",
+      "games"
+     ]
+    },
+    {
+     "meaning_vi": "Chui, dập.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "entertainment",
+      "leisure",
+      "games"
+     ]
+    },
+    {
+     "meaning_vi": "Bỏ, loại bỏ, vứt bỏ (quần áo, thói quen, lòng tin... ).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "daily life"
+     ]
+    },
+    {
+     "meaning_vi": "Đuổi ra, thải hồi (người làm... ).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "work"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "discharge",
+   "pronunciation": "/dɪs.ˈtʃɑːrdʒ/",
+   "cefr": "C1",
+   "part_of_speech": [
+    "N",
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Sự dỡ hàng, sự bốc dỡ (hàng).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "transportation",
+      "work"
+     ]
+    },
+    {
+     "meaning_vi": "Sự nổ (súng), sự phóng ra, sự bắn ra (tên lửa, mũi tên... ).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "military"
+     ]
+    },
+    {
+     "meaning_vi": "Sự đuổi ra, sự thải hồi (người làm); sự tha, sự thả (người tù); sự cho ra, sự cho về (người bệnh); sự giải tán, sự giải ngũ (quân đội).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "health",
+      "law",
+      "military",
+      "work"
+     ]
+    },
+    {
+     "meaning_vi": "Sự tuôn ra, sự tháo ra, sự tiết ra, sự bốc ra, sự đổ ra, sự chảy ra.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "science",
+      "general"
+     ]
+    },
+    {
+     "meaning_vi": "Sự chảy mủ.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "health",
+      "medicine"
+     ]
+    },
+    {
+     "meaning_vi": "Sự trả hết, sự thanh toán (nợ nần); sự làm xong, sự hoàn thành, sự thực hiên (nhiệm vụ... ).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "finance",
+      "work"
+     ]
+    },
+    {
+     "meaning_vi": "Sự tẩy màu; thuốc tẩy màu, dung dịch tẩy màu.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "industry",
+      "chemistry",
+      "clothing"
+     ]
+    },
+    {
+     "meaning_vi": "Sự phóng điện; sự tháo điện (ắc quy).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "technology",
+      "engineering",
+      "physics"
+     ]
+    },
+    {
+     "meaning_vi": "Sự tha miễn, sự miễn trừ; (pháp lý) sự tuyên bố tha; giấy chứng nhận tha miễn, giấy chứng nhận miễn trừ.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "law"
+     ]
+    },
+    {
+     "meaning_vi": "Dỡ (hàng); dỡ hàng (tàu thuỷ... ).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "transportation",
+      "work"
+     ]
+    },
+    {
+     "meaning_vi": "Nổ (súng); phóng (tên lửa... ); bắn (mũi tên... ).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "military"
+     ]
+    },
+    {
+     "meaning_vi": "Đuổi ra, thải hồi (người làm), tha, thả (người tù); cho ra, cho về (người bệnh); giải tán, giải ngũ (quân đội).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "health",
+      "law",
+      "military",
+      "work"
+     ]
+    },
+    {
+     "meaning_vi": "Tuôn ra, tháo ra, tiết ra, bốc ra, đổ ra, chảy ra.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "health",
+      "science",
+      "body"
+     ]
+    },
+    {
+     "meaning_vi": "Trả hết, thanh toán (nợ nần); làm xong, hoàn thành (nhiệm vụ... ).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "finance",
+      "work"
+     ]
+    },
+    {
+     "meaning_vi": "Làm phai (màu); tẩy (vải).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "industry",
+      "clothing"
+     ]
+    },
+    {
+     "meaning_vi": "Phục quyền (người vỡ nợ).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "law",
+      "finance"
+     ]
+    },
+    {
+     "meaning_vi": "Tháo điện (ắc quy).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "technology",
+      "engineering"
+     ]
+    },
+    {
+     "meaning_vi": "Huỷ bỏ (bản án).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "law"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "disclose",
+   "pronunciation": "/dɪs.ˈkloʊz/",
+   "cefr": "C1",
+   "part_of_speech": [
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Mở ra; vạch trần ra, để lộ ra.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "law",
+      "business",
+      "general"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "disclosure",
+   "pronunciation": "/dɪs.ˈkloʊ.ʒɜː/",
+   "cefr": "C1",
+   "part_of_speech": [
+    "N"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Sự mở ra; sự vạch trần ra, sự để lộ ra.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "law",
+      "general",
+      "business",
+      "media"
+     ]
+    },
+    {
+     "meaning_vi": "Cái bị vạch trần ra, cái bị để lộ ra.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "media",
+      "general"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "discourage",
+   "pronunciation": "/dɪs.ˈkɜː.ɪdʒ/",
+   "cefr": "B2",
+   "part_of_speech": [
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Làm mất hết can đảm, làm chán nản, làm ngã lòng, làm nản lòng.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "feelings",
+      "emotions"
+     ]
+    },
+    {
+     "meaning_vi": "Can ngăn (ai làm việc gì).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "social"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "discourse",
+   "pronunciation": "/ˈdɪs.ˌkɔrs/",
+   "cefr": "C1",
+   "part_of_speech": [
+    "N",
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Bài thuyết trình, bài diễn thuyết; bài nghị luận, bài luận văn; bài giảng đạo.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "education",
+      "literature"
+     ]
+    },
+    {
+     "meaning_vi": "Việc tranh luận hay truyền thông bằng lời nói hay chữ viết.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "communication",
+      "media"
+     ]
+    },
+    {
+     "meaning_vi": "Cuộc nói chuyện, cuộc đàm luận.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "communication",
+      "social"
+     ]
+    },
+    {
+     "meaning_vi": "Thuyết trình về; nghị luận về (một vấn đề gì).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "education"
+     ]
+    },
+    {
+     "meaning_vi": "Nói chuyện, chuyện trò, đàm luận.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "communication",
+      "social"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "discretion",
+   "pronunciation": "/dɪs.ˈkrɛ.ʃən/",
+   "cefr": "C1",
+   "part_of_speech": [
+    "N"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Sự tự do làm theo ý mình.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "law",
+      "general"
+     ]
+    },
+    {
+     "meaning_vi": "Sự thận trọng.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "personality",
+      "general"
+     ]
+    },
+    {
+     "meaning_vi": "Sự suy xét khôn ngoan.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "management"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "discrimination",
+   "pronunciation": "/dɪs.ˌkrɪ.mə.ˈneɪ.ʃən/",
+   "cefr": "C1",
+   "part_of_speech": [
+    "N"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Sự phân biệt, sự nhận rõ điều khác nhau, sự tách bạch ra.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "education"
+     ]
+    },
+    {
+     "meaning_vi": "Sự biết phân biệt, sự sáng suốt, óc phán đoán, óc suy xét.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "psychology"
+     ]
+    },
+    {
+     "meaning_vi": "Sự đối xử phân biệt.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "social",
+      "law"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "dismissal",
+   "pronunciation": "/.ˈmɪ.səl/",
+   "cefr": "C1",
+   "part_of_speech": [
+    "N"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Sự giải tán.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "education"
+     ]
+    },
+    {
+     "meaning_vi": "Sự cho đi.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "general"
+     ]
+    },
+    {
+     "meaning_vi": "Sự đuổi đi, sự thải hồi, sự sa thải (người làm... ).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "work",
+      "business"
+     ]
+    },
+    {
+     "meaning_vi": "Sự gạt bỏ, sự xua đuổi (ý nghĩ... ).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "psychology",
+      "general"
+     ]
+    },
+    {
+     "meaning_vi": "Sự bàn luận qua loa, sự nêu lên qua loa (một vấn đề cốt để bỏ qua).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "formal"
+     ]
+    },
+    {
+     "meaning_vi": "Sự đánh đi ((quả bóng crickê).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "sports"
+     ]
+    },
+    {
+     "meaning_vi": "Sự bỏ không xét (một vụ); sự bác (đơn).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "law"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "disorder",
+   "pronunciation": "/ˌdɪs.ˈɔr.dɜː/",
+   "cefr": "B2",
+   "part_of_speech": [
+    "N",
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Rối loạn, bệnh.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "health",
+      "medicine"
+     ]
+    },
+    {
+     "meaning_vi": "Sự mất trật tự, sự bừa bãi, sự lộn xộn.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "general"
+     ]
+    },
+    {
+     "meaning_vi": "Sự hỗn loạn, sự rối loạn, sự náo loạn.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "safety"
+     ]
+    },
+    {
+     "meaning_vi": "Làm mất trật tự, làm bừa bãi, làm lộn xộn.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general"
+     ]
+    },
+    {
+     "meaning_vi": "Làm hỗn loạn, làm rối loạn, làm náo loạn.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "social"
+     ]
+    },
+    {
+     "meaning_vi": "Làm khó ở, làm rối loạn (một chức năng của cơ thể).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "health",
+      "medicine"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "displace",
+   "pronunciation": "/ˌdɪs.ˈpleɪs/",
+   "cefr": "C1",
+   "part_of_speech": [
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Đổi chỗ, dời chỗ, chuyển chỗ.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "science"
+     ]
+    },
+    {
+     "meaning_vi": "Thải ra, cách chức (một công chức... ).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "work"
+     ]
+    },
+    {
+     "meaning_vi": "Chiếm chỗ, hất ra khỏi chỗ.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general"
+     ]
+    },
+    {
+     "meaning_vi": "Thay thế.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "business"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "disposal",
+   "pronunciation": "/dɪ.ˈspoʊ.zəl/",
+   "cefr": "C1",
+   "part_of_speech": [
+    "N"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Sự sắp đặt, sự sắp xếp, sự bố trí, cách sắp xếp, cách bố trí.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "management",
+      "general"
+     ]
+    },
+    {
+     "meaning_vi": "Sự vứt bỏ đi, sự bán tống đi.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "environment",
+      "daily life"
+     ]
+    },
+    {
+     "meaning_vi": "Sự bán, sự chuyển nhượng, sự nhượng lại.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "business",
+      "finance"
+     ]
+    },
+    {
+     "meaning_vi": "Sự tuỳ ý sử dụng.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "general"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "dispose",
+   "pronunciation": "/dɪ.ˈspoʊz/",
+   "cefr": "C1",
+   "part_of_speech": [
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Sắp đặt , sắp xếp, bố trí.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "management",
+      "general"
+     ]
+    },
+    {
+     "meaning_vi": "Làm cho có ý định, làm cho có khuynh hướng, làm cho có tâm trạng, làm cho có ý muốn.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "psychology",
+      "general"
+     ]
+    },
+    {
+     "meaning_vi": "Quyết định.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general"
+     ]
+    },
+    {
+     "meaning_vi": "Dùng, tuỳ ý sử dụng.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general"
+     ]
+    },
+    {
+     "meaning_vi": "Quyết định số phận xử lý; giải quyết; vứt bỏ, khử đi; bác bỏ, đánh bại; ăn gấp, uống gấp; phi tang bằng chứng",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "law",
+      "environment",
+      "crime"
+     ]
+    },
+    {
+     "meaning_vi": "Bán, bán chạy; nhường lại, chuyển nhượng.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "business",
+      "finance"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "dispute",
+   "pronunciation": "/dɪ.ˈspjuːt/",
+   "cefr": "C1",
+   "part_of_speech": [
+    "N",
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Cuộc bàn cãi, cuộc tranh luận.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "social",
+      "law"
+     ]
+    },
+    {
+     "meaning_vi": "Cuộc tranh chấp (giữa hai người... ).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "law"
+     ]
+    },
+    {
+     "meaning_vi": "Cuộc cãi cọ; sự bất hoà, sự bất đồng ý kiến.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "relationships",
+      "general"
+     ]
+    },
+    {
+     "meaning_vi": "Bàn cãi, tranh luận.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "social",
+      "general"
+     ]
+    },
+    {
+     "meaning_vi": "Cãi nhau, đấu khẩu; bất hoà.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "relationships",
+      "informal"
+     ]
+    },
+    {
+     "meaning_vi": "Bàn cãi, tranh luận (một vấn đề).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "education",
+      "formal"
+     ]
+    },
+    {
+     "meaning_vi": "Chống lại, kháng cự lại.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "law"
+     ]
+    },
+    {
+     "meaning_vi": "Tranh chấp.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "law",
+      "business"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "disrupt",
+   "pronunciation": "/dɪs.ˈrəpt/",
+   "cefr": "C1",
+   "part_of_speech": [
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Gián đoạn.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "business",
+      "general"
+     ]
+    },
+    {
+     "meaning_vi": "Đập gãy, đập vỗ, phá vỡ.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "disruption",
+   "pronunciation": null,
+   "cefr": "C1",
+   "part_of_speech": [
+    "N"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Sự đập gãy, sự đập vỗ, sự phá vỡ; sự gẫy vỡ.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "general"
+     ]
+    },
+    {
+     "meaning_vi": "Tình trạng xâu xé, tình trạng chia rẽ.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "social",
+      "general"
+     ]
+    },
+    {
+     "meaning_vi": "Sự đánh thủng.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "military"
+     ]
+    },
+    {
+     "meaning_vi": "Sự ngắt quãng",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "communication",
+      "technology"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "dissolve",
+   "pronunciation": "/dɪ.ˈzɑːlv/",
+   "cefr": "C1",
+   "part_of_speech": [
+    "N",
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Rã ra, tan rã, phân huỷ.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "science",
+      "general"
+     ]
+    },
+    {
+     "meaning_vi": "Hoà tan; làm tan ra.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "science",
+      "chemistry",
+      "cooking"
+     ]
+    },
+    {
+     "meaning_vi": "Giải tán (nghị viện, quốc hội...); giải thể (công ty, tổ chức...).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "politics",
+      "business"
+     ]
+    },
+    {
+     "meaning_vi": "Huỷ bỏ (giao kèo, cuộc hôn nhân...).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "law",
+      "marriage"
+     ]
+    },
+    {
+     "meaning_vi": "Làm tan, làm biến đi (mây mù, hình ảnh...).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "arts"
+     ]
+    },
+    {
+     "meaning_vi": "Hoà tan; tan ra.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "science",
+      "chemistry"
+     ]
+    },
+    {
+     "meaning_vi": "Giải tán, bị giải tán (nghị viện, quốc hội); giải thể, bị giải thể (công ty, tổ chức...).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "politics",
+      "business"
+     ]
+    },
+    {
+     "meaning_vi": "Bị huỷ bỏ.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "law"
+     ]
+    },
+    {
+     "meaning_vi": "Tan biến, biến mất.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general"
+     ]
+    },
+    {
+     "meaning_vi": "Mờ, chồng.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "photography",
+      "general"
+     ]
+    },
+    {
+     "meaning_vi": "Sự mờ chồng.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "photography",
+      "general"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "distant",
+   "pronunciation": "/ˈdɪs.tənt/",
+   "cefr": "B2",
+   "part_of_speech": [
+    "A"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Xa, cách, xa cách.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "travel",
+      "geography"
+     ]
+    },
+    {
+     "meaning_vi": "Có thái độ cách biệt, có thái độ xa cách, không thân mật, lạnh nhạt.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "relationships",
+      "social",
+      "feelings"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "distinct",
+   "pronunciation": "/dɪ.ˈstɪŋkt/",
+   "cefr": "B2",
+   "part_of_speech": [
+    "A"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Riêng, riêng biệt; khác biệt.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "general"
+     ]
+    },
+    {
+     "meaning_vi": "Dễ nhận, dễ thấy, rõ ràng.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "general"
+     ]
+    },
+    {
+     "meaning_vi": "Rõ rệt, dứt khoát, nhất định.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "formal"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "distinction",
+   "pronunciation": "/dɪ.ˈstɪŋk.ʃən/",
+   "cefr": "C1",
+   "part_of_speech": [
+    "N"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Sự phân biệt; điều phân biệt, điều khác nhau.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "education",
+      "general"
+     ]
+    },
+    {
+     "meaning_vi": "Nét đặc biệt, màu sắc riêng, tính độc đáo (văn).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "literature",
+      "arts"
+     ]
+    },
+    {
+     "meaning_vi": "Dấu hiệu đặc biệt; biểu hiện danh dự, tước hiệu, danh hiệu.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "education",
+      "general"
+     ]
+    },
+    {
+     "meaning_vi": "Sự biệt đãi, sự ưu đãi, sự trọng vọng.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "social",
+      "formal"
+     ]
+    },
+    {
+     "meaning_vi": "Sự ưu tú, sự xuất chúng, sự lỗi lạc.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "success"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "distinctive",
+   "pronunciation": "/dɪ.ˈstɪŋ(k).tɪv/",
+   "cefr": "C1",
+   "part_of_speech": [
+    "A"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Đặc biệt; để phân biệt.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "design",
+      "general"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "distinguish",
+   "pronunciation": "/dɪ.ˈstɪŋ.ɡwɪʃ/",
+   "cefr": "B2",
+   "part_of_speech": [
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Phân biệt.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "education",
+      "general"
+     ]
+    },
+    {
+     "meaning_vi": "Nghe ra, nhận ra.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "music"
+     ]
+    },
+    {
+     "meaning_vi": "Chia thành, xếp thành (loại... ).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "science",
+      "general"
+     ]
+    },
+    {
+     "meaning_vi": "Phân biệt, nhận định sự khác nhau (giữa... ).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "psychology"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "distort",
+   "pronunciation": "/dɪ.ˈstɔrt/",
+   "cefr": "C1",
+   "part_of_speech": [
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Vặn vẹo, bóp méo, làm méo mó.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "science",
+      "arts"
+     ]
+    },
+    {
+     "meaning_vi": "Bóp méo, xuyên tạc (sự việc... ).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "media",
+      "general"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "distract",
+   "pronunciation": "/dɪ.ˈstrækt/",
+   "cefr": "B2",
+   "part_of_speech": [
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "làm sao lãng, làm lãng đi, làm lãng trí.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "education",
+      "general",
+      "work"
+     ]
+    },
+    {
+     "meaning_vi": "làm rối bời, làm rối trí.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "psychology",
+      "general"
+     ]
+    },
+    {
+     "meaning_vi": "làm điên cuồng, làm mất trí, làm quẫn trí.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "feelings",
+      "psychology"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "distress",
+   "pronunciation": "/dɪ.ˈstrɛs/",
+   "cefr": "C1",
+   "part_of_speech": [
+    "N",
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Nỗi đau buồn, nỗi đau khổ, nỗi đau đớn.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "feelings",
+      "emotions"
+     ]
+    },
+    {
+     "meaning_vi": "Cảnh khốn cùng, cảnh túng quẫn, cảnh gieo neo.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "social",
+      "money"
+     ]
+    },
+    {
+     "meaning_vi": "Tai hoạ, cảnh hiểm nghèo, cảnh hiểm nguy.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "safety",
+      "general"
+     ]
+    },
+    {
+     "meaning_vi": "Tình trạng kiệt sức, tình trạng mệt lả, tình trạng mệt đứt hơi.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "health"
+     ]
+    },
+    {
+     "meaning_vi": "Sự tịch biên.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "law"
+     ]
+    },
+    {
+     "meaning_vi": "Làm đau buồn, làm đau khổ, làm đau đớn.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "feelings",
+      "emotions"
+     ]
+    },
+    {
+     "meaning_vi": "Làm lo âu, làm lo lắng.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "feelings",
+      "psychology",
+      "emotions"
+     ]
+    },
+    {
+     "meaning_vi": "Bắt chịu gian nan, bắt chịu khốn khổ.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general"
+     ]
+    },
+    {
+     "meaning_vi": "Làm kiệt sức.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "health"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "disturb",
+   "pronunciation": "/dɪ.ˈstɜːb/",
+   "cefr": "B2",
+   "part_of_speech": [
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Làm mất yên tĩnh, làm náo động; quấy rầy, làm bối rối, làm lo âu; làm xáo trộn.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "daily life",
+      "general"
+     ]
+    },
+    {
+     "meaning_vi": "Làm nhiễu loạn.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "technology",
+      "general"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "disturbing",
+   "pronunciation": null,
+   "cefr": "C1",
+   "part_of_speech": [
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Dạng phân từ hiện tại và danh động từ (gerund) của disturb.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "dive",
+   "pronunciation": null,
+   "cefr": "B2",
+   "part_of_speech": [
+    "N",
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Sự nhảy lao đầu xuống (nước... ); sự lặn.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "sports",
+      "leisure"
+     ]
+    },
+    {
+     "meaning_vi": "Sự đâm bổ xuống, sự bổ nhào xuống (máy bay).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "transportation",
+      "military"
+     ]
+    },
+    {
+     "meaning_vi": "Sự lặn (tàu ngầm).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "military",
+      "transportation"
+     ]
+    },
+    {
+     "meaning_vi": "Sự vụt biến mất, sự vụt lao biến đi.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "general"
+     ]
+    },
+    {
+     "meaning_vi": "Sự thọc tay vào túi.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "crime"
+     ]
+    },
+    {
+     "meaning_vi": "Quán rượu chui (nơi lui tới của bọn vô lại... ).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "crime",
+      "social",
+      "entertainment"
+     ]
+    },
+    {
+     "meaning_vi": "Chỗ ẩn náu (của bọn lưu manh).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "crime"
+     ]
+    },
+    {
+     "meaning_vi": "Cửa hàng ở tầng hầm (thường bán một số hàng đặc biệt).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "shopping"
+     ]
+    },
+    {
+     "meaning_vi": "Nhảy lao đầu xuống (nước... ); lặn.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "sports",
+      "leisure"
+     ]
+    },
+    {
+     "meaning_vi": "Đâm bổ xuống, bổ nhào xuống (máy bay).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "transportation",
+      "military"
+     ]
+    },
+    {
+     "meaning_vi": "Lặn (tàu ngầm).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "military",
+      "transportation"
+     ]
+    },
+    {
+     "meaning_vi": "Lặn xuống thình lình, chìm xuống thình lình; vụt lao biến đi, vụt biến mất.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general"
+     ]
+    },
+    {
+     "meaning_vi": "Thọc tay vào (túi, nước... ).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "crime",
+      "daily life"
+     ]
+    },
+    {
+     "meaning_vi": "Chìm đắm vào, mải mê vào, đi sâu vào (công việc nghiên cứu cái gì... ).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "education",
+      "work"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "diverse",
+   "pronunciation": "/dɑɪ.ˈvɜːs/",
+   "cefr": "B2",
+   "part_of_speech": [
+    "A"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Gồm nhiều loại khác nhau, linh tinh.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "general"
+     ]
+    },
+    {
+     "meaning_vi": "Thay đổi khác nhau.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "general"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "diversity",
+   "pronunciation": null,
+   "cefr": "B2",
+   "part_of_speech": [
+    "A"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "; (đùa cợt) nhiều, linh tinh, khác nhau.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "general"
+     ]
+    },
+    {
+     "meaning_vi": "Sự đa dạng, sự khác biệt",
+     "pos": "N",
+     "source": "manual review",
+     "context_labels": [
+      "social",
+      "general"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "divert",
+   "pronunciation": "/də.ˈvɜːt/",
+   "cefr": "C1",
+   "part_of_speech": [
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Làm chệch đi, làm chệch hướng.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "transportation",
+      "general"
+     ]
+    },
+    {
+     "meaning_vi": "Hướng (sự chú ý... ) sang phía khác, làm lãng (trí... ).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "psychology",
+      "general"
+     ]
+    },
+    {
+     "meaning_vi": "Làm giải trí, làm tiêu khiển, làm vui.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "entertainment",
+      "leisure"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "divine",
+   "pronunciation": "/dɪˈvaɪn/",
+   "cefr": "C1",
+   "part_of_speech": [
+    "A",
+    "N",
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Thần thánh, thiêng liêng.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "religion"
+     ]
+    },
+    {
+     "meaning_vi": "Tuyệt diệu, tuyệt trần, siêu phàm.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "arts",
+      "informal"
+     ]
+    },
+    {
+     "meaning_vi": "Nhà thần học.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "religion",
+      "education"
+     ]
+    },
+    {
+     "meaning_vi": "Đoán, tiên đoán, bói.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "religion",
+      "entertainment"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "divorce",
+   "pronunciation": "/də.ˈvɔrs/",
+   "cefr": "B2",
+   "part_of_speech": [
+    "N",
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Sự ly dị.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "marriage",
+      "family",
+      "law"
+     ]
+    },
+    {
+     "meaning_vi": "Sự lìa ra, sự tách ra.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "science"
+     ]
+    },
+    {
+     "meaning_vi": "Cho ly dị; ly dị (chồng vợ... ).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "marriage",
+      "law"
+     ]
+    },
+    {
+     "meaning_vi": "Làm xa rời, làm lìa khỏi, tách ra khỏi.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "doctrine",
+   "pronunciation": "/ˈdɑːk.trən/",
+   "cefr": "C1",
+   "part_of_speech": [
+    "N"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Học thuyết, chủ nghĩa.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "philosophy",
+      "religion"
+     ]
+    },
+    {
+     "meaning_vi": "nguyên tắc",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "military"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "documentation",
+   "pronunciation": null,
+   "cefr": "C1",
+   "part_of_speech": [
+    "N"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Sự chứng minh bằng tài liệu, sự dẫn chứng bằng tư liệu, việc viết tài liệu về một sự việc, sự vật nào đó, việc tư liệu hóa, sự tư liệu hóa.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "law",
+      "education",
+      "business"
+     ]
+    },
+    {
+     "meaning_vi": "Sự đưa ra tài liệu, sự cung cấp tài liệu.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "technology",
+      "general",
+      "business"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "domain",
+   "pronunciation": "/doʊ.ˈmeɪn/",
+   "cefr": "C1",
+   "part_of_speech": [
+    "N"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Đất đai, tài sản, dinh cơ, ruộng nương nhà cửa (của địa chủ...).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "history",
+      "law",
+      "finance"
+     ]
+    },
+    {
+     "meaning_vi": "Lãnh địa; lãnh thổ.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "politics",
+      "government",
+      "geography"
+     ]
+    },
+    {
+     "meaning_vi": "Phạm vi (ảnh hưởng...), lĩnh vực (khoa học hoạt động...).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "science",
+      "general"
+     ]
+    },
+    {
+     "meaning_vi": "Miền, tên miền (mạng máy tính).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "technology",
+      "internet"
+     ]
+    },
+    {
+     "meaning_vi": "Phạm vi.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "general"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "dominance",
+   "pronunciation": "/ˈdɑː.mə.nənts/",
+   "cefr": "C1",
+   "part_of_speech": [
+    "N"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Thế hơn, thế trội hơn, ưu thế.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "competition",
+      "general"
+     ]
+    },
+    {
+     "meaning_vi": "Thế thống trị, địa vị; địa vị thống trị.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "politics",
+      "general"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "dominant",
+   "pronunciation": "/.nənt/",
+   "cefr": "B2",
+   "part_of_speech": [
+    "A",
+    "N"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Át, trội, có ưu thế hơn; có ảnh hưởng lớn, chi phối.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "competition"
+     ]
+    },
+    {
+     "meaning_vi": "Thống trị.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "politics",
+      "general"
+     ]
+    },
+    {
+     "meaning_vi": "Vượt cao hơn cả, bao quát (chiều cao, đỉnh núi... ).",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "geography",
+      "nature"
+     ]
+    },
+    {
+     "meaning_vi": "(thuộc) âm át.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "music"
+     ]
+    },
+    {
+     "meaning_vi": "Trội (đặc tính trong di truyền).",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "science",
+      "farming",
+      "biology"
+     ]
+    },
+    {
+     "meaning_vi": "Âm át.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "music"
+     ]
+    },
+    {
+     "meaning_vi": "Tính trội (trong di truyền).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "science",
+      "biology"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "donation",
+   "pronunciation": "/doʊ.ˈneɪ.ʃən/",
+   "cefr": "B2",
+   "part_of_speech": [
+    "N"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Sự tặng, sự cho, sự biếu; sự quyên cúng.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "social",
+      "money",
+      "charity"
+     ]
+    },
+    {
+     "meaning_vi": "Đồ tặng, đồ cho, đồ biếu; đồ quyên cúng (vào tổ chức từ thiện).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "social",
+      "charity"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "donor",
+   "pronunciation": "/ˈdoʊ.nɜː/",
+   "cefr": "C1",
+   "part_of_speech": [
+    "N"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Người cho, người tặng, người biếu; người quyên cúng.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "social",
+      "health",
+      "charity"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "dose",
+   "pronunciation": "/ˈdoʊs/",
+   "cefr": "C1",
+   "part_of_speech": [
+    "N",
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Liều lượng, liều thuốc.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "medicine",
+      "health"
+     ]
+    },
+    {
+     "meaning_vi": "Cho uống thuốc theo liều lượng.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "medicine",
+      "health"
+     ]
+    },
+    {
+     "meaning_vi": "Trộn lẫn (rượu vang với rượu mạnh... ).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "food",
+      "restaurant",
+      "cooking",
+      "drink"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "dot",
+   "pronunciation": "/dɑt/",
+   "cefr": "B2",
+   "part_of_speech": [
+    "N",
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Của hồi môn.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "marriage",
+      "religion"
+     ]
+    },
+    {
+     "meaning_vi": "Chấm nhỏ, điểm.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "design",
+      "general"
+     ]
+    },
+    {
+     "meaning_vi": "dấu chấm (trên chữ i, j... ); dấu chấm câu.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "education",
+      "punctuation",
+      "writing",
+      "design"
+     ]
+    },
+    {
+     "meaning_vi": "Chấm.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "arts"
+     ]
+    },
+    {
+     "meaning_vi": "Đứa bé tí hon; vật nhỏ xíu.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "daily life",
+      "informal"
+     ]
+    },
+    {
+     "meaning_vi": "Chấm, đánh dấu chấm (trên chữ i, j... ).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "education",
+      "punctuation",
+      "writing",
+      "design"
+     ]
+    },
+    {
+     "meaning_vi": "Rải rác, lấm chấm.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "nature",
+      "general"
+     ]
+    },
+    {
+     "meaning_vi": "Đánh, nện.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "informal"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "drain",
+   "pronunciation": "/ˈdreɪn/",
+   "cefr": "C1",
+   "part_of_speech": [
+    "N",
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Ống dẫn (nước... ), cống, rãnh, mương, máng.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "construction",
+      "home"
+     ]
+    },
+    {
+     "meaning_vi": "Ống dẫn lưu.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "medicine",
+      "home",
+      "construction"
+     ]
+    },
+    {
+     "meaning_vi": "Sự rút hết, sự bòn rút hết, sự tiêu hao, sự làm kiệt quệ.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "finance"
+     ]
+    },
+    {
+     "meaning_vi": "Hớp nhỏ (rượu).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "food",
+      "informal",
+      "drink"
+     ]
+    },
+    {
+     "meaning_vi": "+ off, away) rút, tháo, tiêu (nước); làm ráo nước (quần áo giặt, bát đĩa rửa).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "daily life",
+      "home",
+      "farming"
+     ]
+    },
+    {
+     "meaning_vi": "Uống cạn (nước, rượu).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "food",
+      "restaurant",
+      "drink"
+     ]
+    },
+    {
+     "meaning_vi": "Dẫn lưu.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "construction",
+      "home",
+      "engineering"
+     ]
+    },
+    {
+     "meaning_vi": "Rút hết, bòn rút hết, tiêu hao, làm kiệt quệ.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "health"
+     ]
+    },
+    {
+     "meaning_vi": "+ off, away) chảy đi, thoát đi, tiêu đi (nước... ).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "environment",
+      "general"
+     ]
+    },
+    {
+     "meaning_vi": "Ráo nước (quần áo giặt, bát đĩa rửa).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "daily life",
+      "home"
+     ]
+    },
+    {
+     "meaning_vi": "Chảy ròng ròng, chảy nhỏ giọt (qua... ).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "health",
+      "body"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "dramatically",
+   "pronunciation": "/drə.ˈmæ.tɪk/",
+   "cefr": "B2",
+   "part_of_speech": [
+    "A"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Kịch, như kịch, như đóng kịch, thích hợp với sân khấu.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "arts",
+      "entertainment"
+     ]
+    },
+    {
+     "meaning_vi": "Đột ngột gây cảm xúc mạnh mẽ, gây ấn tượng sâu sắc, gây xúc động; bi thảm.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "feelings",
+      "media",
+      "emotions"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "drift",
+   "pronunciation": "/ˈdrɪft/",
+   "cefr": "C1",
+   "part_of_speech": [
+    "N",
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Sự trôi giạt (tàu bè... ); tình trạng bị lôi cuốn đi ((nghĩa đen) & (nghĩa bóng)).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "nature",
+      "transportation"
+     ]
+    },
+    {
+     "meaning_vi": "Vật trôi giạt, vật bị cuốn đi (đám bụi mù, củi rều... ); vật bị thổi thành đống (tuyết, cát... ).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "nature",
+      "weather"
+     ]
+    },
+    {
+     "meaning_vi": "Đất bồi, vật tích tụ (do gió, nước để lắng lại); trầm tích băng hà.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "geography",
+      "nature"
+     ]
+    },
+    {
+     "meaning_vi": "Lưới trôi, lưới kéo (để đánh cá mòi... ) Như drift net",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "farming",
+      "animals",
+      "fishing"
+     ]
+    },
+    {
+     "meaning_vi": "Dòng chảy chậm.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "nature",
+      "geography"
+     ]
+    },
+    {
+     "meaning_vi": "Sự lệch; độ lệch (của viên đạn bay).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "military",
+      "physics"
+     ]
+    },
+    {
+     "meaning_vi": "Đường hầm ngang (tiếp theo mạch mỏ).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "mining"
+     ]
+    },
+    {
+     "meaning_vi": "Chỗ sông cạn lội qua được (Nam Phi).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "geography",
+      "nature"
+     ]
+    },
+    {
+     "meaning_vi": "Cái đục; cái khoan; máy đột (đục lỗ ở kim loại).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "industry",
+      "engineering",
+      "tools"
+     ]
+    },
+    {
+     "meaning_vi": "Thái độ lững lờ chờ đợi, thái độ thụ động, thái độ nằm ì, thái độ nước chảy bèo trôi.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "personality"
+     ]
+    },
+    {
+     "meaning_vi": "Chiều hướng, khuynh hướng; xu thế tự nhiên; sự tiến triển.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "economy"
+     ]
+    },
+    {
+     "meaning_vi": "Mục đích, ý định; ý nghĩa, nội dung.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "communication"
+     ]
+    },
+    {
+     "meaning_vi": "Sự tập trung vật nuôi để kiểm lại.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "farming",
+      "animals"
+     ]
+    },
+    {
+     "meaning_vi": "Sự kéo theo.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "general"
+     ]
+    },
+    {
+     "meaning_vi": "Trôi giạt, bị (gió, dòng nước... ) cuốn đi.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "nature",
+      "transportation"
+     ]
+    },
+    {
+     "meaning_vi": "Chất đống lê (tuyết, cát... do gió thổi).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "weather",
+      "nature"
+     ]
+    },
+    {
+     "meaning_vi": "Buông trôi, để mặc cho trôi đi; có thái độ thụ động, phó mặc cho số phận; trôi đi, trôi qua.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "personality",
+      "psychology"
+     ]
+    },
+    {
+     "meaning_vi": "Theo chiều hướng, hướng theo (đích nào, chiều hướng nào).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general"
+     ]
+    },
+    {
+     "meaning_vi": "Làm trôi giạt, cuốn đi (dòng nước).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "nature",
+      "environment"
+     ]
+    },
+    {
+     "meaning_vi": "Thổi (tuyết, cát... ) thành đống (gió).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "weather",
+      "nature"
+     ]
+    },
+    {
+     "meaning_vi": "Phủ đầy (cánh đồng, mặt đường... ) những đống cát, phủ đầy những đống tuyết.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "weather",
+      "nature",
+      "farming"
+     ]
+    },
+    {
+     "meaning_vi": "Đục lỗ, đột lỗ, khoan rộng lỗ (miếng kim loại).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "engineering",
+      "industry",
+      "tools"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "drought",
+   "pronunciation": "/ˈdrɑʊt/",
+   "cefr": "B2",
+   "part_of_speech": [
+    "N"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Hạn hán.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "weather",
+      "farming",
+      "environment"
+     ]
+    },
+    {
+     "meaning_vi": "Sự khô cạn; sự khát.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "health",
+      "environment",
+      "weather"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "drown",
+   "pronunciation": "/ˈdrɑʊn/",
+   "cefr": "C1",
+   "part_of_speech": [
+    "N",
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Chết đuối.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "safety",
+      "health"
+     ]
+    },
+    {
+     "meaning_vi": "Dìm chết, chìm chết, làm chết đuối.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "safety",
+      "health",
+      "crime"
+     ]
+    },
+    {
+     "meaning_vi": "Pha loãng quá, pha nhiều nước quá (vào rượu... ).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "food",
+      "cooking",
+      "drink"
+     ]
+    },
+    {
+     "meaning_vi": "Làm ngập lụt, làm ngập nước, làm ướt đầm đìa, làm giàn giụa.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "environment",
+      "weather"
+     ]
+    },
+    {
+     "meaning_vi": "Làm chìn đắm, làm lấp, làm át (tiếng nói... ), làm tiêu (nỗi sầu... ).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "media",
+      "music"
+     ]
+    },
+    {
+     "meaning_vi": "Tên một họ.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "general"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "dual",
+   "pronunciation": "/ˈduː.əl/",
+   "cefr": "C1",
+   "part_of_speech": [
+    "A",
+    "N"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Hai, lưỡng, kép, đôi; hai mặt; gấp đôi; tay đôi.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "technology"
+     ]
+    },
+    {
+     "meaning_vi": "Đôi.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "design"
+     ]
+    },
+    {
+     "meaning_vi": "Đối ngẫu.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "education",
+      "literature"
+     ]
+    },
+    {
+     "meaning_vi": "Số đôi.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "education",
+      "mathematics",
+      "grammar"
+     ]
+    },
+    {
+     "meaning_vi": "Từ thuộc số đôi.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "education",
+      "mathematics",
+      "grammar"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "dub",
+   "pronunciation": "/ˈdəb/",
+   "cefr": "C1",
+   "part_of_speech": [
+    "N",
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Vũng sâu (ở những dòng suối).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "nature",
+      "geography"
+     ]
+    },
+    {
+     "meaning_vi": "Vũng lầy; ao.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "nature",
+      "geography",
+      "farming"
+     ]
+    },
+    {
+     "meaning_vi": "Phong tước hiệp sĩ (cho ai, bằng cách lấy gươm gõ nhẹ vào vai).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "history",
+      "formal"
+     ]
+    },
+    {
+     "meaning_vi": "Phong cho cái tên; gán cho cái tên, đặt cho cái tên.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "informal"
+     ]
+    },
+    {
+     "meaning_vi": "Bôi mỡ (vào da thuộc).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "industry",
+      "daily life",
+      "clothing"
+     ]
+    },
+    {
+     "meaning_vi": "Sang sửa (con ruồi giả làm mồi câu).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "hobby",
+      "fishing"
+     ]
+    },
+    {
+     "meaning_vi": "Lồng tiếng, lồng nhạc vào phim.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "entertainment",
+      "media"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "dull",
+   "pronunciation": "/dʌl/",
+   "cefr": "B2",
+   "part_of_speech": [
+    "A",
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Chậm hiểu, tối dạ, ngu đần, đần độn.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "personality",
+      "education"
+     ]
+    },
+    {
+     "meaning_vi": "Không tinh, mờ (mắt); không thính, nghễnh ngãng (tai).",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "health",
+      "body"
+     ]
+    },
+    {
+     "meaning_vi": "Vô tri vô giác (vật).",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "general"
+     ]
+    },
+    {
+     "meaning_vi": "Cùn (dao... ).",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "daily life",
+      "cooking",
+      "tools"
+     ]
+    },
+    {
+     "meaning_vi": "Đục, mờ đục, xỉn, xám xịt.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "appearance",
+      "design"
+     ]
+    },
+    {
+     "meaning_vi": "Cảm thấy lờ mờ, cảm thấy không rõ rệt, âm ỉ.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "health",
+      "feelings"
+     ]
+    },
+    {
+     "meaning_vi": "Thẫn thờ, uể oải, chậm chạp (người, vật).",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "feelings",
+      "general"
+     ]
+    },
+    {
+     "meaning_vi": "Ứ đọng, trì chậm, bán không chạy, ế.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "business",
+      "shopping"
+     ]
+    },
+    {
+     "meaning_vi": "Đều đều, buồn tẻ, chán ngắt, tẻ ngắt, buồn nản.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "feelings",
+      "entertainment",
+      "emotions"
+     ]
+    },
+    {
+     "meaning_vi": "Tối tăm, âm u, u ám, ảm đạm.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "weather",
+      "nature"
+     ]
+    },
+    {
+     "meaning_vi": "Làm ngu đần, làm đần độn.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "health"
+     ]
+    },
+    {
+     "meaning_vi": "Làm cùn.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "daily life",
+      "industry",
+      "tools"
+     ]
+    },
+    {
+     "meaning_vi": "Làm mờ đi, làm mờ đục, làm xỉn.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "photography"
+     ]
+    },
+    {
+     "meaning_vi": "Làm âm ỉ, làm đỡ nhức nhối, làm đỡ nhói (cơn đau).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "health",
+      "medicine"
+     ]
+    },
+    {
+     "meaning_vi": "Làm buồn nản.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "feelings",
+      "emotions"
+     ]
+    },
+    {
+     "meaning_vi": "Làm tối tăm, làm u ám, làm ảm đạm.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "weather",
+      "arts",
+      "nature"
+     ]
+    },
+    {
+     "meaning_vi": "Hoá ngu đần, đần độn.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "psychology"
+     ]
+    },
+    {
+     "meaning_vi": "Cùn đi.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "daily life",
+      "tools"
+     ]
+    },
+    {
+     "meaning_vi": "Mờ đi, mờ đục, xỉn đi.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "appearance"
+     ]
+    },
+    {
+     "meaning_vi": "Âm ỉ, đỡ nhức nhối, đỡ đau (cơn đau).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "health",
+      "medicine"
+     ]
+    },
+    {
+     "meaning_vi": "Tối sầm lại, thành u ám, thành ảm đạm.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "weather",
+      "nature"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "dumb",
+   "pronunciation": "/dʌm/",
+   "cefr": "C1",
+   "part_of_speech": [
+    "A",
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Câm, không nói.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "health",
+      "body"
+     ]
+    },
+    {
+     "meaning_vi": "Câm, không kêu.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "animals"
+     ]
+    },
+    {
+     "meaning_vi": "không biết nói; không có tiếng nói (trong chính phủ... ).",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "politics",
+      "government"
+     ]
+    },
+    {
+     "meaning_vi": "Lặng đi, không nói lên được.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "feelings",
+      "general"
+     ]
+    },
+    {
+     "meaning_vi": "Lầm lì, ít nói.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "personality"
+     ]
+    },
+    {
+     "meaning_vi": "Ngu xuẩn, ngu ngốc, ngớ ngẩn.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "personality",
+      "informal"
+     ]
+    },
+    {
+     "meaning_vi": "Làm câm, làm câm lặng đi.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "feelings"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "dump",
+   "pronunciation": "/ˈdəmp/",
+   "cefr": "B2",
+   "part_of_speech": [
+    "N",
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Vật ngắn bè bè, người lùn bè bè.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "appearance",
+      "informal"
+     ]
+    },
+    {
+     "meaning_vi": "Thẻ chì (dùng trong một số trò chơi).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "entertainment",
+      "leisure",
+      "games"
+     ]
+    },
+    {
+     "meaning_vi": "Đồng đum (tiền Úc xưa); đồng xu.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "money"
+     ]
+    },
+    {
+     "meaning_vi": "Bu-lông, bù-loong (đóng tàu).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "industry",
+      "transportation",
+      "construction"
+     ]
+    },
+    {
+     "meaning_vi": "Ky (chơi ky).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "leisure",
+      "entertainment",
+      "games"
+     ]
+    },
+    {
+     "meaning_vi": "Kẹo đum.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "food"
+     ]
+    },
+    {
+     "meaning_vi": "Đống rác, nơi đổ rác; bãi rác, nơi rác rưởi bừa bãi.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "environment",
+      "home",
+      "urban"
+     ]
+    },
+    {
+     "meaning_vi": "Tiếng rơi bịch, tiếng đổ ầm, tiếng ném phịch xuống; cú đấm bịch.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "sports"
+     ]
+    },
+    {
+     "meaning_vi": "Kho đạn tạm thời.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "military"
+     ]
+    },
+    {
+     "meaning_vi": "Kết xuất.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "programming",
+      "general",
+      "technology"
+     ]
+    },
+    {
+     "meaning_vi": "Đổ thành đống (rác); vứt bỏ, gạt bỏ (ai...).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "daily life",
+      "environment"
+     ]
+    },
+    {
+     "meaning_vi": "Đổ ầm xuống, ném phịch xuống.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general"
+     ]
+    },
+    {
+     "meaning_vi": "Đánh gục, đánh ngã.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "sports",
+      "competition"
+     ]
+    },
+    {
+     "meaning_vi": "Bán hạ giá (những hàng thừa ế) ra thị trường nước ngoài (để tránh việc phải hạ giá hàng trong nước và đồng thời tranh thủ được thị trường mới).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "business",
+      "economy"
+     ]
+    },
+    {
+     "meaning_vi": "Đưa (dân di trú thừa) ra nước ngoài.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "government",
+      "travel",
+      "law",
+      "immigration"
+     ]
+    },
+    {
+     "meaning_vi": "Đổ rác.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "home",
+      "environment"
+     ]
+    },
+    {
+     "meaning_vi": "Ngã phịch xuống, rơi phịch xuống.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "daily life"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "duo",
+   "pronunciation": "/ˈduː.ˌoʊ/",
+   "cefr": "C1",
+   "part_of_speech": [
+    "N"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Bộ đôi.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "music",
+      "general"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "duration",
+   "pronunciation": "/dʊ.ˈreɪ.ʃən/",
+   "cefr": "B2",
+   "part_of_speech": [
+    "N"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Thời gian, khoảng thời gian (tồn tại của một sự việc).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "time"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "dynamic",
+   "pronunciation": "/dɑɪ.ˈnæ.mɪk/",
+   "cefr": "B2",
+   "part_of_speech": [
+    "A",
+    "N"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Cơ động.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "business"
+     ]
+    },
+    {
+     "meaning_vi": "Động lực học.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "science",
+      "engineering",
+      "physics"
+     ]
+    },
+    {
+     "meaning_vi": "Năng động, năng nổ, sôi nổi.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "personality"
+     ]
+    },
+    {
+     "meaning_vi": "(thuộc) chức năng.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "programming",
+      "general"
+     ]
+    },
+    {
+     "meaning_vi": "Động lực.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "science",
+      "psychology",
+      "physics"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "eager",
+   "pronunciation": "/ˈi.ɡɜː/",
+   "cefr": "B2",
+   "part_of_speech": [
+    "A"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Ham, háo hức, hăm hở, thiết tha, hau háu.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "feelings",
+      "personality",
+      "emotions"
+     ]
+    },
+    {
+     "meaning_vi": "Nồng (rượu... ).",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "food",
+      "restaurant",
+      "drink"
+     ]
+    },
+    {
+     "meaning_vi": "Rét ngọt.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "weather"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "earnings",
+   "pronunciation": "/ˈɜː.nɪŋz/",
+   "cefr": "C1",
+   "part_of_speech": [
+    "N"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Tiền kiếm được, tiền lương.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "work",
+      "money"
+     ]
+    },
+    {
+     "meaning_vi": "Tiền lãi.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "finance",
+      "money",
+      "business"
+     ]
+    },
+    {
+     "meaning_vi": "Thu nhập.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "money",
+      "finance",
+      "economy"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "ease",
+   "pronunciation": "/ˈiz/",
+   "cefr": "C1",
+   "part_of_speech": [
+    "N",
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Sự thanh thản, sự thoải mái; sự không bị ràng buộc.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "feelings",
+      "daily life"
+     ]
+    },
+    {
+     "meaning_vi": "Sự thanh nhàn, sự nhàn hạ.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "leisure",
+      "daily life"
+     ]
+    },
+    {
+     "meaning_vi": "Sự dễ dàng, dự thanh thoát.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "general"
+     ]
+    },
+    {
+     "meaning_vi": "Sự dễ chịu; sự không bị đau đớn; sự khỏi đau.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "health",
+      "medicine"
+     ]
+    },
+    {
+     "meaning_vi": "Làm thanh thản, làm yên tâm.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "feelings"
+     ]
+    },
+    {
+     "meaning_vi": "Làm dễ chịu, làm đỡ đau, làm khỏi đau.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "health",
+      "medicine"
+     ]
+    },
+    {
+     "meaning_vi": "Làm bớt căng; (hàng hải) mở, nới.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "transportation",
+      "general",
+      "sailing"
+     ]
+    },
+    {
+     "meaning_vi": "Nắng nhẹ.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "weather"
+     ]
+    },
+    {
+     "meaning_vi": "Trở nên bớt căng (tình hinh... ).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general"
+     ]
+    },
+    {
+     "meaning_vi": "Trở nên bớt nặng nhọc; chùn, nhụt (sự cố gắng... ).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "feelings",
+      "psychology"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "echo",
+   "pronunciation": "/ˈɛ.ˌkoʊ/",
+   "cefr": "C1",
+   "part_of_speech": [
+    "N",
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Tiếng dội, tiếng vang.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "science",
+      "nature",
+      "physics"
+     ]
+    },
+    {
+     "meaning_vi": "Sự bắt chước mù quáng.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "social",
+      "general"
+     ]
+    },
+    {
+     "meaning_vi": "Người bắt chước mù quáng; người ủng hộ mù quáng.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "social",
+      "politics"
+     ]
+    },
+    {
+     "meaning_vi": "Thể thơ liên hoàn.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "literature",
+      "poetry"
+     ]
+    },
+    {
+     "meaning_vi": "Ám hiệu (cho biết số lá bài mình có trong hoa đang đánh) cho đồng bọn.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "entertainment",
+      "leisure",
+      "games"
+     ]
+    },
+    {
+     "meaning_vi": "Tiếng vang (nhân cách hoá).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "literature",
+      "general"
+     ]
+    },
+    {
+     "meaning_vi": "Dội lại, vang lại (tiếng động).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "science",
+      "nature",
+      "music",
+      "physics"
+     ]
+    },
+    {
+     "meaning_vi": "Lặp lại (lời ai), lặp lại lời (ai), lặp lại ý kiến (ai).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "communication"
+     ]
+    },
+    {
+     "meaning_vi": "Nội động từ.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "education",
+      "grammar"
+     ]
+    },
+    {
+     "meaning_vi": "có tiếng dội (nơi, chốn); dội lại, vang lại (tiếng động).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "nature",
+      "science",
+      "physics"
+     ]
+    },
+    {
+     "meaning_vi": "Làm ám hiệu cho đồng bạn (biết số lá bài mình có trong hoa đang đánh).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "entertainment",
+      "leisure",
+      "games"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "ecological",
+   "pronunciation": null,
+   "cefr": "C1",
+   "part_of_speech": [
+    "A"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Sinh thái học.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "environment",
+      "science"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "economics",
+   "pronunciation": "/ˌɛ.kə.ˈnɑː.mɪks/",
+   "cefr": "B2",
+   "part_of_speech": [
+    "N"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Khoa kinh tế chính trị.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "economy",
+      "education"
+     ]
+    },
+    {
+     "meaning_vi": "Nền kinh tế (cho một nước).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "economy",
+      "government"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "economist",
+   "pronunciation": "/ɪ.ˈkɑː.nə.mɪst/",
+   "cefr": "B2",
+   "part_of_speech": [
+    "N"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Nhà kinh tế học.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "economy",
+      "education"
+     ]
+    },
+    {
+     "meaning_vi": "Người tiết kiệm.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "money",
+      "daily life",
+      "finance"
+     ]
+    },
+    {
+     "meaning_vi": "Người quản lý (tiền bạc... ).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "management",
+      "finance",
+      "money"
+     ]
+    }
+   ]
+  }
+ ]
+}

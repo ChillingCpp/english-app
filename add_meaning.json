@@ -1,0 +1,932 @@
+[
+  {
+    "word": "acquire",
+    "meaning": "chiếm được, có được, thu được",
+    "từ loại": "V",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "ability",
+    "meaning": "khả năng, năng lực",
+    "từ loại": "N",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "activity",
+    "meaning": "hoạt động; sinh hoạt",
+    "từ loại": "N",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "app",
+    "meaning": "ứng dụng (phần mềm trên máy tính, điện thoại)",
+    "từ loại": "N",
+    "ngữ cảnh": "technology"
+  },
+  {
+    "word": "apply",
+    "meaning": "áp dụng; làm đơn xin",
+    "từ loại": "V",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "army",
+    "meaning": "quân đội, lục quân",
+    "từ loại": "N",
+    "ngữ cảnh": "government"
+  },
+  {
+    "word": "authority",
+    "meaning": "quyền lực, uy quyền; cơ quan có thẩm quyền",
+    "từ loại": "N",
+    "ngữ cảnh": "government"
+  },
+  {
+    "word": "baby",
+    "meaning": "em bé, đứa bé",
+    "từ loại": "N",
+    "ngữ cảnh": "family"
+  },
+  {
+    "word": "badly",
+    "meaning": "tệ, tồi tệ; một cách tồi tệ",
+    "từ loại": "ADV",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "best",
+    "meaning": "tốt nhất; hay nhất (dạng so sánh nhất của good)",
+    "từ loại": "A",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "born",
+    "meaning": "được sinh ra, ra đời",
+    "từ loại": "V",
+    "ngữ cảnh": "family"
+  },
+  {
+    "word": "CD",
+    "meaning": "đĩa CD (đĩa quang)",
+    "từ loại": "N",
+    "ngữ cảnh": "technology"
+  },
+  {
+    "word": "charity",
+    "meaning": "từ thiện; lòng từ thiện",
+    "từ loại": "N",
+    "ngữ cảnh": "social"
+  },
+  {
+    "word": "city",
+    "meaning": "thành phố",
+    "từ loại": "N",
+    "ngữ cảnh": "geography"
+  },
+  {
+    "word": "classroom",
+    "meaning": "lớp học, phòng học",
+    "từ loại": "N",
+    "ngữ cảnh": "education"
+  },
+  {
+    "word": "community",
+    "meaning": "cộng đồng; cộng đồng dân cư",
+    "từ loại": "N",
+    "ngữ cảnh": "social"
+  },
+  {
+    "word": "county",
+    "meaning": "quận, hạt (đơn vị hành chính)",
+    "từ loại": "N",
+    "ngữ cảnh": "government"
+  },
+  {
+    "word": "curly",
+    "meaning": "Xoăn, uốn lượn (tóc).",
+    "từ loại": "A",
+    "ngữ cảnh": "appearance"
+  },
+  {
+    "word": "daily",
+    "meaning": "Hàng ngày, mỗi ngày.",
+    "từ loại": "A",
+    "ngữ cảnh": "daily life"
+  },
+  {
+    "word": "early",
+    "meaning": "Sớm, sớm sủa; từ sớm.",
+    "từ loại": "A",
+    "ngữ cảnh": "time"
+  },
+  {
+    "word": "eat",
+    "meaning": "Ăn, ăn uống.",
+    "từ loại": "V",
+    "ngữ cảnh": "food"
+  },
+  {
+    "word": "eighty",
+    "meaning": "Tám mươi.",
+    "từ loại": "A",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "enemy",
+    "meaning": "Kẻ thù, địch.",
+    "từ loại": "N",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "equipment",
+    "meaning": "Thiết bị, đồ trang bị.",
+    "từ loại": "N",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "fly",
+    "meaning": "Bay; lái máy bay; con ruồi.",
+    "từ loại": "V",
+    "ngữ cảnh": "transportation"
+  },
+  {
+    "word": "forty",
+    "meaning": "Bốn mươi.",
+    "từ loại": "A",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "found",
+    "meaning": "Thành lập, lập nên; tìm thấy.",
+    "từ loại": "V",
+    "ngữ cảnh": "business"
+  },
+  {
+    "word": "friendly",
+    "meaning": "Thân thiện, hoà đồng.",
+    "từ loại": "A",
+    "ngữ cảnh": "friendship"
+  },
+  {
+    "word": "friendship",
+    "meaning": "Tình bạn.",
+    "từ loại": "N",
+    "ngữ cảnh": "friendship"
+  },
+  {
+    "word": "fully",
+    "meaning": "Hoàn toàn, đầy đủ, hết sức.",
+    "từ loại": "ADV",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "fur",
+    "meaning": "Lông (thú), lông thú.",
+    "từ loại": "N",
+    "ngữ cảnh": "animals"
+  },
+  {
+    "word": "grandparent",
+    "meaning": "Ông bà (ông nội, bà nội; ông ngoại, bà ngoại).",
+    "từ loại": "N",
+    "ngữ cảnh": "family"
+  },
+  {
+    "word": "herself",
+    "meaning": "bản thân cô ấy, chính cô ấy, cô ấy tự ...",
+    "từ loại": "OTHER",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "himself",
+    "meaning": "bản thân anh ấy, chính anh ấy, anh ấy tự ...",
+    "từ loại": "OTHER",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "his",
+    "meaning": "của anh ấy, của ông ấy, của nó",
+    "từ loại": "A",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "holy",
+    "meaning": "thiêng liêng, thánh thiện, thuộc về Chúa",
+    "từ loại": "A",
+    "ngữ cảnh": "culture"
+  },
+  {
+    "word": "imply",
+    "meaning": "ngụ ý, hàm ý, ám chỉ",
+    "từ loại": "V",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "inquiry",
+    "meaning": "cuộc điều tra, sự hỏi thăm, sự tra cứu",
+    "từ loại": "N",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "lifestyle",
+    "meaning": "lối sống, cách sống",
+    "từ loại": "N",
+    "ngữ cảnh": "daily life"
+  },
+  {
+    "word": "liquid",
+    "meaning": "chất lỏng, thể lỏng",
+    "từ loại": "N",
+    "ngữ cảnh": "science"
+  },
+  {
+    "word": "my",
+    "meaning": "của tôi, của tao",
+    "từ loại": "A",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "no one",
+    "meaning": "không ai, chẳng ai",
+    "từ loại": "OTHER",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "o'clock",
+    "meaning": "đúng ... giờ",
+    "từ loại": "ADV",
+    "ngữ cảnh": "time"
+  },
+  {
+    "word": "off",
+    "meaning": "tắt; ra ngoài, đi khỏi",
+    "từ loại": "ADV",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "OK",
+    "meaning": "được, ổn, tốt",
+    "từ loại": "OTHER",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "ourselves",
+    "meaning": "bản thân chúng ta, chúng ta tự ...",
+    "từ loại": "OTHER",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "machine",
+    "meaning": "máy, máy móc",
+    "từ loại": "N",
+    "ngữ cảnh": "technology"
+  },
+  {
+    "word": "music",
+    "meaning": "âm nhạc, nhạc",
+    "từ loại": "N",
+    "ngữ cảnh": "music"
+  },
+  {
+    "word": "new",
+    "meaning": "mới, mới mẻ",
+    "từ loại": "A",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "highly",
+    "meaning": "rất, hết sức, ở mức cao",
+    "từ loại": "ADV",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "largely",
+    "meaning": "phần lớn, chủ yếu",
+    "từ loại": "ADV",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "likely",
+    "meaning": "có khả năng, có lẽ",
+    "từ loại": "A",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "lively",
+    "meaning": "sôi động, sinh động, náo nhiệt",
+    "từ loại": "A",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "lucky",
+    "meaning": "may mắn, gặp may",
+    "từ loại": "A",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "majority",
+    "meaning": "đa số, phần lớn; tuổi thành niên",
+    "từ loại": "N",
+    "ngữ cảnh": "social"
+  },
+  {
+    "word": "minority",
+    "meaning": "thiểu số, số ít; vị thành niên",
+    "từ loại": "N",
+    "ngữ cảnh": "social"
+  },
+  {
+    "word": "multiply",
+    "meaning": "nhân lên; sinh sôi, tăng nhiều",
+    "từ loại": "V",
+    "ngữ cảnh": "education"
+  },
+  {
+    "word": "noisy",
+    "meaning": "ồn ào, ồn ã",
+    "từ loại": "A",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "opportunity",
+    "meaning": "cơ hội, dịp may",
+    "từ loại": "N",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "ours",
+    "meaning": "của chúng ta, của chúng tôi",
+    "từ loại": "A",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "party",
+    "meaning": "Bữa tiệc, buổi liên hoan; đảng phái; bên liên quan",
+    "từ loại": "N",
+    "ngữ cảnh": "social"
+  },
+  {
+    "word": "personality",
+    "meaning": "Tính cách, nhân cách; cá tính; người nổi tiếng",
+    "từ loại": "N",
+    "ngữ cảnh": "personality"
+  },
+  {
+    "word": "philosophy",
+    "meaning": "Triết học; triết lý",
+    "từ loại": "N",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "photo",
+    "meaning": "Ảnh, bức ảnh; chụp ảnh",
+    "từ loại": "N",
+    "ngữ cảnh": "daily life"
+  },
+  {
+    "word": "priority",
+    "meaning": "Sự ưu tiên; việc phải làm trước",
+    "từ loại": "N",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "quality",
+    "meaning": "Chất lượng, phẩm chất",
+    "từ loại": "N",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "quantity",
+    "meaning": "Số lượng, lượng",
+    "từ loại": "N",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "quick",
+    "meaning": "Nhanh, mau lẹ",
+    "từ loại": "A",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "quickly",
+    "meaning": "Nhanh chóng, một cách nhanh chóng",
+    "từ loại": "ADV",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "quiet",
+    "meaning": "Yên tĩnh, im lặng",
+    "từ loại": "A",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "quietly",
+    "meaning": "Một cách yên tĩnh, nhẹ nhàng",
+    "từ loại": "ADV",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "quit",
+    "meaning": "Bỏ, ngừng, từ bỏ",
+    "từ loại": "V",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "quite",
+    "meaning": "Khá, hoàn toàn, quả thật",
+    "từ loại": "ADV",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "reply",
+    "meaning": "Lời trả lời, sự trả lời",
+    "từ loại": "N",
+    "ngữ cảnh": "communication"
+  },
+  {
+    "word": "require",
+    "meaning": "Yêu cầu, đòi hỏi",
+    "từ loại": "V",
+    "ngữ cảnh": "work"
+  },
+  {
+    "word": "requirement",
+    "meaning": "Yêu cầu, điều kiện, tiêu chuẩn",
+    "từ loại": "N",
+    "ngữ cảnh": "work"
+  },
+  {
+    "word": "should",
+    "meaning": "Nên; (quá khứ của shall) sẽ",
+    "từ loại": "V",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "shy",
+    "meaning": "Nhút nhát, e thẹn, rụt rè",
+    "từ loại": "A",
+    "ngữ cảnh": "personality"
+  },
+  {
+    "word": "silly",
+    "meaning": "Ngốc nghếch, khờ khạo, dở hơi",
+    "từ loại": "A",
+    "ngữ cảnh": "personality"
+  },
+  {
+    "word": "simply",
+    "meaning": "Đơn giản là; một cách giản dị",
+    "từ loại": "ADV",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "sixty",
+    "meaning": "Sáu mươi",
+    "từ loại": "A",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "sky",
+    "meaning": "Bầu trời, trời",
+    "từ loại": "N",
+    "ngữ cảnh": "nature"
+  },
+  {
+    "word": "stove",
+    "meaning": "bếp, lò sưởi",
+    "từ loại": "N",
+    "ngữ cảnh": "home"
+  },
+  {
+    "word": "table",
+    "meaning": "bàn; bảng, biểu (dữ liệu)",
+    "từ loại": "N",
+    "ngữ cảnh": "home"
+  },
+  {
+    "word": "ugly",
+    "meaning": "xấu xí, xấu",
+    "từ loại": "A",
+    "ngữ cảnh": "appearance"
+  },
+  {
+    "word": "white",
+    "meaning": "màu trắng; trắng",
+    "từ loại": "A",
+    "ngữ cảnh": "appearance"
+  },
+  {
+    "word": "AIDS",
+    "meaning": "bệnh AIDS (hội chứng suy giảm miễn dịch mắc phải)",
+    "từ loại": "N",
+    "ngữ cảnh": "medicine"
+  },
+  {
+    "word": "teenage",
+    "meaning": "thuộc lứa tuổi thiếu niên (13-19 tuổi)",
+    "từ loại": "A",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "supply",
+    "meaning": "sự cung cấp, nguồn cung; hàng cung cấp",
+    "từ loại": "N",
+    "ngữ cảnh": "business"
+  },
+  {
+    "word": "used to",
+    "meaning": "vẫn thường, trước đây hay làm gì đó",
+    "từ loại": "OTHER",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "which",
+    "meaning": "cái nào, điều nào, cái gì",
+    "từ loại": "OTHER",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "whose",
+    "meaning": "của ai, của người nào",
+    "từ loại": "OTHER",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "why",
+    "meaning": "tại sao, vì sao, bởi lẽ gì",
+    "từ loại": "ADV",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "written",
+    "meaning": "bị động của write; đã viết, bằng chữ viết",
+    "từ loại": "A",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "yourself",
+    "meaning": "bản thân bạn, chính bạn",
+    "từ loại": "OTHER",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "acquisition",
+    "meaning": "sự thu được, sự mua lại, sự tiếp thu",
+    "từ loại": "N",
+    "ngữ cảnh": "business"
+  },
+  {
+    "word": "university",
+    "meaning": "trường đại học, đại học",
+    "từ loại": "N",
+    "ngữ cảnh": "education"
+  },
+  {
+    "word": "unlikely",
+    "meaning": "khó xảy ra, khó tin, ít có khả năng",
+    "từ loại": "A",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "who",
+    "meaning": "ai, người nào",
+    "từ loại": "OTHER",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "ally",
+    "meaning": "đồng minh; người liên minh, hợp lực",
+    "từ loại": "N",
+    "ngữ cảnh": "politics"
+  },
+  {
+    "word": "bound",
+    "meaning": "Buộc, ràng buộc; giới hạn, biên giới",
+    "từ loại": "V",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "catalog",
+    "meaning": "Danh mục, quyển danh mục (hàng hoá, sản phẩm)",
+    "từ loại": "N",
+    "ngữ cảnh": "shopping"
+  },
+  {
+    "word": "councilor",
+    "meaning": "Thành viên hội đồng, nghị viên",
+    "từ loại": "N",
+    "ngữ cảnh": "government"
+  },
+  {
+    "word": "decision-making",
+    "meaning": "Ra quyết định; việc đưa ra quyết định",
+    "từ loại": "N",
+    "ngữ cảnh": "business"
+  },
+  {
+    "word": "equip",
+    "meaning": "Trang bị, bố trí (trang thiết bị)",
+    "từ loại": "V",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "equivalent",
+    "meaning": "Tương đương, ngang bằng",
+    "từ loại": "A",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "biography",
+    "meaning": "Tiểu sử; cuốn tiểu sử",
+    "từ loại": "N",
+    "ngữ cảnh": "literature"
+  },
+  {
+    "word": "atrocity",
+    "meaning": "Sự tàn bạo; hành động tàn bạo, man rợ",
+    "từ loại": "N",
+    "ngữ cảnh": "crime"
+  },
+  {
+    "word": "clarity",
+    "meaning": "Sự rõ ràng, sự trong sáng; tính minh bạch",
+    "từ loại": "N",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "commodity",
+    "meaning": "Hàng hoá, vật phẩm buôn bán",
+    "từ loại": "N",
+    "ngữ cảnh": "business"
+  },
+  {
+    "word": "comply",
+    "meaning": "Tuân thủ, chấp hành, làm theo (quy định... )",
+    "từ loại": "V",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "barely",
+    "meaning": "Hầu như không; chỉ mới, vừa mới",
+    "từ loại": "ADV",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "briefly",
+    "meaning": "Ngắn gọn; vắn tắt; nhanh chóng",
+    "từ loại": "ADV",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "broadly",
+    "meaning": "Một cách rộng rãi; nói chung, khái quát",
+    "từ loại": "ADV",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "consequently",
+    "meaning": "Do đó, vì vậy, bởi vậy",
+    "từ loại": "ADV",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "costly",
+    "meaning": "Đắt đỏ, tốn kém, tiêu tốn nhiều",
+    "từ loại": "A",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "deadly",
+    "meaning": "Chết chóc, gây chết người; dữ dội, cực kỳ",
+    "từ loại": "A",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "density",
+    "meaning": "Mật độ, độ dày đặc",
+    "từ loại": "N",
+    "ngữ cảnh": "science"
+  },
+  {
+    "word": "dignity",
+    "meaning": "Sự trang trọng, phẩm giá; lòng tự trọng",
+    "từ loại": "N",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "diversity",
+    "meaning": "Sự đa dạng, sự khác biệt",
+    "từ loại": "N",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "entity",
+    "meaning": "Thực thể, thực tại; đơn vị riêng biệt",
+    "từ loại": "N",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "equality",
+    "meaning": "Sự bình đẳng, sự công bằng",
+    "từ loại": "N",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "teen",
+    "meaning": "người ở độ tuổi thiếu niên (13–19 tuổi)",
+    "từ loại": "N",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "temporarily",
+    "meaning": "tạm thời, trong thời gian ngắn",
+    "từ loại": "ADV",
+    "ngữ cảnh": "time"
+  },
+  {
+    "word": "thought-provoking",
+    "meaning": "kích thích tư duy, gợi suy ngẫm",
+    "từ loại": "A",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "turnout",
+    "meaning": "lượng người tham dự; số cử tri đi bầu",
+    "từ loại": "N",
+    "ngữ cảnh": "politics"
+  },
+  {
+    "word": "workplace",
+    "meaning": "nơi làm việc, chỗ làm việc",
+    "từ loại": "N",
+    "ngữ cảnh": "work"
+  },
+  {
+    "word": "rally",
+    "meaning": "cuộc tập hợp, cuộc mít tinh; sự động viên, khôi phục",
+    "từ loại": "N",
+    "ngữ cảnh": "politics"
+  },
+  {
+    "word": "productivity",
+    "meaning": "năng suất, hiệu suất",
+    "từ loại": "N",
+    "ngữ cảnh": "work"
+  },
+  {
+    "word": "shortly",
+    "meaning": "ngay, sớm; vắn tắt, ngắn gọn",
+    "từ loại": "ADV",
+    "ngữ cảnh": "time"
+  },
+  {
+    "word": "reportedly",
+    "meaning": "theo tin đưa, được cho là, nghe nói",
+    "từ loại": "ADV",
+    "ngữ cảnh": "media"
+  },
+  {
+    "word": "regulatory",
+    "meaning": "thuộc quy định, liên quan đến việc điều tiết, kiểm soát",
+    "từ loại": "A",
+    "ngữ cảnh": "government"
+  },
+  {
+    "word": "timely",
+    "meaning": "kịp thời, đúng lúc",
+    "từ loại": "A",
+    "ngữ cảnh": "time"
+  },
+  {
+    "word": "treaty",
+    "meaning": "hiệp ước, hiệp định, điều ước",
+    "từ loại": "N",
+    "ngữ cảnh": "politics"
+  },
+  {
+    "word": "unity",
+    "meaning": "sự đoàn kết, sự thống nhất, sự hòa hợp",
+    "từ loại": "N",
+    "ngữ cảnh": "social"
+  },
+  {
+    "word": "weekly",
+    "meaning": "hàng tuần, mỗi tuần một lần",
+    "từ loại": "A",
+    "ngữ cảnh": "time"
+  },
+  {
+    "word": "filmmaker",
+    "meaning": "người làm phim, nhà làm phim",
+    "từ loại": "N",
+    "ngữ cảnh": "entertainment"
+  },
+  {
+    "word": "freshman",
+    "meaning": "sinh viên năm nhất; người mới bắt đầu",
+    "từ loại": "N",
+    "ngữ cảnh": "education"
+  },
+  {
+    "word": "high-profile",
+    "meaning": "nổi tiếng, được chú ý nhiều, có tầm ảnh hưởng",
+    "từ loại": "A",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "harbor",
+    "meaning": "bến cảng, cảng biển; nơi trú ẩn",
+    "từ loại": "N",
+    "ngữ cảnh": "transportation"
+  },
+  {
+    "word": "healthcare",
+    "meaning": "chăm sóc sức khỏe",
+    "từ loại": "N",
+    "ngữ cảnh": "health"
+  },
+  {
+    "word": "inquire",
+    "meaning": "hỏi, tra hỏi, tìm hiểu",
+    "từ loại": "V",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "large-scale",
+    "meaning": "quy mô lớn, trên diện rộng",
+    "từ loại": "A",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "lineup",
+    "meaning": "hàng; đội hình; danh sách (chương trình, sự kiện)",
+    "từ loại": "N",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "longtime",
+    "meaning": "lâu năm, lâu đời",
+    "từ loại": "A",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "makeup",
+    "meaning": "mỹ phẩm; lớp trang điểm",
+    "từ loại": "N",
+    "ngữ cảnh": "appearance"
+  },
+  {
+    "word": "mosquito",
+    "meaning": "muỗi",
+    "từ loại": "N",
+    "ngữ cảnh": "animals"
+  },
+  {
+    "word": "newly",
+    "meaning": "mới, vừa mới, gần đây",
+    "từ loại": "ADV",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "hierarchy",
+    "meaning": "hệ thống phân cấp, thứ bậc, cấp bậc",
+    "từ loại": "N",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "gravity",
+    "meaning": "trọng lực; tính nghiêm trọng",
+    "từ loại": "N",
+    "ngữ cảnh": "science"
+  },
+  {
+    "word": "intensity",
+    "meaning": "cường độ, mức độ, sự mãnh liệt",
+    "từ loại": "N",
+    "ngữ cảnh": "science"
+  },
+  {
+    "word": "lengthy",
+    "meaning": "dài dòng, kéo dài",
+    "từ loại": "A",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "namely",
+    "meaning": "tức là, nghĩa là, đó là",
+    "từ loại": "ADV",
+    "ngữ cảnh": "general"
+  },
+  {
+    "word": "pity",
+    "meaning": "sự thương xót, sự tiếc nuối",
+    "từ loại": "N",
+    "ngữ cảnh": "feelings"
+  },
+  {
+    "word": "pity",
+    "meaning": "thương xót, xót xa",
+    "từ loại": "V",
+    "ngữ cảnh": "feelings"
+  }
+]

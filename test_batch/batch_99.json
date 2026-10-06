@@ -1,0 +1,49 @@
+{
+ "batch": 99,
+ "words": [
+  {
+   "word": "abandon",
+   "pronunciation": "/əˈbæn.dən/",
+   "part_of_speech": ["V", "N"],
+   "senses": [
+    {
+     "meaning_vi": "từ bỏ; bỏ rơi, ruồng bỏ.",
+     "pos": "V",
+     "source": "dictionary.db",
+     "context_labels": ["general", "feelings"],
+     "examples": [
+      {
+       "sentence": "They had to abandon the car in the snow.",
+       "blank_sentence": "They had to ____ the car in the snow.",
+       "answer": "abandon",
+       "accepted_answers": ["leave behind"]
+      },
+      {
+       "sentence": "He never abandons a project once he starts it.",
+       "blank_sentence": "He never ____ a project once he starts it.",
+       "answer": "abandon",
+       "accepted_answers": ["abandon"]
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Sự phóng túng, sự tự do, sự buông thả.",
+     "pos": "N",
+     "source": "dictionary.db",
+     "context_labels": ["personality"],
+     "examples": []
+    }
+   ]
+  },
+  {
+   "word": "zzz_not_a_word",
+   "senses": [
+    {
+     "meaning_vi": "",
+     "pos": "N",
+     "context_labels": []
+    }
+   ]
+  }
+ ]
+}

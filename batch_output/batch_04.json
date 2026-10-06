@@ -1,0 +1,8627 @@
+{
+ "batch": 4,
+ "words": [
+  {
+   "word": "bar",
+   "pronunciation": "/ˈbɑːr/",
+   "cefr": "A1",
+   "part_of_speech": [
+    "E",
+    "N",
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Barơ (đơn vị áp suất).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "science",
+      "engineering",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Research on bar.",
+       "blank_sentence": "Research on ____.",
+       "answer": "bar",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Thanh, thỏi.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "industry",
+      "general",
+      "money",
+      "finance"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bar.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bar",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Chấn song; then chắn (cửa).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "home",
+      "law",
+      "safety"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bar.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bar",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Vật ngáng; cái ngáng đường (để thu thuế).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "government",
+      "finance",
+      "history"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bar.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bar",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Cồn cát ngầm (ở cửa sông hay hải cảng).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "transportation",
+      "geography"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bar.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bar",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Vạch ngang (ở trên huy chương).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "sports",
+      "design",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bar.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bar",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Vạch đường kẻ.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "design",
+      "general",
+      "education",
+      "arts"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bar.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bar",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Gạch nhịp; nhịp.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "music",
+      "general",
+      "education",
+      "arts"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bar.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bar",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Thanh, cần.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "engineering",
+      "general",
+      "industry"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bar.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bar",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Xà.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "construction",
+      "general",
+      "engineering"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bar.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bar",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Sự kháng biện.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "law",
+      "general",
+      "formal"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bar.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bar",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Vành móng ngựa, toà.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "law",
+      "general",
+      "government"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bar.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bar",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Nghề luật sư.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "law",
+      "government",
+      "career"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bar.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bar",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Quầy bán rượu.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "restaurant",
+      "leisure",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bar.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bar",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Sự trở ngại, sự cản trở (về tinh thần).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "psychology",
+      "general",
+      "feelings"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bar.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bar",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Cài, then (cửa).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "home",
+      "safety",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bar.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bar",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Chặn (đường... ), ngăn cản.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "safety",
+      "general",
+      "transportation"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bar.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bar",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Vạch đường kẻ.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "design",
+      "general",
+      "education",
+      "arts"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bar.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bar",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Cấm, cấm chỉ.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "government",
+      "general",
+      "law",
+      "formal"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bar.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bar",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Ghét, không ưa (một người, một thói quen).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "feelings",
+      "informal",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bar.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bar",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Kháng biện.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "law",
+      "general",
+      "formal"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bar.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bar",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Trừ, trừ ra.",
+     "pos": "E",
+     "source": "dictionary",
+     "context_labels": [
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bar.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bar",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "barrier",
+   "pronunciation": "/ˈbɛr.i.ɜː/",
+   "cefr": "B2",
+   "part_of_speech": [
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Đặt vật chướng ngại (để chặn, phòng thủ).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "safety",
+      "general",
+      "sports",
+      "military"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember barrier.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "barrier",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Chắn ngang.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "construction",
+      "general",
+      "engineering"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember barrier.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "barrier",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "base",
+   "pronunciation": "/ˈbeɪs/",
+   "cefr": "B1",
+   "part_of_speech": [
+    "A",
+    "N",
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Cơ sở, nền, nền tảng, nền móng.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "education",
+      "science"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember base.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "base",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Đáy, chấn đế.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "construction",
+      "design"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember base.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "base",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Căn cứ.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "military",
+      "general",
+      "government"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember base.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "base",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Đường đáy, mặt đáy.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "education",
+      "science",
+      "sports"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember base.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "base",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Cơ số.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "science",
+      "education"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember base.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "base",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Gốc từ.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "education",
+      "general",
+      "literature",
+      "formal"
+     ],
+     "examples": [
+      {
+       "sentence": "Studying base helps learning.",
+       "blank_sentence": "Studying ____ helps learning.",
+       "answer": "base",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Bazơ.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "science",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Research on base.",
+       "blank_sentence": "Research on ____.",
+       "answer": "base",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "(Bóng chày) Căn cứ, chốt; một trong bốn điểm phải được chạm bóng.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "sports"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember base.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "base",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Đặt tên, đặt cơ sở (cái gì) trên.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "formal"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember base.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "base",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Dựa vào, căn cứ vào.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "science",
+      "formal"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember base.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "base",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Hèn hạ, đê tiện; khúm núm, quỵ luỵ.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "personality",
+      "informal",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember base.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "base",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Thường, không quý (kim loại).",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "industry",
+      "general",
+      "mining"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember base.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "base",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Giả (tiền).",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "money",
+      "crime",
+      "finance"
+     ],
+     "examples": [
+      {
+       "sentence": "Managing base is important.",
+       "blank_sentence": "Managing ____ is important.",
+       "answer": "base",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "baseball",
+   "pronunciation": "/ˈbeɪs.ˌbɔl/",
+   "cefr": "A1",
+   "part_of_speech": [
+    "N"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "(Thể dục, thể thao) Bóng chày.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "sports"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember baseball.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "baseball",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "based",
+   "pronunciation": null,
+   "cefr": "A2",
+   "part_of_speech": [
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Quá khứ và phân từ quá khứ của base",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "education"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember based.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "based",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "basic",
+   "pronunciation": "/ˈbeɪsɪk/",
+   "cefr": "B1",
+   "part_of_speech": [
+    "A"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Cơ bản, cơ sở.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "education"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember basic.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "basic",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "(thuộc) bazơ.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "science",
+      "general",
+      "education"
+     ],
+     "examples": [
+      {
+       "sentence": "Research on basic.",
+       "blank_sentence": "Research on ____.",
+       "answer": "basic",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "basically",
+   "pronunciation": "/ˈbeɪsɪk/",
+   "cefr": "B2",
+   "part_of_speech": [
+    "A"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Cơ bản, cơ sở.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "informal"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember basically.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "basically",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "(thuộc) bazơ.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "science",
+      "general",
+      "education"
+     ],
+     "examples": [
+      {
+       "sentence": "Research on basically.",
+       "blank_sentence": "Research on ____.",
+       "answer": "basically",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "basis",
+   "pronunciation": "/ˈbeɪ.səs/",
+   "cefr": "B1",
+   "part_of_speech": [
+    "N"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Nền tảng, cơ sở.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "education",
+      "formal"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember basis.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "basis",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Căn cứ (quân sự).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "military",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember basis.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "basis",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "basketball",
+   "pronunciation": ".ˌbɔl",
+   "cefr": "A1",
+   "part_of_speech": [
+    "N"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Thể bóng rổ.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "sports"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember basketball.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "basketball",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "bath",
+   "pronunciation": "/ˈbæθ/",
+   "cefr": "A1",
+   "part_of_speech": [
+    "N",
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Sự tắm.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "daily life",
+      "health",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bath.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bath",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Chậu tắm, bồn tắm, nhà tắm.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "daily life",
+      "home",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bath.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bath",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Nhà tắm có bể bơi.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "leisure",
+      "general",
+      "health",
+      "sports"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bath.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bath",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Tắm.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "daily life",
+      "general",
+      "health"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bath.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bath",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "bathroom",
+   "pronunciation": "/ˈbæθɹuːm/",
+   "cefr": "A1",
+   "part_of_speech": [
+    "N"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Buồng tắm, phòng tắm, nhà vệ sinh.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "daily life",
+      "home",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bathroom.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bathroom",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "battery",
+   "pronunciation": "/ˈbæ.tə.ri/",
+   "cefr": "B1",
+   "part_of_speech": [
+    "N"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Khẩu đội (pháo).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "military",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember battery.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "battery",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Bộ pin, ắc quy, bình điện",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "technology",
+      "engineering",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember battery.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "battery",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Bộ.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "education",
+      "science",
+      "engineering"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember battery.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "battery",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Dãy chuồng nuôi gà nhốt.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "animals",
+      "farming",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember battery.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "battery",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Sự hành hung, sự bạo hành.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "law",
+      "crime",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember battery.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "battery",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "battle",
+   "pronunciation": "/ˈbætl̩/",
+   "cefr": "B1",
+   "part_of_speech": [
+    "N",
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Trận đánh; cuộc chiến đấu.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "military",
+      "general",
+      "competition"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember battle.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "battle",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Chiến thuật.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "sports",
+      "military",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember battle.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "battle",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Chiến đấu, vật lộn.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "sports",
+      "general",
+      "competition",
+      "military"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember battle.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "battle",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "be",
+   "pronunciation": "/ˈbi/",
+   "cefr": "A1",
+   "part_of_speech": [
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Đang.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember be.",
+       "blank_sentence": "Please remem____r ____.",
+       "answer": "be",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Bị, được.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "education"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember be.",
+       "blank_sentence": "Please remem____r ____.",
+       "answer": "be",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Phải, định, sẽ.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember be.",
+       "blank_sentence": "Please remem____r ____.",
+       "answer": "be",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Thì, là.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "education"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember be.",
+       "blank_sentence": "Please remem____r ____.",
+       "answer": "be",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Trở nên, trở thành.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember be.",
+       "blank_sentence": "Please remem____r ____.",
+       "answer": "be",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Giá.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember be.",
+       "blank_sentence": "Please remem____r ____.",
+       "answer": "be",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Có, tồn tại, ở, sống.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember be.",
+       "blank_sentence": "Please remem____r ____.",
+       "answer": "be",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Xảy ra, diễn ra.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember be.",
+       "blank_sentence": "Please remem____r ____.",
+       "answer": "be",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "beach",
+   "pronunciation": "/ˈbitʃ/",
+   "cefr": "A1",
+   "part_of_speech": [
+    "N",
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Sỏi cát (ở bãi biển).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "nature",
+      "tourism",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Plants and beach.",
+       "blank_sentence": "Plants and ____.",
+       "answer": "beach",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Bãi biển.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "tourism",
+      "general",
+      "nature",
+      "leisure"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember beach.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "beach",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Cho (tàu thuyền) lên cạn.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "transportation",
+      "general",
+      "travel",
+      "leisure"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember beach.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "beach",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "bean",
+   "pronunciation": "/ˈbin/",
+   "cefr": "A2",
+   "part_of_speech": [
+    "N"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Đậu.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "food",
+      "farming",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bean.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bean",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Hột (cà phê).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "food",
+      "general",
+      "industry",
+      "farming"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bean.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bean",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Cái đầu.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "body",
+      "informal",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bean.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bean",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Tiền đồng.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "money",
+      "history",
+      "informal",
+      "finance"
+     ],
+     "examples": [
+      {
+       "sentence": "Managing bean is important.",
+       "blank_sentence": "Managing ____ is important.",
+       "answer": "bean",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "bear",
+   "pronunciation": "/ˈbɛr/",
+   "cefr": "A2",
+   "part_of_speech": [
+    "N",
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Mang, cầm, vác, đội, đeo, ôm.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "daily life",
+      "work",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bear.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bear",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Chịu, chịu đựng.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "feelings",
+      "personality"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bear.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bear",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Sinh, sinh sản, sinh lợi.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "animals",
+      "finance",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bear.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bear",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Đầu cơ giá hạ (chứng khoán).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "money",
+      "finance",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Managing bear is important.",
+       "blank_sentence": "Managing ____ is important.",
+       "answer": "bear",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Làm cho sụt giá (chứng khoán).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "finance",
+      "general",
+      "money",
+      "economy"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bear.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bear",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Chống đỡ, đỡ.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "construction",
+      "engineering",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bear.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bear",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Có hiệu lực, ăn thua.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "law",
+      "general",
+      "formal"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bear.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bear",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Rẽ, quay, hướng về.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "transportation"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bear.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bear",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Ở vào (vị trí nào... ).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bear.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bear",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Con gấu.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "nature",
+      "animals",
+      "body"
+     ],
+     "examples": [
+      {
+       "sentence": "Plants and bear.",
+       "blank_sentence": "Plants and ____.",
+       "answer": "bear",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Người thô lỗ, người thô tục.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "personality",
+      "informal",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bear.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bear",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Chòm sao gấu.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "science",
+      "culture",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Research on bear.",
+       "blank_sentence": "Research on ____.",
+       "answer": "bear",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Sự đầu cơ giá hạ (chứng khoán); sự làm cho sụt giá (chứng khoán).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "finance",
+      "general",
+      "money",
+      "business"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bear.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bear",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Người đầu cơ giá hạ (chứng khoán).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "business",
+      "general",
+      "finance",
+      "career"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bear.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bear",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "beat",
+   "pronunciation": "/biːt/",
+   "cefr": "A2",
+   "part_of_speech": [
+    "N",
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Sự đập; tiếng đập.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "music",
+      "daily life"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember beat.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "beat",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Khu vực đi tuần (của cảnh sát); sự đi tuần.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "law",
+      "safety",
+      "crime"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember beat.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "beat",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Cái trội hơn hẳn, cái vượt hơn hẳn.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "competition"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember beat.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "beat",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Nhịp, nhịp đánh, phách (của người chỉ huy dàn nhạc).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "arts",
+      "music"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember beat.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "beat",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Phách.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "music",
+      "general",
+      "education"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember beat.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "beat",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Khu vực săn đuổi, cuộc săn đuổi.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "leisure",
+      "general",
+      "nature",
+      "animals"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember beat.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "beat",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Tin đăng đầu tiên (trước các báo cáo).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "media",
+      "general",
+      "communication"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember beat.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "beat",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Người thất nghiệp.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "social",
+      "work",
+      "informal"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember beat.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "beat",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Người sống lang thang đầu đường xó chợ.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "social",
+      "general",
+      "daily life",
+      "informal"
+     ],
+     "examples": [
+      {
+       "sentence": "Meeting friends through beat.",
+       "blank_sentence": "Meeting friends through ____.",
+       "answer": "beat",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Đánh đập, nện, đấm.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "crime",
+      "general",
+      "sports",
+      "safety"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember beat.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "beat",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Vỗ (cánh); gõ, đánh (nhịp).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "animals",
+      "music",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember beat.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "beat",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Thắng, đánh bại, vượt.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "sports",
+      "competition",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember beat.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "beat",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Đánh trống để ra lệnh, ra hiệu bệnh bằng trống.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "music",
+      "military",
+      "health"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember beat.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "beat",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Khua (bụi rậm... để lùa những con thú ra).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "nature",
+      "body",
+      "animals",
+      "leisure"
+     ],
+     "examples": [
+      {
+       "sentence": "Plants and beat.",
+       "blank_sentence": "Plants and ____.",
+       "answer": "beat",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "beautiful",
+   "pronunciation": "/ˈbju.tɪ.fəl/",
+   "cefr": "A1",
+   "part_of_speech": [
+    "A"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Đẹp; hay.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "arts",
+      "appearance",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember beautiful.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "beautiful",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Tốt, tốt đẹp.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "feelings"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember beautiful.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "beautiful",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "beauty",
+   "pronunciation": "/ˈbjuː.ti/",
+   "cefr": "B1",
+   "part_of_speech": [
+    "N"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Vẻ đẹp, sắc đẹp, nhan sắc.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "arts",
+      "appearance",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember beauty.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "beauty",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Cái đẹp, cái hay.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "arts",
+      "general",
+      "culture",
+      "philosophy"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember beauty.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "beauty",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Người đẹp, vật đẹp.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "entertainment",
+      "general",
+      "arts",
+      "appearance"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember beauty.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "beauty",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "because",
+   "pronunciation": "/bɪ.ˈkɔz/",
+   "cefr": "A1",
+   "part_of_speech": [
+    "C"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Vì, bởi vì.",
+     "pos": "C",
+     "source": "dictionary",
+     "context_labels": [
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember because.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "because",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Tại.",
+     "pos": "C",
+     "source": "dictionary",
+     "context_labels": [
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember because.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "because",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "become",
+   "pronunciation": "/bɪ.ˈkəm/",
+   "cefr": "A1",
+   "part_of_speech": [
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Trở nên, trở thành.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember become.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "become",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Vừa, hợp, thích hợp, xứng.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "clothing",
+      "formal"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember become.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "become",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "bed",
+   "pronunciation": "/bed/",
+   "cefr": "A1",
+   "part_of_speech": [
+    "N",
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Cái giường: cái đồ gỗ cho ngủ.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "sleep",
+      "home"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bed.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bed",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Nền.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "construction",
+      "general",
+      "nature"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bed.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bed",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Lòng (sông...).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "nature",
+      "geography",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Plants and bed.",
+       "blank_sentence": "Plants and ____.",
+       "answer": "bed",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Lớp.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "science",
+      "industry"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bed.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bed",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Nấm mồ.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "family",
+      "religion",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "bed is useful at home.",
+       "blank_sentence": "____ is useful at home.",
+       "answer": "bed",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Hôn nhân; vợ chồng.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "relationships",
+      "marriage",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "bed affects family life.",
+       "blank_sentence": "____ affects family life.",
+       "answer": "bed",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Xây vào, đặt vào, gắn vào, vùi vào, chôn vào.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "construction",
+      "general",
+      "daily life",
+      "industry"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bed.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bed",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Trồng (cây con, cây ươm).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "plants",
+      "farming",
+      "environment",
+      "body"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bed.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bed",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Rải ổ cho ngựa nằm.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "animals",
+      "farming",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bed.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bed",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Đặt vào giường, cho đi ngủ.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "sleep",
+      "family"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bed.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bed",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Thành tầng, thành lớp.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "industry",
+      "farming"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bed.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bed",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Chìm ngập, bị sa lầy.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "safety",
+      "transportation",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bed.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bed",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Đi ngủ",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "sleep",
+      "daily life"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bed.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bed",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "bedroom",
+   "pronunciation": "/ˈbed.rʊm/",
+   "cefr": "A1",
+   "part_of_speech": [
+    "N"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Buồng ngủ.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "sleep",
+      "home"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bedroom.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bedroom",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "bee",
+   "pronunciation": "/ˈbiː/",
+   "cefr": "B1",
+   "part_of_speech": [
+    "N"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Con ong.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "animals",
+      "health",
+      "nature",
+      "body"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bee.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bee",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Nhà thơ.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "literature",
+      "general",
+      "arts",
+      "informal"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bee.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bee",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Người bận nhiều việc.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "work",
+      "informal",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "bee is important for career success.",
+       "blank_sentence": "____ is important for career success.",
+       "answer": "bee",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Buổi vui chơi tập thể, buổi lao động tập thể.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "social",
+      "leisure",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Meeting friends through bee.",
+       "blank_sentence": "Meeting friends through ____.",
+       "answer": "bee",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "beef",
+   "pronunciation": "/ˈbiːf/",
+   "cefr": "A2",
+   "part_of_speech": [
+    "N",
+    "S",
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Thịt bò.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "food",
+      "cooking",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember beef.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "beef",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Con bò.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "animals",
+      "farming",
+      "body"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember beef.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "beef",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Bò thịt (để giết ăn thịt).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "farming",
+      "general",
+      "food",
+      "animals"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember beef.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "beef",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Sức mạnh, thể lực; bắp thịt (người).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "body",
+      "exercise",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember beef.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "beef",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Lời phàn nàn, lời than vãn.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "feelings",
+      "informal",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember beef.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "beef",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Phàn nàn, than vãn.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "informal",
+      "general",
+      "social",
+      "feelings"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember beef.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "beef",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Đánh rắm.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "body",
+      "informal",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember beef.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "beef",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Trở nên mạnh mẽ; trở nên vững chắc.",
+     "pos": "S",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "health",
+      "sports",
+      "military"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember beef.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "beef",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Tăng cường (về quân sự).",
+     "pos": "S",
+     "source": "dictionary",
+     "context_labels": [
+      "military",
+      "general",
+      "politics"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember beef.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "beef",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "beer",
+   "pronunciation": "/ˈbɪr/",
+   "cefr": "A1",
+   "part_of_speech": [
+    "N"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Rượu bia.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "food",
+      "leisure",
+      "restaurant"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember beer.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "beer",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "brand",
+   "pronunciation": "/bɹænd/",
+   "cefr": "B1",
+   "part_of_speech": [
+    "N",
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Nhãn (hàng hoá), thương hiệu.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "shopping",
+      "business",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember brand.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "brand",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Loại hàng.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "shopping",
+      "general",
+      "economy",
+      "business"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember brand.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "brand",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Dấu sắt nung (đóng vào vai tội nhân); vết dấu sắt nung.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "crime",
+      "history"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember brand.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "brand",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Vết nhơ, vết nhục.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "feelings",
+      "informal",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember brand.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "brand",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Khúc củi đang cháy dở.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "daily life",
+      "general",
+      "home",
+      "nature"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember brand.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "brand",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Cây đuốc.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "history",
+      "culture",
+      "environment"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember brand.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "brand",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Thanh gươm, thanh kiếm.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "history",
+      "military",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember brand.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "brand",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Bệnh gỉ (cây).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "plants",
+      "farming",
+      "health",
+      "environment"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember brand.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "brand",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Đóng nhãn (hàng hoá).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "business",
+      "general",
+      "management",
+      "industry"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember brand.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "brand",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Đóng dấu bằng sắt nung (lên vai tội nhân); đốt bằng sắt nung.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "history",
+      "crime",
+      "law"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember brand.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "brand",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Làm nhục, làm ô danh.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "social",
+      "general",
+      "law",
+      "informal"
+     ],
+     "examples": [
+      {
+       "sentence": "Meeting friends through brand.",
+       "blank_sentence": "Meeting friends through ____.",
+       "answer": "brand",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Khắc sâu (vào trí nhớ).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "education",
+      "psychology",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Studying brand helps learning.",
+       "blank_sentence": "Studying ____ helps learning.",
+       "answer": "brand",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Gọi (ai) là, quy (ai) là.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "informal",
+      "general",
+      "social",
+      "relationships"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember brand.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "brand",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "before",
+   "pronunciation": "/biˈfoɹ/",
+   "cefr": "A1",
+   "part_of_speech": [
+    "C",
+    "D",
+    "E"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Trước, đằng trước.",
+     "pos": "D",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "time"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember before.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "before",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Trước đây, ngày trước.",
+     "pos": "D",
+     "source": "dictionary",
+     "context_labels": [
+      "time",
+      "history",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember before.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "before",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Trước, trước mắt, trước mặt.",
+     "pos": "E",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "formal"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember before.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "before",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Hơn (về chức vị, khả năng... ).",
+     "pos": "E",
+     "source": "dictionary",
+     "context_labels": [
+      "career",
+      "formal",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember before.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "before",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Thà... còn hơn...;",
+     "pos": "E",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "feelings"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember before.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "before",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Trước khi.",
+     "pos": "C",
+     "source": "dictionary",
+     "context_labels": [
+      "time",
+      "general",
+      "education"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember before.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "before",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Thà... chứ không...",
+     "pos": "C",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "feelings"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember before.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "before",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "brave",
+   "pronunciation": "/bɹeɪv/",
+   "cefr": "B1",
+   "part_of_speech": [
+    "A",
+    "N",
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Chiến sĩ da đỏ.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "history",
+      "military",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember brave.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "brave",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Gan dạ, can đảm, dũng cảm.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "personality",
+      "general",
+      "feelings",
+      "military"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember brave.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "brave",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": ", (văn học) đẹp lộng lẫy, sang trọng",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "appearance",
+      "literature",
+      "education"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember brave.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "brave",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "hào hoa phong nhã.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "personality",
+      "general",
+      "social",
+      "culture"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember brave.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "brave",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Bất chấp, không sợ, xem khinh; đương đầu với.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "personality"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember brave.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "brave",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "beg",
+   "pronunciation": "/ˈbɛɡ/",
+   "cefr": "B2",
+   "part_of_speech": [
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Ăn xin, xin.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "social",
+      "money",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Meeting friends through beg.",
+       "blank_sentence": "Meeting friends through ____.",
+       "answer": "beg",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Cầu xin; đề nghi thiết tha, khẩn cầu.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "feelings",
+      "relationships",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember beg.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "beg",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Xin trân trọng (trong thư giao dịch).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "business",
+      "formal",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember beg.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "beg",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Đứng lên hai chân sau (chó chầu ăn).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "animals",
+      "general",
+      "daily life",
+      "informal"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember beg.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "beg",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "bread",
+   "pronunciation": "/brɛd/",
+   "cefr": "A1",
+   "part_of_speech": [
+    "N",
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Bánh mì.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "food",
+      "cooking",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bread.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bread",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Miếng ăn, kế sinh nhai.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "money",
+      "general",
+      "work",
+      "informal"
+     ],
+     "examples": [
+      {
+       "sentence": "Managing bread is important.",
+       "blank_sentence": "Managing ____ is important.",
+       "answer": "bread",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "begin",
+   "pronunciation": null,
+   "cefr": "A1",
+   "part_of_speech": [
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "bắt đầu, khởi đầu, mở đầu",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "time"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember begin.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "begin",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "break",
+   "pronunciation": "/ˈbreɪk/",
+   "cefr": "A1",
+   "part_of_speech": [
+    "N",
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Xe vực ngựa (tập cho ngựa kéo xe).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "animals",
+      "travel",
+      "transportation",
+      "leisure"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember break.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "break",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Xe ngựa không mui.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "history",
+      "transportation",
+      "travel"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember break.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "break",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Sự gãy, sự kéo, sự đứt, sự ngắt.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "daily life",
+      "safety"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember break.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "break",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Chỗ vỡ, chỗ nứt, chỗ rạn.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "safety",
+      "general",
+      "daily life",
+      "construction"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember break.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "break",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Sự nghỉ, sự dừng lại, sự gián đoạn.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "time",
+      "work",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember break.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "break",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Giờ nghỉ, giờ ra chơi, giờ giải lao.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "education",
+      "work",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Studying break helps learning.",
+       "blank_sentence": "Studying ____ helps learning.",
+       "answer": "break",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Sự cắt đứt (quan hệ), sự tuyệt giao.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "social",
+      "relationships",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Meeting friends through break.",
+       "blank_sentence": "Meeting friends through ____.",
+       "answer": "break",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Sự lỡ lời; sự lầm lỗi.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "feelings",
+      "informal",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember break.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "break",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Sự vỡ nợ, sự bị phá sản.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "finance",
+      "general",
+      "money",
+      "business"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember break.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "break",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Sự thay đổi (thời tiết).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "weather",
+      "environment"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember break.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "break",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Sự thụt giá thình lình.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "economy",
+      "finance",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember break.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "break",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Dịp may, cơ hội.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "success"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember break.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "break",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Sự đổi giọng; sự chuyển âm vực.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "music",
+      "general",
+      "education",
+      "arts"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember break.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "break",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Mục xen (vào chương trình đang phát) (rađiô, truyền hình).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "entertainment",
+      "media",
+      "programming"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember break.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "break",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Làm gãy, bẻ gãy, làm đứt, làm vỡ, đập vỡ.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "daily life",
+      "safety",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember break.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "break",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Cắt, ngắt, làm gián đoạn, ngừng phá.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "daily life",
+      "communication",
+      "technology"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember break.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "break",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Xua tan, làm tan tác.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "military"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember break.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "break",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Phạm, phạm vi, xâm phạm.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "law",
+      "general",
+      "safety"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember break.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "break",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Truyền đạt, báo (tin).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "communication",
+      "media",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember break.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "break",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Làm suy sụp, làm nhụt (ý chí... ), làm mất hết.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "feelings",
+      "psychology",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember break.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "break",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Ngăn đỡ, làm yếu đi, làm nhẹ đi.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "health",
+      "sports"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember break.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "break",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Làm cho thuần thục; tập luyện.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "sports",
+      "animals",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember break.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "break",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Đập tan; đàn áp, trấn áp.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "military",
+      "general",
+      "law"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember break.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "break",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Sửa chữa.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "daily life",
+      "work",
+      "engineering"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember break.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "break",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Mở, mở tung ra, cạy tung ra.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "daily life",
+      "crime",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember break.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "break",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Gãy, đứt, vỡ.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "daily life",
+      "safety"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember break.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "break",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Chạy tán loạn, tan tác.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "military",
+      "general",
+      "sports"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember break.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "break",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Ló ra, hé ra, hiện ra.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "feelings"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember break.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "break",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Thoát khỏi; sổ ra; ((thể dục, thể thao)) buông ra (quyền Anh).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "sports",
+      "competition"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember break.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "break",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Suy nhược, yếu đi; suy sụp, sa sút, phá sản.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "health",
+      "finance",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Regular exercise helps break good health.",
+       "blank_sentence": "Regular exercise helps ____ good health.",
+       "answer": "break",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Thay đổi.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "time",
+      "nature",
+      "weather"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember break.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "break",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Vỡ tiếng, nức nở, nghẹn ngào (tiếng nói).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "feelings",
+      "general",
+      "body",
+      "music"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember break.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "break",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Đột nhiên làm; phá lên.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "feelings",
+      "general",
+      "social",
+      "entertainment"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember break.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "break",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Cắt đứt quan hệ, tuyệt giao.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "social",
+      "relationships",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Meeting friends through break.",
+       "blank_sentence": "Meeting friends through ____.",
+       "answer": "break",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Phá mà vào, phá mà ra, xông vào nhà; phá cửa vào nhà, bẻ khoá vào nhà.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "safety",
+      "crime",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember break.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "break",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "beginning",
+   "pronunciation": "/bɪ.ˈɡɪn.niɳ/",
+   "cefr": "A1",
+   "part_of_speech": [
+    "N"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Phần đầu; lúc bắt đầu, lúc khởi đầu.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "time"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember beginning.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "beginning",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Căn nguyên, nguyên do.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "science"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember beginning.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "beginning",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "breakfast",
+   "pronunciation": "/ˈbrɛk.fəst/",
+   "cefr": "A1",
+   "part_of_speech": [
+    "N",
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Bữa ăn sáng, bữa điểm tâm.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "daily life",
+      "food",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember breakfast.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "breakfast",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Ăn sáng, điểm tâm.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "food",
+      "general",
+      "daily life",
+      "restaurant"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember breakfast.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "breakfast",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Mời (ai) ăn điểm tâm.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "daily life",
+      "social",
+      "family"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember breakfast.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "breakfast",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "behave",
+   "pronunciation": "/bɪ.ˈheɪv/",
+   "cefr": "A2",
+   "part_of_speech": [
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Ăn ở, đối xử, cư xử.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "social",
+      "personality",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Meeting friends through behave.",
+       "blank_sentence": "Meeting friends through ____.",
+       "answer": "behave",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "breast",
+   "pronunciation": "/bɹɛst/",
+   "cefr": "B2",
+   "part_of_speech": [
+    "N",
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Ngực.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "health",
+      "body"
+     ],
+     "examples": [
+      {
+       "sentence": "Regular exercise helps breast good health.",
+       "blank_sentence": "Regular exercise helps ____ good health.",
+       "answer": "breast",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Vú.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "health",
+      "body",
+      "family"
+     ],
+     "examples": [
+      {
+       "sentence": "Regular exercise helps breast good health.",
+       "blank_sentence": "Regular exercise helps ____ good health.",
+       "answer": "breast",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Lòng, tâm trạng, tình cảm.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "feelings",
+      "general",
+      "literature",
+      "psychology"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember breast.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "breast",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Nguồn nuôi sống.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "family",
+      "nature",
+      "finance"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember breast.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "breast",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Cái diệp (ở cái cày).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "farming",
+      "general",
+      "engineering"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember breast.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "breast",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Gương lò.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "engineering",
+      "industry",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember breast.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "breast",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Lấy ngực để chống đỡ (cái gì); chống lại.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "health",
+      "sports",
+      "body"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember breast.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "breast",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "behavior",
+   "pronunciation": "/bɪ.ˈheɪ.vjɜː/",
+   "cefr": "A2",
+   "part_of_speech": [
+    "N"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Cách xử lý, chế độ; hành vi, trạng thái.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "personality",
+      "psychology",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember behavior.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "behavior",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Tập tính.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "science",
+      "animals",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Research on behavior.",
+       "blank_sentence": "Research on ____.",
+       "answer": "behavior",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "breath",
+   "pronunciation": "/ˈbrɛθ/",
+   "cefr": "B1",
+   "part_of_speech": [
+    "N"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Hơi thở, hơi.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "health",
+      "body",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Regular exercise helps breath good health.",
+       "blank_sentence": "Regular exercise helps ____ good health.",
+       "answer": "breath",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Cơn gió nhẹ; làn hương thoảng.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "nature",
+      "weather",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Plants and breath.",
+       "blank_sentence": "Plants and ____.",
+       "answer": "breath",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Tiếng thì thào.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "feelings",
+      "communication",
+      "literature"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember breath.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "breath",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "behind",
+   "pronunciation": "/bɪ.ˈhɑɪnd/",
+   "cefr": "A1",
+   "part_of_speech": [
+    "D",
+    "E",
+    "N"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Sau, ở đằng sau.",
+     "pos": "D",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "geography"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember behind.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "behind",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Chậm, trễ.",
+     "pos": "D",
+     "source": "dictionary",
+     "context_labels": [
+      "time",
+      "general",
+      "transportation"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember behind.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "behind",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Sau, ở đằng sau.",
+     "pos": "E",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "geography"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember behind.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "behind",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Kém.",
+     "pos": "E",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "education",
+      "sports"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember behind.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "behind",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Mông đít.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "body",
+      "informal",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember behind.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "behind",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "breathe",
+   "pronunciation": "/ˈbrið/",
+   "cefr": "B1",
+   "part_of_speech": [
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Hít, thở.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "health",
+      "exercise",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Regular exercise helps breathe good health.",
+       "blank_sentence": "Regular exercise helps ____ good health.",
+       "answer": "breathe",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Thốt ra, nói lộ ra.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "feelings",
+      "general",
+      "communication",
+      "literature"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember breathe.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "breathe",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Thở ra.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "health",
+      "general",
+      "body",
+      "exercise"
+     ],
+     "examples": [
+      {
+       "sentence": "Regular exercise helps breathe good health.",
+       "blank_sentence": "Regular exercise helps ____ good health.",
+       "answer": "breathe",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Truyền thổi vào.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "health",
+      "medicine",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Regular exercise helps breathe good health.",
+       "blank_sentence": "Regular exercise helps ____ good health.",
+       "answer": "breathe",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Biểu lộ, toát ra, tỏ ra.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "feelings",
+      "general",
+      "social",
+      "personality"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember breathe.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "breathe",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Để cho thở, để cho lấy hơi.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "health",
+      "sports"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember breathe.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "breathe",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Làm (ai) hết hơi, làm (ai) mệt đứt hơi.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "sports",
+      "exercise",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember breathe.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "breathe",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Thở, hô hấp.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "health",
+      "general",
+      "science",
+      "medicine"
+     ],
+     "examples": [
+      {
+       "sentence": "Regular exercise helps breathe good health.",
+       "blank_sentence": "Regular exercise helps ____ good health.",
+       "answer": "breathe",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Sống, hình như còn sống.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "feelings",
+      "health"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember breathe.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "breathe",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Thổi nhẹ (gió).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "nature",
+      "weather",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Plants and breathe.",
+       "blank_sentence": "Plants and ____.",
+       "answer": "breathe",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Nói nhỏ, nói thì thào.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "communication",
+      "general",
+      "social",
+      "informal"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember breathe.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "breathe",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Nói lên.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "communication",
+      "formal"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember breathe.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "breathe",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "being",
+   "pronunciation": "/ˈb.iiɳ/",
+   "cefr": "B2",
+   "part_of_speech": [
+    "A",
+    "N"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Sinh vật; con người.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "science",
+      "nature",
+      "body",
+      "philosophy"
+     ],
+     "examples": [
+      {
+       "sentence": "Research on being.",
+       "blank_sentence": "Research on ____.",
+       "answer": "being",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Sự tồn tại; sự sống.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "philosophy",
+      "science"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember being.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "being",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Bản chất; thể chất (con người).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "philosophy",
+      "psychology",
+      "body"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember being.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "being",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Hiện tại, hiện nay, này.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "informal"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember being.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "being",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "breathing",
+   "pronunciation": "/ˈbɹiðɪŋ/",
+   "cefr": "B1",
+   "part_of_speech": [
+    "A",
+    "N",
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Sự thở, sự hô hấp.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "health",
+      "exercise",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Regular exercise helps breathing good health.",
+       "blank_sentence": "Regular exercise helps ____ good health.",
+       "answer": "breathing",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Hơi thở.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "health",
+      "body",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Regular exercise helps breathing good health.",
+       "blank_sentence": "Regular exercise helps ____ good health.",
+       "answer": "breathing",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Hơi gió thoảng.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "nature",
+      "weather",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Plants and breathing.",
+       "blank_sentence": "Plants and ____.",
+       "answer": "breathing",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Cách phát âm bật hơi.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "education",
+      "general",
+      "communication",
+      "literature"
+     ],
+     "examples": [
+      {
+       "sentence": "Studying breathing helps learning.",
+       "blank_sentence": "Studying ____ helps learning.",
+       "answer": "breathing",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Dạng phân từ hiện tại và danh động từ (gerund) của breathe.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "education"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember breathing.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "breathing",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Trông như sống, sinh động.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "arts",
+      "general",
+      "feelings",
+      "design"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember breathing.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "breathing",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "belief",
+   "pronunciation": "/bəˈliːf/",
+   "cefr": "B1",
+   "part_of_speech": [
+    "N"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "lòng tin, đức tin; sự tin tưởng.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "religion",
+      "philosophy",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember belief.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "belief",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "tin tưởng.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "psychology",
+      "feelings"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember belief.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "belief",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "niềm tin",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "feelings",
+      "religion",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember belief.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "belief",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "bride",
+   "pronunciation": "/ˈbrɑɪd/",
+   "cefr": "B1",
+   "part_of_speech": [
+    "N"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Cô dâu.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "marriage",
+      "general",
+      "family",
+      "relationships"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bride.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bride",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "believe",
+   "pronunciation": "/bi-/",
+   "cefr": "A1",
+   "part_of_speech": [
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Tin, tin tưởng.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "feelings",
+      "religion",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember believe.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "believe",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Cho rằng, nghĩ rằng.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "psychology"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember believe.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "believe",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "bridge",
+   "pronunciation": "/ˈbrɪdʒ/",
+   "cefr": "A2",
+   "part_of_speech": [
+    "N",
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Brit.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bridge.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bridge",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Cái cầu.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "transportation",
+      "construction",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bridge.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bridge",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Sống (mũi).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "appearance",
+      "body",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bridge.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bridge",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Cái ngựa đàn (viôlông, ghita... ).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "arts",
+      "music",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bridge.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bridge",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Cầu.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "technology",
+      "entertainment",
+      "engineering"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bridge.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bridge",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Đài chỉ huy của thuyền trưởng.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "safety",
+      "transportation",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bridge.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bridge",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Xây cầu qua (sông... ).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "construction",
+      "general",
+      "transportation",
+      "engineering"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bridge.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bridge",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Vắt ngang.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "daily life",
+      "design"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bridge.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bridge",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Vượt qua, khắc phục.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "success"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bridge.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bridge",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "bell",
+   "pronunciation": "/ˈbɛɫ/",
+   "cefr": "B1",
+   "part_of_speech": [
+    "N",
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Cái chuông; nhạc (ở cổ ngựa... ).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "daily life",
+      "music",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bell.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bell",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Tiếng chuông.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "daily life",
+      "general",
+      "culture",
+      "religion"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bell.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bell",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Tràng hoa.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "culture",
+      "general",
+      "arts",
+      "clothing"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bell.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bell",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Thể vòm.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "design",
+      "general",
+      "science",
+      "construction"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bell.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bell",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Buộc chuông vào, treo chuông vào.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "animals",
+      "general",
+      "daily life",
+      "farming"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bell.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bell",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Tiếng kêu động đực (hươu nai).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "nature",
+      "animals",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Plants and bell.",
+       "blank_sentence": "Plants and ____.",
+       "answer": "bell",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Kêu, rống (hươu nai động đực).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "animals",
+      "general",
+      "nature",
+      "leisure"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bell.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bell",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "brief",
+   "pronunciation": "/ˈbrif/",
+   "cefr": "B2",
+   "part_of_speech": [
+    "A",
+    "N",
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Ngắn, vắn tắt, gọn.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "communication",
+      "formal",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember brief.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "brief",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Bản tóm tắt, bản toát yếu.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "formal",
+      "general",
+      "work",
+      "business"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember brief.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "brief",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Bản tóm tắt hồ sơ của luật sư bào chữa (một vụ kiện); (nghĩa rộng) việc kiện, việc tố tụng.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "law",
+      "government",
+      "formal"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember brief.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "brief",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Lời chỉ dẫn cho phi công (trước khi đi oanh tạc).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "transportation",
+      "military",
+      "government"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember brief.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "brief",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Chiếu thư (của Giáo Hoàng).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "religion",
+      "formal",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember brief.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "brief",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Tóm tắt lại.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "education",
+      "formal",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Studying brief helps learning.",
+       "blank_sentence": "Studying ____ helps learning.",
+       "answer": "brief",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Lập hồ sơ (một vụ kiện).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "law",
+      "general",
+      "formal"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember brief.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "brief",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Giao cho luật sư để biện hộ.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "law",
+      "government",
+      "career"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember brief.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "brief",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Chỉ dẫn cho phi công (trước khi đi oanh tạc).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "transportation",
+      "military",
+      "government"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember brief.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "brief",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Chỉ dẫn tường tận.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "management",
+      "general",
+      "work",
+      "formal"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember brief.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "brief",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "belong",
+   "pronunciation": "/bɪ.ˈlɔŋ/",
+   "cefr": "A2",
+   "part_of_speech": [
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Thuộc về, của, thuộc quyền sở hữu.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "law",
+      "money"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember belong.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "belong",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Thuộc vào (chỗ nào), ở (chỗ nào).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "geography"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember belong.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "belong",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Thuộc về bổn phận của, là việc của; có liên quan tới.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "work",
+      "formal"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember belong.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "belong",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Thuộc vào loại.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "education",
+      "science"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember belong.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "belong",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Là hội viên của.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "social",
+      "formal",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Meeting friends through belong.",
+       "blank_sentence": "Meeting friends through ____.",
+       "answer": "belong",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "bright",
+   "pronunciation": "/bɹaɪt/",
+   "cefr": "A2",
+   "part_of_speech": [
+    "A",
+    "D",
+    "N"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Sáng, sáng chói.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "daily life",
+      "design",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bright.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bright",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Tươi.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "arts",
+      "design",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bright.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bright",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Sáng sủa; rạng rỡ, sáng ngời; rực rỡ.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "feelings",
+      "general",
+      "arts",
+      "appearance"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bright.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bright",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Sánh dạ, thông minh, nhanh trí.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "education",
+      "personality",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Studying bright helps learning.",
+       "blank_sentence": "Studying ____ helps learning.",
+       "answer": "bright",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Vui tươi.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "feelings",
+      "personality",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bright.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bright",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Lanh lợi, hoạt bát, nhanh nhẹn.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "personality",
+      "general",
+      "education",
+      "sports"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bright.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bright",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Sáng chói, sáng ngời.",
+     "pos": "D",
+     "source": "dictionary",
+     "context_labels": [
+      "nature",
+      "general",
+      "weather",
+      "design"
+     ],
+     "examples": [
+      {
+       "sentence": "Plants and bright.",
+       "blank_sentence": "Plants and ____.",
+       "answer": "bright",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Loại chổi sơn dầu hay acrylic có sắt bịt đầu (ferrule) dài và đầu lông tẹt, thon thon.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "arts",
+      "general",
+      "photography",
+      "hobby"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bright.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bright",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Những loại người vô thần hay không mê tín.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "religion",
+      "general",
+      "social",
+      "culture"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bright.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bright",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "below",
+   "pronunciation": "bɪ.ˈˈloʊ",
+   "cefr": "A1",
+   "part_of_speech": [
+    "D",
+    "E"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Ở hoặc tới một mức, vị trí hoặc nơi thấp hơn.",
+     "pos": "D",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "geography"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember below.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "below",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Ở hoặc tới một mức, vị trí thấp hơn ai/cái gì; dưới.",
+     "pos": "E",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "formal"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember below.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "below",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "brilliant",
+   "pronunciation": "/ˈbrɪɫ.jənt/",
+   "cefr": "A2",
+   "part_of_speech": [
+    "A",
+    "N"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Sáng rực đến lóa mắt, sáng chói, rực rỡ.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "science",
+      "arts",
+      "nature"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember brilliant.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "brilliant",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Tài giỏi, lỗi lạc.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "education",
+      "personality",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Studying brilliant helps learning.",
+       "blank_sentence": "Studying ____ helps learning.",
+       "answer": "brilliant",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Hạt kim cương nhiều mặt.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "design",
+      "general",
+      "shopping",
+      "industry"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember brilliant.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "brilliant",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "belt",
+   "pronunciation": "/bɛlt/",
+   "cefr": "A2",
+   "part_of_speech": [
+    "N",
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Dây lưng, thắt lưng.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "clothing",
+      "general",
+      "daily life"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember belt.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "belt",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Dây đai (đeo gươm... ).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "military",
+      "clothing",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember belt.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "belt",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Dây curoa.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "technology",
+      "engineering",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember belt.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "belt",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Vành đai.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "geography",
+      "science"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember belt.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "belt",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Đeo thắt lưng; buộc chặt bằng dây lưng.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "clothing",
+      "general",
+      "daily life",
+      "design"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember belt.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "belt",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Quật bằng dây lưng.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "safety",
+      "crime",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember belt.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "belt",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Đeo vào dây đai (gươm... ).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "history",
+      "military",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember belt.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "belt",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Đánh dấu (cừu... ) bằng đai màu.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "animals",
+      "farming",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember belt.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "belt",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "bring",
+   "pronunciation": "/ˈbrɪŋ/",
+   "cefr": "A1",
+   "part_of_speech": [
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Cầm lại, đem lại, mang lại, xách lại, đưa lại.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "daily life"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bring.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bring",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Đưa ra.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "communication",
+      "formal",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bring.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bring",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Làm cho, gây cho.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "feelings"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bring.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bring",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "bend",
+   "pronunciation": "/ˈbɛnd/",
+   "cefr": "B1",
+   "part_of_speech": [
+    "N",
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Chỗ uốn, chỗ cong; chỗ rẽ.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "geography",
+      "transportation",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bend.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bend",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Khuỷ (tay, chân).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "health",
+      "body",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Regular exercise helps bend good health.",
+       "blank_sentence": "Regular exercise helps ____ good health.",
+       "answer": "bend",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Chỗ nối (hai đầu dây); chỗ thắt nút.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "daily life",
+      "general",
+      "engineering",
+      "leisure"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bend.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bend",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "The bends (thông tục) bệnh khí ép, bệnh thợ lặn.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "health",
+      "sports"
+     ],
+     "examples": [
+      {
+       "sentence": "Regular exercise helps bend good health.",
+       "blank_sentence": "Regular exercise helps ____ good health.",
+       "answer": "bend",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Cúi xuống; cong xuống; uốn cong, làm cong.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "daily life",
+      "sports",
+      "body"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bend.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bend",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Rẽ, hướng; hướng về, dồn về.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "transportation"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bend.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bend",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Khuất phục, bắt phải theo.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "social",
+      "general",
+      "personality",
+      "management"
+     ],
+     "examples": [
+      {
+       "sentence": "Meeting friends through bend.",
+       "blank_sentence": "Meeting friends through ____.",
+       "answer": "bend",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "broad",
+   "pronunciation": "/ˈbrɔd/",
+   "cefr": "B2",
+   "part_of_speech": [
+    "A",
+    "D",
+    "N"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Rộng.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "design",
+      "daily life"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember broad.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "broad",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Bao la, mênh mông.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "nature",
+      "geography",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Plants and broad.",
+       "blank_sentence": "Plants and ____.",
+       "answer": "broad",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Rộng rãi, khoáng đạt, phóng khoáng.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "social",
+      "personality",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Meeting friends through broad.",
+       "blank_sentence": "Meeting friends through ____.",
+       "answer": "broad",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Rõ, rõ ràng.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "communication",
+      "general",
+      "education",
+      "formal"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember broad.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "broad",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Thô tục, tục tĩu.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "informal",
+      "general",
+      "social",
+      "communication"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember broad.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "broad",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Khái quát đại cương, chung, chính.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "education",
+      "formal",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Studying broad helps learning.",
+       "blank_sentence": "Studying ____ helps learning.",
+       "answer": "broad",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Nặng (giọng nói).",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "education",
+      "communication",
+      "general",
+      "culture"
+     ],
+     "examples": [
+      {
+       "sentence": "Studying broad helps learning.",
+       "blank_sentence": "Studying ____ helps learning.",
+       "answer": "broad",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Rộng, rộng rãi.",
+     "pos": "D",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "daily life",
+      "construction",
+      "design"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember broad.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "broad",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Hoàn toàn.",
+     "pos": "D",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "government",
+      "informal"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember broad.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "broad",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Nặng (giọng nói).",
+     "pos": "D",
+     "source": "dictionary",
+     "context_labels": [
+      "education",
+      "communication",
+      "general",
+      "culture"
+     ],
+     "examples": [
+      {
+       "sentence": "Studying broad helps learning.",
+       "blank_sentence": "Studying ____ helps learning.",
+       "answer": "broad",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Chỗ rộng, phần rộng (của cái gì).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "engineering",
+      "design"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember broad.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "broad",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": ", (từ lóng) đàn bà.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "informal",
+      "general",
+      "social",
+      "culture"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember broad.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "broad",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": ", (từ lóng) gái đĩ, gái điếm.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "informal",
+      "general",
+      "social",
+      "relationships"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember broad.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "broad",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "benefit",
+   "pronunciation": "/ˈbɛ.nə.ˌfɪt/",
+   "cefr": "A2",
+   "part_of_speech": [
+    "N",
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Lợi, lợi ích.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "business"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember benefit.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "benefit",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Buổi biểu diễn; trận đấu (lấy tiền ủng hộ, tương tế).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "entertainment",
+      "social",
+      "sports",
+      "finance"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember benefit.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "benefit",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Tiền trợ cấp, tiền tuất.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "government",
+      "finance",
+      "money"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember benefit.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "benefit",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Phúc lợi.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "social",
+      "work",
+      "government"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember benefit.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "benefit",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Đặc quyền tài phán (không bị toà án thường xử, đối với cha cố...).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "law",
+      "religion",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember benefit.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "benefit",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Giúp ích cho, làm lợi cho.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "business",
+      "management"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember benefit.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "benefit",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Được lợi, lợi dụng.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "informal",
+      "general",
+      "money",
+      "business"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember benefit.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "benefit",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "broadcast",
+   "pronunciation": "/ˈbrɔd.ˌkæst/",
+   "cefr": "B2",
+   "part_of_speech": [
+    "A",
+    "N",
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Được tung ra khắp nơi; được gieo rắc (hạt giống...).",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "farming",
+      "general",
+      "nature",
+      "plants"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember broadcast.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "broadcast",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Được truyền đi rộng rãi (tin tức...); qua đài phát thanh, được phát thanh.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "communication",
+      "media",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember broadcast.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "broadcast",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Sự phát thanh; sự truyền thông.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "media",
+      "general",
+      "communication",
+      "technology"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember broadcast.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "broadcast",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Tin tức được phát thanh.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "media",
+      "general",
+      "daily life",
+      "communication"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember broadcast.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "broadcast",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Buổi phát thanh.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "entertainment",
+      "media",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember broadcast.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "broadcast",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Tung ra khắp nơi; gieo rắc (hạt giống...).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "farming",
+      "plants"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember broadcast.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "broadcast",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Truyền đi rộng rãi (tin tức...); phát thanh.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "communication",
+      "general",
+      "social",
+      "media"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember broadcast.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "broadcast",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "bent",
+   "pronunciation": "/bɛnt/",
+   "cefr": "B2",
+   "part_of_speech": [
+    "A",
+    "N",
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Quá khứ và phân từ quá khứ của bend",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "education"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bent.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bent",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Cong, oằn, vặn vẹo; xoắn.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "design",
+      "daily life"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bent.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bent",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Đồng tính luyến ái.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "social",
+      "general",
+      "relationships",
+      "informal"
+     ],
+     "examples": [
+      {
+       "sentence": "Meeting friends through bent.",
+       "blank_sentence": "Meeting friends through ____.",
+       "answer": "bent",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Nhất định, nhất quyết, quả quyết; kiên quyết.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "personality",
+      "general",
+      "feelings",
+      "informal"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bent.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bent",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Không thẳng thắn, quanh co, không thật thà.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "social",
+      "personality",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Meeting friends through bent.",
+       "blank_sentence": "Meeting friends through ____.",
+       "answer": "bent",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Đá sai.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "sports",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bent.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bent",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Khiếu, sở thích; xu hướng, khuynh hướng, thiên hướng, thiên tài.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "education",
+      "personality",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Studying bent helps learning.",
+       "blank_sentence": "Studying ____ helps learning.",
+       "answer": "bent",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Cỏ ống.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "plants",
+      "farming",
+      "environment"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bent.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bent",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Cỏ mần trầu.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "nature",
+      "plants",
+      "environment"
+     ],
+     "examples": [
+      {
+       "sentence": "Plants and bent.",
+       "blank_sentence": "Plants and ____.",
+       "answer": "bent",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Bãi cỏ.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "leisure",
+      "home",
+      "nature",
+      "environment"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bent.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bent",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "broken",
+   "pronunciation": null,
+   "cefr": "A2",
+   "part_of_speech": [
+    "A"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Gãy, bể.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "safety",
+      "daily life"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember broken.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "broken",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Đau.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "feelings",
+      "general",
+      "health",
+      "relationships"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember broken.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "broken",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "best",
+   "pronunciation": null,
+   "cefr": "A1",
+   "part_of_speech": [
+    "A"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Dạng cấp cao nhất của goed",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "education"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember best.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "best",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "tốt nhất; hay nhất (dạng so sánh nhất của good)",
+     "pos": "A",
+     "source": "manual review",
+     "context_labels": [
+      "general",
+      "success",
+      "competition"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember best.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "best",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "brother",
+   "pronunciation": "/ˈbrə.ðɜː/",
+   "cefr": "A1",
+   "part_of_speech": [
+    "N"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Anh; em trai.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "family",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "brother is useful at home.",
+       "blank_sentence": "____ is useful at home.",
+       "answer": "brother",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Bạn cùng nghề, bạn đồng sự, bạn đồng ngũ.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "work",
+      "friendship",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "brother is important for career success.",
+       "blank_sentence": "____ is important for career success.",
+       "answer": "brother",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "thầy dòng cùng môn phái.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "religion",
+      "general",
+      "formal"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember brother.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "brother",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "huynh đệ (anh em) cùng chung một Thầy Tổ.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "religion",
+      "general",
+      "social",
+      "culture"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember brother.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "brother",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "bet",
+   "pronunciation": "/ˈbɛt/",
+   "cefr": "B2",
+   "part_of_speech": [
+    "N",
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Sự đánh cược.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "money",
+      "general",
+      "sports",
+      "leisure"
+     ],
+     "examples": [
+      {
+       "sentence": "Managing bet is important.",
+       "blank_sentence": "Managing ____ is important.",
+       "answer": "bet",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Tiền đánh cược.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "money",
+      "finance",
+      "entertainment"
+     ],
+     "examples": [
+      {
+       "sentence": "Managing bet is important.",
+       "blank_sentence": "Managing ____ is important.",
+       "answer": "bet",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Đánh cược, đánh cá.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "money",
+      "sports",
+      "informal"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bet.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bet",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "brown",
+   "pronunciation": "/bɹaʊn/",
+   "cefr": "A1",
+   "part_of_speech": [
+    "A",
+    "N",
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Nâu.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "design",
+      "general",
+      "daily life",
+      "arts"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember brown.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "brown",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Rám nắng (da).",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "health",
+      "appearance",
+      "weather"
+     ],
+     "examples": [
+      {
+       "sentence": "Regular exercise helps brown good health.",
+       "blank_sentence": "Regular exercise helps ____ good health.",
+       "answer": "brown",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Màu nâu.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "design",
+      "general",
+      "daily life",
+      "arts"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember brown.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "brown",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Quần áo nâu.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "clothing",
+      "general",
+      "daily life",
+      "culture"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember brown.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "brown",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Đồng xu đồng.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "money",
+      "history",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Managing brown is important.",
+       "blank_sentence": "Managing ____ is important.",
+       "answer": "brown",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Nhuộm nâu; quệt nâu, sơn nâu.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "industry",
+      "general",
+      "daily life",
+      "design"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember brown.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "brown",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Rán vàng (thịt, cá); phi.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "cooking",
+      "general",
+      "food"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember brown.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "brown",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Làm rám nắng.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "weather",
+      "health",
+      "appearance",
+      "leisure"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember brown.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "brown",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Hoá nâu, hoá sạm.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "science",
+      "nature",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Research on brown.",
+       "blank_sentence": "Research on ____.",
+       "answer": "brown",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Chín vang (cá rán... ).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "cooking",
+      "general",
+      "daily life",
+      "food"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember brown.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "brown",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "better",
+   "pronunciation": "/ˈbɛ.tɜː/",
+   "cefr": "A1",
+   "part_of_speech": [
+    "A",
+    "D",
+    "N",
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "cấp so sánh của good",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "education"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember better.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "better",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "cấp so sánh của well",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "education"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember better.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "better",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Hơn, tốt hơn, khá hơn, hay hơn, đẹp hơn.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "competition"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember better.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "better",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Khoẻ hơn, dễ chịu hơn, đã đỡ (người ốm...).",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "health",
+      "medicine",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Regular exercise helps better good health.",
+       "blank_sentence": "Regular exercise helps ____ good health.",
+       "answer": "better",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "cấp so sánh của well",
+     "pos": "D",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "education"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember better.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "better",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Hơn, tốt hơn, hay hơn.",
+     "pos": "D",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "success",
+      "competition"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember better.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "better",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Làm cho tốt hơn, cải tiến, cải thiện.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "management",
+      "general",
+      "business",
+      "success"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember better.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "better",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Vượt, hơn.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "sports",
+      "competition",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember better.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "better",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Người trên, người hơn (tuổi, địa vị, tài năng).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "social",
+      "formal",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Meeting friends through better.",
+       "blank_sentence": "Meeting friends through ____.",
+       "answer": "better",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Thế lợi hơn.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "business",
+      "general",
+      "sports",
+      "competition"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember better.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "better",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "brush",
+   "pronunciation": "/ˈbrəʃ/",
+   "cefr": "A2",
+   "part_of_speech": [
+    "N",
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Bàn chải.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "daily life",
+      "health",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember brush.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "brush",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Sự chải.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "daily life",
+      "appearance",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember brush.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "brush",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Bút lông (vẽ).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "arts",
+      "design",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember brush.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "brush",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Đuôi chồn.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "arts",
+      "general",
+      "photography",
+      "hobby"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember brush.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "brush",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Bụi cây.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "nature",
+      "plants",
+      "environment"
+     ],
+     "examples": [
+      {
+       "sentence": "Plants and brush.",
+       "blank_sentence": "Plants and ____.",
+       "answer": "brush",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Cành cây bó thành bó.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "plants",
+      "environment",
+      "farming",
+      "design"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember brush.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "brush",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Cuộc chạm trán chớp nhoáng.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "sports",
+      "general",
+      "competition",
+      "informal"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember brush.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "brush",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Cái chổi.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "daily life",
+      "home",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember brush.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "brush",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Chải, quét.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "daily life",
+      "home"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember brush.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "brush",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Vẽ lên (giấy, lụa... ).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "arts",
+      "design",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember brush.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "brush",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Chạm qua, lướt qua (vật gì).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "daily life",
+      "sports",
+      "transportation"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember brush.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "brush",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Chạm nhẹ phải, lướt phải.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "sports",
+      "safety",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember brush.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "brush",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "between",
+   "pronunciation": "/bəˈtwin/",
+   "cefr": "A1",
+   "part_of_speech": [
+    "D",
+    "E"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Giữa, ở giữa.",
+     "pos": "E",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "geography"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember between.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "between",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Trong khoảng.",
+     "pos": "E",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "time"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember between.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "between",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Nửa... nửa; vừa... vừa.",
+     "pos": "E",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "feelings",
+      "informal"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember between.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "between",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Ở giữa.",
+     "pos": "D",
+     "source": "dictionary",
+     "context_labels": [
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember between.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "between",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "bubble",
+   "pronunciation": "/ˈbə.bəl/",
+   "cefr": "B1",
+   "part_of_speech": [
+    "N",
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Bong bóng, bọt, tăm.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "daily life",
+      "science",
+      "sports"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bubble.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bubble",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Điều hão huyền, ảo tưởng.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "feelings",
+      "psychology",
+      "informal"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bubble.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bubble",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Sự sôi sùng sục, sự sủi tăm.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "science",
+      "cooking",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Research on bubble.",
+       "blank_sentence": "Research on ____.",
+       "answer": "bubble",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Nổi bong bóng, nổi bọt.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "science",
+      "sports",
+      "nature",
+      "cooking"
+     ],
+     "examples": [
+      {
+       "sentence": "Research on bubble.",
+       "blank_sentence": "Research on ____.",
+       "answer": "bubble",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Sôi sùng sục, nổi tăm (nước).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "cooking",
+      "general",
+      "daily life",
+      "nature"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bubble.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bubble",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Đánh lừa, lừa bịp.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "crime",
+      "informal",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bubble.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bubble",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "beyond",
+   "pronunciation": "/bi.ˈjɑːnd/",
+   "cefr": "B2",
+   "part_of_speech": [
+    "D",
+    "E",
+    "N"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Ở xa, ở phía bên kia.",
+     "pos": "D",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "travel",
+      "geography"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember beyond.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "beyond",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Ở bên kia.",
+     "pos": "E",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "geography"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember beyond.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "beyond",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Quá, vượt xa hơn.",
+     "pos": "E",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "sports",
+      "success"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember beyond.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "beyond",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Ngoài... ra, trừ...",
+     "pos": "E",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "formal"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember beyond.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "beyond",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "The beyond kiếp sau, thế giới bên kia.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "religion",
+      "philosophy",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember beyond.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "beyond",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "budget",
+   "pronunciation": "/ˈbə.dʒət/",
+   "cefr": "B2",
+   "part_of_speech": [
+    "N",
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Ngân sách, ngân quỹ.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "government",
+      "finance",
+      "literature"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember budget.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "budget",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Túi (đầy), bao (đầy).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "money",
+      "informal",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Managing budget is important.",
+       "blank_sentence": "Managing ____ is important.",
+       "answer": "budget",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Đống, kho, cô khối.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "daily life",
+      "money",
+      "informal"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember budget.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "budget",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Dự thảo ngân sách; ghi vào ngân sách.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "business",
+      "government",
+      "literature",
+      "finance"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember budget.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "budget",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "bicycle",
+   "pronunciation": "/ˈbɑɪ.sɪ.kəl/",
+   "cefr": "A1",
+   "part_of_speech": [
+    "N",
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Xe đạp.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "daily life",
+      "transportation",
+      "travel"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bicycle.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bicycle",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Đi xe đạp.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "exercise",
+      "travel",
+      "transportation",
+      "leisure"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember bicycle.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "bicycle",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "build",
+   "pronunciation": "/bɪld/",
+   "cefr": "A1",
+   "part_of_speech": [
+    "N",
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Sự xây dựng.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "construction",
+      "general",
+      "work"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember build.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "build",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Kiểu kiến trúc.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "construction",
+      "design",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember build.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "build",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Khổ người tầm vóc.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "appearance",
+      "body",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember build.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "build",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Xây, xây dựng, xây cất; dựng nên, lập nên, làm nên.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "construction",
+      "general",
+      "business",
+      "teamwork"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember build.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "build",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "word": "big",
+   "pronunciation": "/bɪɡ/",
+   "cefr": "A1",
+   "part_of_speech": [
+    "A",
+    "D"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "To, lớn.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "daily life",
+      "body"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember big.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "big",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Bụng to, có mang, có chửa.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "health",
+      "family",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Regular exercise helps big good health.",
+       "blank_sentence": "Regular exercise helps ____ good health.",
+       "answer": "big",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Quan trọng.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "business"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember big.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "big",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Hào hiệp, phóng khoáng, rộng lượng.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "social",
+      "personality",
+      "general"
+     ],
+     "examples": [
+      {
+       "sentence": "Meeting friends through big.",
+       "blank_sentence": "Meeting friends through ____.",
+       "answer": "big",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Huênh hoang, khoác lác.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "informal",
+      "general",
+      "social",
+      "personality"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember big.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "big",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Ra vẻ quan trọng, với vẻ quan trọng.",
+     "pos": "D",
+     "source": "dictionary",
+     "context_labels": [
+      "informal",
+      "general",
+      "social",
+      "personality"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember big.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "big",
+       "accepted_answers": []
+      }
+     ]
+    },
+    {
+     "meaning_vi": "Huênh hoang khoác lác.",
+     "pos": "D",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "social",
+      "personality",
+      "informal"
+     ],
+     "examples": [
+      {
+       "sentence": "Please remember big.",
+       "blank_sentence": "Please remember ____.",
+       "answer": "big",
+       "accepted_answers": []
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

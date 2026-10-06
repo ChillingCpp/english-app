@@ -1,0 +1,889 @@
+{
+ "batch": 67,
+ "words": [
+  {
+   "word": "ward",
+   "pronunciation": "/ˈwɔrd/",
+   "cefr": "C1",
+   "part_of_speech": [
+    "N",
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "phường (đơn vị hành chính)",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "government",
+      "urban"
+     ]
+    },
+    {
+     "meaning_vi": "Sự trông nom, sự bảo trợ; sự giam giữ.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "law",
+      "safety",
+      "formal"
+     ]
+    },
+    {
+     "meaning_vi": "Khu, khu vực (thành phố).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "urban",
+      "government",
+      "geography"
+     ]
+    },
+    {
+     "meaning_vi": "Phòng, khu (nhà thương); phòng giam (nhà tù).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "health",
+      "crime",
+      "law",
+      "medicine"
+     ]
+    },
+    {
+     "meaning_vi": "Khe răng chìa khoá.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "engineering",
+      "home",
+      "technology",
+      "safety"
+     ]
+    },
+    {
+     "meaning_vi": "(thể dục, thể thao) thế đỡ.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "sports"
+     ]
+    },
+    {
+     "meaning_vi": "Trông nom, bảo trợ.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "social",
+      "family",
+      "law",
+      "safety"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "widen",
+   "pronunciation": "/ˈwɑɪ.dᵊn/",
+   "cefr": "C1",
+   "part_of_speech": [
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Làm cho rộng ra, nới rộng ra, mở rộng.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "construction",
+      "general",
+      "transportation"
+     ]
+    },
+    {
+     "meaning_vi": "Làm lan rộng, khuếch trưng.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "communication",
+      "science",
+      "media"
+     ]
+    },
+    {
+     "meaning_vi": "Rộng ra, mở ra.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "design"
+     ]
+    },
+    {
+     "meaning_vi": "Lan rộng.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "social",
+      "media"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "yell",
+   "pronunciation": "/ˈjɛɫ/",
+   "cefr": "C1",
+   "part_of_speech": [
+    "N",
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Sự kêu la, sự la hét.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "communication",
+      "feelings",
+      "informal",
+      "emotions"
+     ]
+    },
+    {
+     "meaning_vi": "Tiếng la hét, tiếng thét lác; (từ Mỹ, nghĩa Mỹ) tiếng la hò động viên (trong những cuộc thi đấu thể thao... ).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "sports",
+      "communication",
+      "entertainment"
+     ]
+    },
+    {
+     "meaning_vi": "Kêu la, la hét, thét lác.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "daily life",
+      "communication",
+      "informal",
+      "emotions"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "vessel",
+   "pronunciation": "/ˈvɛ.səl/",
+   "cefr": "C1",
+   "part_of_speech": [
+    "N"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Bình, chậu, lọ, thùng.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "home",
+      "cooking",
+      "daily life"
+     ]
+    },
+    {
+     "meaning_vi": "Thuyền lớn, tàu thuỷ.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "transportation",
+      "travel",
+      "industry"
+     ]
+    },
+    {
+     "meaning_vi": "; (thực vật học) ống, mạch.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "science",
+      "plants"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "warehouse",
+   "pronunciation": "/ˈwɛr.ˌhɑʊs/",
+   "cefr": "C1",
+   "part_of_speech": [
+    "N",
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Kho hàng.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "business",
+      "work",
+      "transportation",
+      "industry"
+     ]
+    },
+    {
+     "meaning_vi": "Cửa hàng.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "shopping",
+      "business"
+     ]
+    },
+    {
+     "meaning_vi": "Cất vào kho, xếp vào kho.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "business",
+      "general",
+      "work"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "widespread",
+   "pronunciation": "/ˈwɑɪd.ˈsprɛd/",
+   "cefr": "B2",
+   "part_of_speech": [
+    "A"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Lan rộng, phổ biến.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "social"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "yield",
+   "pronunciation": "/jiːld/",
+   "cefr": "C1",
+   "part_of_speech": [
+    "N",
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Sản lượng, hoa lợi (thửa ruộng); hiệu suất (máy... ).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "industry",
+      "farming"
+     ]
+    },
+    {
+     "meaning_vi": "Lợi nhuận, lợi tức.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "business",
+      "finance"
+     ]
+    },
+    {
+     "meaning_vi": "Lợi suất",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "finance",
+      "money",
+      "business"
+     ]
+    },
+    {
+     "meaning_vi": "Sự cong, sự oằn.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "engineering",
+      "science",
+      "physics"
+     ]
+    },
+    {
+     "meaning_vi": "Sản xuất, sản ra, mang lại.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "industry",
+      "business"
+     ]
+    },
+    {
+     "meaning_vi": "Sinh lợi.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "business",
+      "finance",
+      "money"
+     ]
+    },
+    {
+     "meaning_vi": "Chịu thua, chịu nhường.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "competition",
+      "personality",
+      "informal"
+     ]
+    },
+    {
+     "meaning_vi": "Giao, chuyển giao.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "law",
+      "business",
+      "formal"
+     ]
+    },
+    {
+     "meaning_vi": "; (tài chính) sinh lợi.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "finance",
+      "economy",
+      "business"
+     ]
+    },
+    {
+     "meaning_vi": "Đầu hàng, quy phục, hàng phục, khuất phục.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "military",
+      "competition"
+     ]
+    },
+    {
+     "meaning_vi": "Chịu thua, chịu lép, nhường.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "competition",
+      "social",
+      "personality",
+      "informal"
+     ]
+    },
+    {
+     "meaning_vi": "Cong, oằn.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "science",
+      "construction",
+      "engineering"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "veteran",
+   "pronunciation": "/ˈvɛ.tə.rən/",
+   "cefr": "C1",
+   "part_of_speech": [
+    "A",
+    "N"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Người kỳ cựu.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "work",
+      "career"
+     ]
+    },
+    {
+     "meaning_vi": "Cựu binh.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "military",
+      "social"
+     ]
+    },
+    {
+     "meaning_vi": "Kỳ cựu.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "work",
+      "career",
+      "success"
+     ]
+    },
+    {
+     "meaning_vi": "(thuộc) cựu chiến binh.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "military",
+      "formal"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "warfare",
+   "pronunciation": "/ˈwɔr.ˌfɛr/",
+   "cefr": "C1",
+   "part_of_speech": [
+    "N"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Chiến tranh.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "military",
+      "history",
+      "politics"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "widow",
+   "pronunciation": "/ˈwɪ.ˌdoʊ/",
+   "cefr": "C1",
+   "part_of_speech": [
+    "N",
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Người đàn bà goá, quả phụ.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "family",
+      "relationships"
+     ]
+    },
+    {
+     "meaning_vi": "Giết chồng, giết vợ (ai); làm cho goá (chồng, vợ); cướp mất chồng, cướp mất vợ (ai).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "family",
+      "crime",
+      "marriage"
+     ]
+    },
+    {
+     "meaning_vi": "Cướp mất (bạn...).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "relationships",
+      "friendship",
+      "informal",
+      "emotions"
+     ]
+    },
+    {
+     "meaning_vi": "Là vợ goá của (ai).",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "family",
+      "relationships",
+      "formal"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "viable",
+   "pronunciation": "/ˈvɑɪ.ə.bəl/",
+   "cefr": "C1",
+   "part_of_speech": [
+    "A"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Có thể sống được (thai nhi, cây cối... ).",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "health",
+      "science",
+      "plants",
+      "medicine"
+     ]
+    },
+    {
+     "meaning_vi": "Có thể nảy mầm (hạt giống).",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "plants",
+      "farming"
+     ]
+    },
+    {
+     "meaning_vi": "Có thể thành tựu được (kế hoạch).",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "business",
+      "management",
+      "work"
+     ]
+    },
+    {
+     "meaning_vi": "Có thể tồn tại, có thể đứng vững được (chính phủ).",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "government",
+      "politics"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "warming",
+   "pronunciation": "/ˈwɔː.mɪŋ/",
+   "cefr": "B2",
+   "part_of_speech": [
+    "A",
+    "N"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Sự làm ấm, sự hâm, sự hơ, sự sưởi ấm.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "home",
+      "daily life",
+      "health",
+      "environment"
+     ]
+    },
+    {
+     "meaning_vi": "Trận đòn, trận roi.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "crime",
+      "informal",
+      "punishment"
+     ]
+    },
+    {
+     "meaning_vi": "Làm cho ấm; ấm.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "home",
+      "weather",
+      "daily life"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "width",
+   "pronunciation": "/ˈwɪdθ/",
+   "cefr": "C1",
+   "part_of_speech": [
+    "N"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Tính chất rộng.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "design",
+      "general"
+     ]
+    },
+    {
+     "meaning_vi": "Bề rộng, bề ngang.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "construction",
+      "design",
+      "general"
+     ]
+    },
+    {
+     "meaning_vi": "Khổ (vải).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "clothing",
+      "shopping",
+      "design"
+     ]
+    },
+    {
+     "meaning_vi": "Tính chất rộng rãi.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "design"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "vibrant",
+   "pronunciation": "/.brənt/",
+   "cefr": "C1",
+   "part_of_speech": [
+    "A"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Rung, rung động.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "engineering",
+      "general",
+      "technology",
+      "science"
+     ]
+    },
+    {
+     "meaning_vi": "Lúc lắc.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "daily life",
+      "science",
+      "physics"
+     ]
+    },
+    {
+     "meaning_vi": "Rung, run run.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "feelings",
+      "health",
+      "science"
+     ]
+    },
+    {
+     "meaning_vi": "Kêu, ngân vang.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "music",
+      "communication",
+      "entertainment"
+     ]
+    },
+    {
+     "meaning_vi": "Sôi nổi, mạnh mẽ, đầy khí lực.",
+     "pos": "A",
+     "source": "dictionary",
+     "context_labels": [
+      "personality",
+      "social",
+      "feelings"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "warrant",
+   "pronunciation": "/ˈwɔr.ənt/",
+   "cefr": "C1",
+   "part_of_speech": [
+    "N",
+    "V"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Sự cho phép; giấy phép.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "government",
+      "law"
+     ]
+    },
+    {
+     "meaning_vi": "Lý do, lý do xác đáng (của việc làm, báo cáo... ).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "general",
+      "formal",
+      "law"
+     ]
+    },
+    {
+     "meaning_vi": "Sự bảo đảm (cho việc gì).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "business",
+      "law",
+      "finance",
+      "formal"
+     ]
+    },
+    {
+     "meaning_vi": "Lệnh, trát.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "law",
+      "crime",
+      "government"
+     ]
+    },
+    {
+     "meaning_vi": "Giấy chứng nhận.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "education",
+      "government",
+      "law",
+      "business"
+     ]
+    },
+    {
+     "meaning_vi": "Lệnh (trả tiền).",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "money",
+      "finance",
+      "law",
+      "business"
+     ]
+    },
+    {
+     "meaning_vi": "Bằng phong chuẩn uý.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "military",
+      "history"
+     ]
+    },
+    {
+     "meaning_vi": "Biện hộ cho.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "law",
+      "communication",
+      "formal"
+     ]
+    },
+    {
+     "meaning_vi": "Đảm bảo, chứng thực.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "business",
+      "formal",
+      "law"
+     ]
+    },
+    {
+     "meaning_vi": "Cho quyền.",
+     "pos": "V",
+     "source": "dictionary",
+     "context_labels": [
+      "law",
+      "government"
+     ]
+    }
+   ]
+  },
+  {
+   "word": "willingness",
+   "pronunciation": "/ˈwɪ.lɪŋ.nəs/",
+   "cefr": null,
+   "part_of_speech": [
+    "N"
+   ],
+   "senses": [
+    {
+     "meaning_vi": "Sự bằng lòng, sự vui lòng.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "feelings",
+      "social",
+      "emotions"
+     ]
+    },
+    {
+     "meaning_vi": "Sự sẵn sàng, sự sốt sắng.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "work",
+      "feelings",
+      "teamwork"
+     ]
+    },
+    {
+     "meaning_vi": "Sự tự nguyện.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "social",
+      "general",
+      "personality"
+     ]
+    },
+    {
+     "meaning_vi": "Thiện ý.",
+     "pos": "N",
+     "source": "dictionary",
+     "context_labels": [
+      "social",
+      "feelings",
+      "business"
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,448 @@
+{
+ "files": [
+  {
+   "file": "batch_01.json",
+   "words": 75,
+   "errors": []
+  },
+  {
+   "file": "batch_02.json",
+   "words": 75,
+   "errors": []
+  },
+  {
+   "file": "batch_03.json",
+   "words": 75,
+   "errors": []
+  },
+  {
+   "file": "batch_04.json",
+   "words": 75,
+   "errors": []
+  },
+  {
+   "file": "batch_05.json",
+   "words": 75,
+   "errors": []
+  },
+  {
+   "file": "batch_06.json",
+   "words": 75,
+   "errors": []
+  },
+  {
+   "file": "batch_07.json",
+   "words": 75,
+   "errors": []
+  },
+  {
+   "file": "batch_08.json",
+   "words": 75,
+   "errors": []
+  },
+  {
+   "file": "batch_09.json",
+   "words": 75,
+   "errors": []
+  },
+  {
+   "file": "batch_10.json",
+   "words": 75,
+   "errors": []
+  },
+  {
+   "file": "batch_11.json",
+   "words": 75,
+   "errors": []
+  },
+  {
+   "file": "batch_12.json",
+   "words": 75,
+   "errors": []
+  },
+  {
+   "file": "batch_13.json",
+   "words": 75,
+   "errors": []
+  },
+  {
+   "file": "batch_14.json",
+   "words": 75,
+   "errors": []
+  },
+  {
+   "file": "batch_15.json",
+   "words": 75,
+   "errors": []
+  },
+  {
+   "file": "batch_16.json",
+   "words": 75,
+   "errors": []
+  },
+  {
+   "file": "batch_17.json",
+   "words": 75,
+   "errors": []
+  },
+  {
+   "file": "batch_18.json",
+   "words": 75,
+   "errors": [
+    "I: example \"Studying I helps learning.\": answer leaked into blank_sentence"
+   ]
+  },
+  {
+   "file": "batch_19.json",
+   "words": 75,
+   "errors": []
+  },
+  {
+   "file": "batch_20.json",
+   "words": 75,
+   "errors": []
+  },
+  {
+   "file": "batch_21.json",
+   "words": 75,
+   "errors": []
+  },
+  {
+   "file": "batch_22.json",
+   "words": 75,
+   "errors": [
+    "meet: example \"Meeting friends through meet.\": answer leaked into blank_sentence",
+    "meet: example \"Meeting friends through meet.\": answer leaked into blank_sentence"
+   ]
+  },
+  {
+   "file": "batch_23.json",
+   "words": 75,
+   "errors": []
+  },
+  {
+   "file": "batch_24.json",
+   "words": 75,
+   "errors": []
+  },
+  {
+   "file": "batch_25.json",
+   "words": 75,
+   "errors": []
+  },
+  {
+   "file": "batch_26.json",
+   "words": 75,
+   "errors": [
+    "plant: example \"Plants and plant.\": answer leaked into blank_sentence"
+   ]
+  },
+  {
+   "file": "batch_27.json",
+   "words": 75,
+   "errors": [
+    "please: example \"Please remember please.\": answer leaked into blank_sentence"
+   ]
+  },
+  {
+   "file": "batch_28.json",
+   "words": 75,
+   "errors": []
+  },
+  {
+   "file": "batch_29.json",
+   "words": 75,
+   "errors": []
+  },
+  {
+   "file": "batch_30.json",
+   "words": 75,
+   "errors": []
+  },
+  {
+   "file": "batch_31.json",
+   "words": 75,
+   "errors": []
+  },
+  {
+   "file": "batch_32.json",
+   "words": 75,
+   "errors": []
+  },
+  {
+   "file": "batch_33.json",
+   "words": 75,
+   "errors": []
+  },
+  {
+   "file": "batch_34.json",
+   "words": 75,
+   "errors": []
+  },
+  {
+   "file": "batch_35.json",
+   "words": 75,
+   "errors": [
+    "study: example \"Studying study helps learning.\": answer leaked into blank_sentence",
+    "study: example \"Studying study helps learning.\": answer leaked into blank_sentence",
+    "study: example \"Studying study helps learning.\": answer leaked into blank_sentence",
+    "study: example \"Studying study helps learning.\": answer leaked into blank_sentence",
+    "study: example \"Studying study helps learning.\": answer leaked into blank_sentence",
+    "study: example \"Studying study helps learning.\": answer leaked into blank_sentence"
+   ]
+  },
+  {
+   "file": "batch_36.json",
+   "words": 75,
+   "errors": []
+  },
+  {
+   "file": "batch_37.json",
+   "words": 75,
+   "errors": []
+  },
+  {
+   "file": "batch_38.json",
+   "words": 75,
+   "errors": []
+  },
+  {
+   "file": "batch_39.json",
+   "words": 75,
+   "errors": []
+  },
+  {
+   "file": "batch_40.json",
+   "words": 75,
+   "errors": []
+  },
+  {
+   "file": "batch_41.json",
+   "words": 75,
+   "errors": []
+  },
+  {
+   "file": "batch_42.json",
+   "words": 75,
+   "errors": []
+  },
+  {
+   "file": "batch_43.json",
+   "words": 75,
+   "errors": []
+  },
+  {
+   "file": "batch_44.json",
+   "words": 75,
+   "errors": []
+  },
+  {
+   "file": "batch_45.json",
+   "words": 75,
+   "errors": []
+  },
+  {
+   "file": "batch_46.json",
+   "words": 75,
+   "errors": []
+  },
+  {
+   "file": "batch_47.json",
+   "words": 75,
+   "errors": []
+  },
+  {
+   "file": "batch_48.json",
+   "words": 75,
+   "errors": []
+  },
+  {
+   "file": "batch_49.json",
+   "words": 75,
+   "errors": []
+  },
+  {
+   "file": "batch_50.json",
+   "words": 75,
+   "errors": []
+  },
+  {
+   "file": "batch_51.json",
+   "words": 75,
+   "errors": []
+  },
+  {
+   "file": "batch_52.json",
+   "words": 75,
+   "errors": []
+  },
+  {
+   "file": "batch_53.json",
+   "words": 75,
+   "errors": []
+  },
+  {
+   "file": "batch_54.json",
+   "words": 75,
+   "errors": []
+  },
+  {
+   "file": "batch_55.json",
+   "words": 75,
+   "errors": []
+  },
+  {
+   "file": "batch_56.json",
+   "words": 75,
+   "errors": []
+  },
+  {
+   "file": "batch_57.json",
+   "words": 75,
+   "errors": []
+  },
+  {
+   "file": "batch_58.json",
+   "words": 75,
+   "errors": [
+    "plea: example \"Please remember plea.\": answer leaked into blank_sentence",
+    "plea: example \"Please remember plea.\": answer leaked into blank_sentence",
+    "plea: example \"Please remember plea.\": answer leaked into blank_sentence"
+   ]
+  },
+  {
+   "file": "batch_59.json",
+   "words": 75,
+   "errors": []
+  },
+  {
+   "file": "batch_60.json",
+   "words": 75,
+   "errors": []
+  },
+  {
+   "file": "batch_61.json",
+   "words": 75,
+   "errors": []
+  },
+  {
+   "file": "batch_62.json",
+   "words": 75,
+   "errors": []
+  },
+  {
+   "file": "batch_63.json",
+   "words": 75,
+   "errors": []
+  },
+  {
+   "file": "batch_64.json",
+   "words": 75,
+   "errors": []
+  },
+  {
+   "file": "batch_65.json",
+   "words": 75,
+   "errors": []
+  },
+  {
+   "file": "batch_66.json",
+   "words": 75,
+   "errors": []
+  },
+  {
+   "file": "batch_67.json",
+   "words": 16,
+   "errors": []
+  }
+ ],
+ "stats": {
+  "words_inserted": 4966,
+  "words_existing": 0,
+  "senses_inserted": 25966,
+  "senses_existing": 70,
+  "links_inserted": 62586,
+  "examples_inserted": 25952,
+  "answers_inserted": 0,
+  "invalid": [
+   {
+    "word": "I",
+    "sentence": "Studying I helps learning.",
+    "error": "answer leaked into blank_sentence"
+   },
+   {
+    "word": "meet",
+    "sentence": "Meeting friends through meet.",
+    "error": "answer leaked into blank_sentence"
+   },
+   {
+    "word": "meet",
+    "sentence": "Meeting friends through meet.",
+    "error": "answer leaked into blank_sentence"
+   },
+   {
+    "word": "plant",
+    "sentence": "Plants and plant.",
+    "error": "answer leaked into blank_sentence"
+   },
+   {
+    "word": "please",
+    "sentence": "Please remember please.",
+    "error": "answer leaked into blank_sentence"
+   },
+   {
+    "word": "study",
+    "sentence": "Studying study helps learning.",
+    "error": "answer leaked into blank_sentence"
+   },
+   {
+    "word": "study",
+    "sentence": "Studying study helps learning.",
+    "error": "answer leaked into blank_sentence"
+   },
+   {
+    "word": "study",
+    "sentence": "Studying study helps learning.",
+    "error": "answer leaked into blank_sentence"
+   },
+   {
+    "word": "study",
+    "sentence": "Studying study helps learning.",
+    "error": "answer leaked into blank_sentence"
+   },
+   {
+    "word": "study",
+    "sentence": "Studying study helps learning.",
+    "error": "answer leaked into blank_sentence"
+   },
+   {
+    "word": "study",
+    "sentence": "Studying study helps learning.",
+    "error": "answer leaked into blank_sentence"
+   },
+   {
+    "word": "plea",
+    "sentence": "Please remember plea.",
+    "error": "answer leaked into blank_sentence"
+   },
+   {
+    "word": "plea",
+    "sentence": "Please remember plea.",
+    "error": "answer leaked into blank_sentence"
+   },
+   {
+    "word": "plea",
+    "sentence": "Please remember plea.",
+    "error": "answer leaked into blank_sentence"
+   }
+  ]
+ },
+ "db_counts": {
+  "words": 4966,
+  "senses": 25966,
+  "contexts": 296,
+  "sense_contexts": 62586,
+  "examples": 25952,
+  "accepted_answers": 0
+ }
+}

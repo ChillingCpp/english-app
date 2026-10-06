@@ -1,0 +1,392 @@
+chicken	1	animals, food
+chicken	2	food, cooking
+chicken	3	family
+chicken	4	informal
+chicken	5	informal
+chicken	6	military
+chief	1	management
+chief	2	management
+chief	3	work, management
+chief	4	management
+chief	5	general
+child	1	family
+child	2	family
+child	3	general
+child	4	personality
+childhood	1	family
+chip	1	industry
+chip	2	general
+chip	3	general
+chip	4	food, cooking
+chip	5	food, restaurant
+chip	6	money
+chip	7	leisure
+chip	8	hobby
+chip	9	hobby
+chip	10	general
+chip	11	general
+chip	12	animals, farming
+chip	13	hobby
+chip	14	cooking
+chip	15	informal
+chip	16	general
+chip	17	animals, farming
+chip	18	home
+chip	19	social
+chip	20	money, leisure
+chip	21	money
+chip	22	sports
+chip	23	sports
+chocolate	1	food, cooking
+chocolate	2	food
+chocolate	3	food
+chocolate	4	design
+chocolate	5	design
+choice	1	general
+choice	2	general
+choice	3	general
+choice	4	social
+choose	1	general
+choose	2	general
+church	1	religion
+church	2	religion
+church	3	religion, politics
+church	4	religion
+cigarette	1	health
+circle	1	design
+circle	2	science
+circle	3	social
+circle	4	animals
+circle	5	science, geography
+circle	6	general
+circle	7	entertainment
+circle	8	general
+circle	9	general
+circle	10	sports
+circle	11	transportation
+circle	12	social, leisure
+circumstance	1	general
+circumstance	2	general
+circumstance	3	formal
+cite	1	formal
+cite	2	education, literature
+cite	3	law
+cite	4	formal
+cite	5	formal
+citizen	1	urban
+citizen	2	government, law
+citizen	3	military
+city	1	urban
+city	2	military
+city	3	urban, geography
+civil	1	government, law
+civil	2	military
+civil	3	religion
+civil	4	law
+civil	5	formal, social
+civil	6	general
+claim	1	general
+claim	2	law
+claim	3	law
+claim	4	money, business
+claim	5	law, politics
+claim	6	mining, law
+claim	7	politics, media
+claim	8	law
+claim	9	general
+claim	10	general
+claim	11	safety
+claim	12	success
+class	1	social, politics
+class	2	general
+class	3	education
+class	4	education
+class	5	education
+class	6	military
+class	7	education
+class	8	formal
+class	9	formal, social
+class	10	programming
+classic	1	literature, culture
+classic	2	literature
+classic	3	clothing, design
+classic	4	general
+classic	5	literature
+classic	6	literature
+classic	7	education, literature
+classic	8	education, history
+classic	9	literature, arts
+classic	10	literature, arts
+classical	1	literature
+classical	2	music, design
+classical	3	literature
+classroom	1	education
+classroom	2	education
+clause	1	education
+clause	2	law, business
+clean	1	home, health
+clean	2	religion
+clean	3	design
+clean	4	design
+clean	5	design
+clean	6	sports
+clean	7	health, animals
+clean	8	food, animals
+clean	9	home
+clean	10	general
+clean	11	home
+clean	12	home, daily life
+clear	1	nature, weather
+clear	2	education, communication
+clear	3	transportation, urban
+clear	4	general
+clear	5	general
+clear	6	general
+clear	7	communication, formal
+clear	8	general
+clear	9	general
+clear	10	environment
+clear	11	law
+clear	12	home, farming
+clear	13	home
+clear	14	transportation
+clear	15	money, finance
+clear	16	money, business
+clear	17	business, finance
+clear	18	weather, nature
+clear	19	general
+clear	20	transportation, travel
+clear	21	informal
+clear	22	weather
+clear	23	general
+clearly	1	nature, weather
+clearly	2	education, communication
+clearly	3	transportation, urban
+clearly	4	general
+clearly	5	general
+clearly	6	general
+clearly	7	communication, formal
+clearly	8	general
+clearly	9	general
+clearly	10	environment
+clearly	11	law
+clearly	12	home, farming
+clearly	13	home
+clearly	14	transportation
+clearly	15	money, finance
+clearly	16	money, business
+clearly	17	business, finance
+clearly	18	weather, nature
+clearly	19	general
+clearly	20	transportation, travel
+clearly	21	informal
+clearly	22	weather
+clearly	23	general
+clerk	1	work, business
+clerk	2	religion
+clerk	3	shopping, work
+clerk	4	education
+clerk	5	work
+clever	1	personality, education
+clever	2	work
+clever	3	informal
+clever	4	personality
+click	1	technology
+click	2	engineering
+click	3	animals
+click	4	daily life
+click	5	technology, internet
+click	6	animals
+click	7	animals, sports
+click	8	relationships, friendship
+click	9	success
+client	1	business
+climate	1	weather, environment
+climate	2	geography, environment
+climate	3	social
+climb	1	sports, exercise
+climb	2	sports
+climb	3	sports, exercise
+climb	4	general
+climb	5	leisure
+climb	6	sports
+clock	1	clothing
+clock	2	time
+clock	3	sports, time
+clock	4	sports, time
+clock	5	sports, time
+clock	6	sports, time
+close1	1	home
+close1	2	home, health
+close1	3	engineering
+close1	4	general
+close1	5	personality
+close1	6	personality, money
+close1	7	relationships, friendship
+close1	8	work
+close1	9	law
+close1	10	competition
+close1	11	personality
+close1	12	general
+close1	13	time
+close1	14	home
+close1	15	education
+close1	16	religion
+close1	17	sports
+close1	18	informal
+close1	19	home, daily life
+close1	20	general
+close1	21	time
+close1	22	time
+close2	1	home
+close2	2	home, health
+close2	3	engineering
+close2	4	general
+close2	5	personality
+close2	6	personality, money
+close2	7	relationships, friendship
+close2	8	work
+close2	9	law
+close2	10	competition
+close2	11	personality
+close2	12	general
+close2	13	time
+close2	14	home
+close2	15	education
+close2	16	religion
+close2	17	sports
+close2	18	informal
+close2	19	home, daily life
+close2	20	general
+close2	21	time
+close2	22	time
+closed	1	general
+closed	2	politics, personality
+closed	3	personality, social
+closely	1	home
+closely	2	home, health
+closely	3	engineering
+closely	4	general
+closely	5	personality
+closely	6	personality, money
+closely	7	relationships, friendship
+closely	8	work
+closely	9	law
+closely	10	competition
+closely	11	personality
+closely	12	general
+closely	13	time
+closely	14	home
+closely	15	education
+closely	16	religion
+closely	17	sports
+closely	18	informal
+closely	19	home, daily life
+closely	20	general
+closely	21	time
+closely	22	time
+closet	1	home
+closet	2	home
+closet	3	work, formal
+closet	4	home
+closet	5	home
+closet	6	general
+cloth	1	clothing
+cloth	2	home
+cloth	3	religion
+cloth	4	religion
+clothes	1	general
+clothes	2	clothing, shopping
+clothes	3	home
+clothing	1	general
+clothing	2	clothing, shopping
+cloud	1	weather, nature
+cloud	2	environment
+cloud	3	animals
+cloud	4	feelings
+cloud	5	general
+cloud	6	nature
+cloud	7	weather
+cloud	8	feelings
+cloud	9	environment
+cloud	10	weather, feelings
+club	1	crime
+club	2	sports
+club	3	leisure
+club	4	leisure, social
+club	5	leisure
+club	6	crime
+club	7	teamwork
+club	8	military, teamwork
+clue	1	crime, leisure
+clue	2	literature
+coach	1	transportation
+coach	2	transportation, travel
+coach	3	transportation, travel
+coach	4	education
+coach	5	sports
+coach	6	transportation
+coach	7	education
+coach	8	sports
+coach	9	transportation
+coach	10	education
+coach	11	transportation
+coach	12	education
+coal	1	mining, industry
+coal	2	mining
+coal	3	transportation, industry
+coal	4	transportation
+coast	1	nature, geography
+coast	2	sports
+coast	3	sports
+coast	4	sports, transportation
+coast	5	transportation, travel
+coast	6	sports
+coast	7	sports, transportation
+coat	1	clothing
+coat	2	clothing
+coat	3	animals
+coat	4	design, construction
+coat	5	cooking
+coat	6	body
+coat	7	transportation
+coat	8	clothing
+coat	9	cooking, design
+code	1	law, government
+code	2	law, social
+code	3	technology, military
+code	4	communication, military
+coffee	1	food, restaurant
+coffee	2	food, cooking
+coffee	3	food, farming
+coffee	4	farming, plants
+coffee	5	food, restaurant
+coffee	6	design
+coin	1	money
+coin	2	money, industry
+coin	3	literature
+cold	1	weather, health
+cold	2	personality, feelings
+cold	3	feelings
+cold	4	animals
+cold	5	design
+cold	6	feelings, relationships
+cold	7	health, medicine
+collapse	1	construction, safety
+collapse	2	engineering
+collapse	3	economy
+collapse	4	finance, economy
+collapse	5	transportation, safety
+collapse	6	health
+collapse	7	transportation, engineering
+colleague	1	work
+collect	1	general
+collect	2	hobby, leisure
+collect	3	psychology
+collect	4	education, science
+collect	5	teamwork
+collect	6	science
+collection	1	general
+collection	2	hobby, arts
+collection	3	social, money
+collection	4	education

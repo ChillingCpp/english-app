@@ -1,0 +1,46 @@
+{
+ "files": [
+  {
+   "file": "batch_99.json",
+   "words": 2,
+   "errors": [
+    "abandon: example \"He never abandons a project once he star\": accepted_answer duplicates primary answer",
+    "abandon: sense \"Sự phóng túng, sự tự do, sự bu\" has no examples",
+    "zzz_not_a_word: sense #1 missing meaning_vi"
+   ]
+  }
+ ],
+ "stats": {
+  "words_inserted": 0,
+  "words_existing": 2,
+  "senses_inserted": 0,
+  "senses_existing": 2,
+  "links_inserted": 0,
+  "examples_inserted": 0,
+  "answers_inserted": 0,
+  "invalid": [
+   {
+    "word": "abandon",
+    "sentence": "He never abandons a project once he starts it.",
+    "error": "accepted_answer duplicates primary answer"
+   },
+   {
+    "word": "abandon",
+    "sense": "Sự phóng túng, sự tự do, sự buông thả.",
+    "error": "no examples"
+   },
+   {
+    "word": "zzz_not_a_word",
+    "error": "missing meaning_vi"
+   }
+  ]
+ },
+ "db_counts": {
+  "words": 2,
+  "senses": 2,
+  "contexts": 150,
+  "sense_contexts": 3,
+  "examples": 1,
+  "accepted_answers": 1
+ }
+}
