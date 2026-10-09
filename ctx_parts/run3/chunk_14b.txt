@@ -1,0 +1,289 @@
+read	1	education, literature
+read	2	education
+read	3	general
+read	4	home, general
+read	5	general
+read	6	psychology, general
+read	7	education, media
+read	8	education, communication
+read	9	literature, general
+read	10	arts, general
+read	11	education, literature
+read	12	education, literature
+read	13	education, literature
+read	14	education, general
+read	15	education, literature
+read	16	education, literature
+read	17	education, literature
+read	18	education, science
+read	19	literature, psychology
+read	20	psychology, communication
+read	21	sleep, leisure
+read	22	psychology, personality
+read	23	psychology, relationships
+read	24	education
+read	25	education, leisure
+read	26	leisure, education
+read	27	general
+read	28	general
+read	29	education, personality
+report	1	work, education
+report	2	media, education
+report	3	media, social
+report	4	social, success
+report	5	military, crime
+report	6	communication, media
+report	7	work, government
+report	8	media
+report	9	media, communication
+report	10	law, crime
+reader	1	literature, education
+reader	2	leisure, literature
+reader	3	education, career
+reader	4	media, work
+reader	5	religion
+reader	6	media, literature
+reader	7	education, literature
+reader	8	education, work
+reporter	1	work, communication
+reporter	2	media
+reading	1	education, literature
+reading	2	education, personality
+reading	3	politics, government
+reading	4	entertainment, literature
+reading	5	literature, education
+reading	6	general
+reading	7	entertainment, arts
+reading	8	home, engineering
+represent	1	general
+represent	2	politics, work
+represent	3	arts, communication
+represent	4	entertainment, arts
+represent	5	general
+ready	1	general
+ready	2	personality, general
+ready	3	general
+ready	4	general
+ready	5	time, general
+ready	6	money, finance
+ready	7	general
+ready	8	general
+ready	9	general
+ready	10	general
+ready	11	general
+ready	12	military
+ready	13	money, finance
+ready	14	general
+ready	15	money, shopping
+representative	1	arts, general
+representative	2	politics, general
+representative	3	politics, government
+representative	4	entertainment, arts
+representative	5	general
+representative	6	politics, work
+representative	7	politics, government
+real	1	general
+real	2	general
+real	3	personality, general
+real	4	finance, business
+real	5	general
+reputation	1	social
+reputation	2	social, success
+request	1	communication, general
+request	2	business, shopping
+request	3	communication, work
+require	1	work, general
+requirement	1	work, education
+rescue	1	safety, health
+rescue	2	law, crime
+rescue	3	law, crime
+rescue	4	safety, health
+rescue	5	law, crime
+rescue	6	law, crime
+research	1	science, education
+research	2	science, education
+researcher	1	science, education
+reservation	1	general
+reservation	2	geography, government
+reservation	3	travel, restaurant
+reservation	4	law, general
+reserve	1	business, general
+reserve	2	military
+reserve	3	sports, teamwork
+reserve	4	general
+reserve	5	personality
+reserve	6	personality, relationships
+reserve	7	nature, government
+reserve	8	general
+reserve	9	travel, restaurant
+reserve	10	general
+reserve	11	law, general
+resident	1	home, urban
+resident	2	animals, nature
+resident	3	health, education
+resident	4	general
+resident	5	home, urban
+resident	6	politics, history
+resident	7	animals, nature
+resist	1	industry, design
+resist	2	military, politics
+resist	3	health, general
+resist	4	personality, health
+resist	5	personality, health
+resolve	1	personality, success
+resolve	2	personality, success
+resolve	3	management, general
+resolve	4	work, management
+resolve	5	science, general
+resolve	6	medicine, health
+resolve	7	music
+resolve	8	education, science
+resolve	9	technology, programming
+resort	1	general
+resort	2	tourism, leisure
+resort	3	general
+resort	4	tourism, leisure
+resource	1	general
+resource	2	nature, economy
+resource	3	economy, military
+resource	4	entertainment, leisure
+resource	5	personality, work
+respect	1	social, relationships
+respect	2	communication, friendship
+respect	3	general
+respect	4	general
+respect	5	general
+respect	6	social, relationships
+respect	7	general
+respond	1	general
+respond	2	communication, social
+response	1	communication
+response	2	communication, social
+response	3	science, health
+response	4	music, religion
+responsibility	1	work, personality
+responsibility	2	work, management
+responsible	1	work, law
+responsible	2	work, personality
+rest	1	health, leisure
+rest	2	feelings, psychology
+rest	3	religion, culture
+rest	4	general
+rest	5	travel, home
+rest	6	engineering, home
+rest	7	music
+rest	8	health, sleep
+rest	9	religion, culture
+rest	10	general
+rest	11	general
+rest	12	relationships, general
+rest	13	general
+rest	14	health, work
+rest	15	general
+rest	16	education, work
+rest	17	general
+rest	18	finance, business
+rest	19	finance, business
+rest	20	general
+rest	21	general
+restaurant	1	restaurant, food
+result	1	general
+result	2	education, science
+result	3	general
+result	4	general
+retain	1	general
+retain	2	education, psychology
+retain	3	law, business
+retain	4	general
+retire	1	travel, general
+retire	2	sleep
+retire	3	work, career
+retire	4	military, sports
+retire	5	sports, competition
+retire	6	work, management
+retire	7	military, management
+retire	8	finance, economy
+retire	9	military
+retired	1	general
+retired	2	personality, general
+retired	3	rural, geography
+retired	4	work, family
+return	1	travel, general
+return	2	travel, transportation
+return	3	shopping, business
+return	4	shopping, business
+return	5	media, business
+return	6	business, shopping
+return	7	social, business
+return	8	science, music
+return	9	sports
+return	10	sports, competition
+return	11	sports
+return	12	home, general
+return	13	construction, design
+return	14	travel, general
+return	15	finance, business
+return	16	finance, business
+return	17	government, business
+return	18	politics, government
+return	19	health, leisure
+return	20	travel, general
+return	21	shopping, finance
+return	22	shopping, general
+return	23	science, sports
+return	24	communication, friendship
+return	25	communication, literature
+return	26	home, general
+return	27	law
+return	28	business, government
+return	29	politics, government
+return	30	entertainment, leisure
+reveal	1	communication, media
+reveal	2	crime, general
+review	1	law
+review	2	military
+review	3	general
+review	4	literature, media
+review	5	media, literature
+review	6	law
+review	7	education, literature
+review	8	military
+review	9	general
+review	10	literature, media
+review	11	literature, media
+revise	1	education, work
+revise	2	media, law
+revolution	1	engineering, general
+revolution	2	science
+revolution	3	politics, history
+reward	1	work, social
+reward	2	crime, money
+reward	3	law, finance
+reward	4	work, education
+rhythm	1	music, literature
+rhythm	2	music, sports
+rice	1	food, farming
+rice	2	plants, farming
+rich	1	money, finance
+rich	2	nature, general
+rich	3	appearance, money
+rich	4	food, cooking
+rich	5	arts, music
+rich	6	entertainment, general
+rid	1	general
+ride	1	leisure, travel
+ride	2	transportation, nature
+ride	3	military
+ride	4	sports, animals
+ride	5	sports, animals
+ride	6	transportation, travel
+ride	7	travel, nature
+ride	8	transportation
+ride	9	general
+ride	10	sports
+ride	11	sports, farming
+ride	12	sports, travel
+ride	13	sports, animals
+ride	14	sports, animals
+ride	15	feelings, psychology
+ride	16	nature, travel

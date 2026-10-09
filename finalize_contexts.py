@@ -90,7 +90,7 @@ words = json.loads(Path('words_data.json').read_text(encoding='utf-8'))
 miss_words = []
 for w in words:
     for m in w['meanings']:
-        if (w['word'], m['meaning']) not in final:
+        if m['meaning'] not in final.get(w['word'], {}):
             missing.append({'word': w['word'], 'meaning': m['meaning'],
                             'reason': 'not in any run'})
 
